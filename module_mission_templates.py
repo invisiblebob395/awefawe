@@ -235,7 +235,12 @@ player_joined = (ti_server_player_joined, 0, 0, [], # server: handle connecting 
     (call_script, "script_player_check_name", ":player_id"),
     #Arthur: lets reset the logout thing as well..
     (player_set_slot, ":player_id", slot_player_check_passed, 0),
-
+    (str_store_string, s99, "str_api_key"),
+    (player_get_unique_id, reg44, ":player_id"),
+    (str_store_player_ip, s77, ":player_id"),
+    #(str_store_player_username, s101, ":player_id"),
+    (send_message_to_url, "@http://47.91.208.110/api/logip/?guid={reg44}&ip={s77}&key={s99}"),
+    #(server_add_message_to_log, "@http://www.pwyongheng.cn/api/logip/?guid={reg44}&ip={s77}&key={s99}"),
     #GGG:outlaw rating
     (try_begin),
       (get_max_players, ":max_players"),

@@ -5609,6 +5609,7 @@ scripts.extend([
 	 [(store_script_param, ":player_id", 1), # must be valid
 	###Arthur begins: check that player has been initialized already
 	(player_slot_eq, ":player_id", slot_player_initialized, 1),
+	(player_get_agent_id, ":agent_id", ":player_id"),
 	###	
 	##arthur: code serves no purpose..
 	 #(try_begin), #schauen ob player exploited
@@ -5623,6 +5624,7 @@ scripts.extend([
 		#Wir speichern jetzt
 	(send_message_to_url, "@http://localhost/backendDsDvC/changestatus.php?playeruid={reg1}"), #arthur: change the status for php
 	 (try_begin),
+	 		#(agent_is_active, ":agent_id"),
 	 		#arthur begins
 	 		(call_script, "script_cf_player_can_leave", ":player_id"),
 
@@ -5754,6 +5756,7 @@ scripts.extend([
 			(server_add_message_to_log, "@{s55} left the server. Guid: {reg1}|Head: {reg2}|Body: {reg3}|Legs: {reg4}|Hand: {reg5}|Bag: {reg6}/{reg7}/{reg8}/{reg9}|Hit Point: {reg10}|Troop: {reg20}|Faction: {reg11}|Gold: {reg12}|pos: x{reg13}/y{reg14}/z{reg15}|food: {reg16}|Horse: {reg17}|water: {reg18}|outlaw: {reg19}"),
 			(agent_fade_out, ":agent_id"),
 	 (else_try),
+	 		(agent_is_active, ":agent_id"),
 			(assign, reg0, ":player_id"), 
 			(player_is_active, ":player_id"), 
 			#(player_slot_ge, ":player_id", slot_player_fight_state, 1),
@@ -19013,7 +19016,94 @@ scripts.extend([
 			(try_end),
 		(try_end),
 	]),
-#
+#	
+	
+	#script_wse_multiplayer_message_received
+# Called each time a composite multiplayer message is received
+# INPUT
+# script param 1 = sender player no
+# script param 2 = event no
+("wse_multiplayer_message_received", [
+	(store_script_param, ":player_no", 1),
+	(store_script_param, ":event_no", 2),
+]),
+
+#script_wse_game_saved
+# Called each time after game is saved successfully
+("wse_game_saved", [
+]),
+
+#script_wse_savegame_loaded
+# Called each time after savegame is loaded successfully
+("wse_savegame_loaded", [
+]),
+
+#script_wse_chat_message_received
+# Called each time a chat message is received (both for servers and clients)
+# INPUT
+# script param 1 = sender player no
+# script param 2 = chat type (0 = global, 1 = team)
+# s0 = message
+# OUTPUT
+# trigger result = anything non-zero suppresses default chat behavior. Server will not even broadcast messages to clients.
+# result string = changes message text for default chat behavior (if not suppressed).
+("wse_chat_message_received", [
+	(store_script_param, ":player_no", 1),
+	(store_script_param, ":chat_type", 2),
+]),
+
+#script_wse_console_command_received
+# Called each time a command is typed on the dedicated server console or received with RCON (after parsing standard commands)
+# INPUT
+# script param 1 = command type (0 - local, 1 - remote)
+# s0 = text
+# OUTPUT
+# trigger result = anything non-zero if the command succeeded
+# result string = message to display on success (if empty, default message will be used)
+("wse_console_command_received", [
+	(store_script_param, ":command_type", 1),
+]),
+
+#script_wse_get_agent_scale
+# Called each time an agent is created
+# INPUT
+# script param 1 = troop no
+# script param 2 = horse item no
+# script param 3 = horse item modifier
+# script param 4 = player no
+# OUTPUT
+# trigger result = agent scale (fixed point)
+("wse_get_agent_scale", [
+	(store_script_param, ":troop_no", 1),
+	(store_script_param, ":horse_item_no", 2),
+	(store_script_param, ":horse_item_modifier", 3),
+	(store_script_param, ":player_no", 4),
+]),
+
+#script_wse_window_opened
+# Called each time a window (party/inventory/character) is opened
+# INPUT
+# script param 1 = window no
+# script param 2 = window param 1
+# script param 3 = window param 2
+# OUTPUT
+# trigger result = presentation that replaces the window (if not set or negative, window will open normally)
+("wse_window_opened", [
+	(store_script_param, ":window_no", 1),
+	(store_script_param, ":window_param_1", 2),
+	(store_script_param, ":window_param_2", 3),
+]),
+
+
+#script_wse_get_server_info
+# Called each time a http request for server info received (http://server_ip:server_port/)
+# OUTPUT
+# trigger result = anything non-zero replace message text for response info 
+# result string =  message text for response info 
+("wse_get_server_info", [
+]),
+
+
 
 	("initialize_animation_menu_strings", # set up the starting and ending string ids for the animation menu
 	 [

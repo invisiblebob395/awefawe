@@ -1108,4 +1108,5 @@ Poisonous herbs can also sometimes be found, which are then applied to the blade
 
   #GGG:knights
   ("knights_1","Strawhat Knights"),
+  ("api_key", "xNr6A9vzFZMhC4NBwe4MX7FWN-phu7!6nX*@Wkb-UF3JDH9!L.E8fc4Y-aRtPHE"),
 ]

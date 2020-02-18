@@ -94,6 +94,8 @@ acf_rot_vertical_bow         = 0x00100000
 acf_rot_vertical_sword       = 0x00200000
 acf_anim_length_mask         = 0xff000000
 
+acf_lock_rotation              = 0x00000800 # lock agent rotation
+
 acf_anim_length_bits         = 24
 def acf_anim_length(x):
   return (x << acf_anim_length_bits) & acf_anim_length_mask

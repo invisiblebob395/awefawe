@@ -2303,7 +2303,7 @@ itm_wall_banner("fac_8", "b"),
 ["surcoat_over_mail_skin14", "Surcoat over Mail15", [("florisiv",0)], itp_type_body_armor|itp_covers_legs, 0, 5620, weight(22)|body_armor(43)|leg_armor(14)|difficulty(13), imodbits_armor],
 ["surcoat_over_mail_skin15", "Surcoat over Mail16", [("longshanks",0)], itp_type_body_armor|itp_covers_legs, 0, 5620, weight(22)|body_armor(43)|leg_armor(14)|difficulty(13), imodbits_armor],
 ["surcoat_over_mail_skin16", "Surcoat over Mail17", [("bigod",0)], itp_type_body_armor|itp_covers_legs, 0, 5620, weight(22)|body_armor(43)|leg_armor(14)|difficulty(13), imodbits_armor],
-["surcoat_over_mail_skin17", "Surcoat over Mail18", [("teutonic",0)], itp_type_body_armor|itp_covers_legs, 0, 5620, weight(22)|body_armor(43)|leg_armor(14)|difficulty(13), imodbits_armor],
+["surcoat_over_mail_skin17", "Surcoat over Mail18", [("teutonic",0)], itp_type_body_armor|itp_covers_legs, 0, 5620, weight(22)|body_armor(43)|leg_armor(14)|difficulty(0), imodbits_armor],
 
 ["plate_armor_skin", "Plate Armor1", [("ak_full_plate_armor",0)], itp_type_body_armor|itp_covers_legs, 0, 35030, weight(30)|body_armor(55)|leg_armor(17)|difficulty(15), imodbits_plate],
 ["plate_armor_skin1", "Plate Armor2", [("agincourt_plate",0)], itp_type_body_armor|itp_covers_legs, 0, 35030, weight(30)|body_armor(55)|leg_armor(17)|difficulty(15), imodbits_plate],

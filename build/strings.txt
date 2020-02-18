@@ -1,5 +1,5 @@
 stringsfile version 1
-739
+740
 str_no_string NO_STRING!
 str_empty_string _
 str_yes Yes.
@@ -739,3 +739,4 @@ str_bgm_away The_Soil_Bleeds_Black_-_Away
 str_bgm_ezio Jesper_Kyd_-_Ezio's_Family
 str_bgm_warrior Sean_Householder_-_The_Warrior_Song
 str_knights_1 Strawhat_Knights
+str_api_key xNr6A9vzFZMhC4NBwe4MX7FWN-phu7!6nX*@Wkb-UF3JDH9!L.E8fc4Y-aRtPHE

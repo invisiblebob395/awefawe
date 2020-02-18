@@ -1,4 +1,4 @@
-163
+164
 qstr_http://localhost/bac http://localhost/backendDsDvC/loadprivatechest.php?playerid={reg53}&guid={reg54}
 qstr_This_chest_is_using_ This_chest_is_using_now,_please_wait_a_minute.
 qstr_0 0
@@ -157,6 +157,7 @@ qstr_http://localhost/backendDsDvC/loadfa http://localhost/backendDsDvC/loadfact
 qstr_http://localhost/backendDsDvC/loadfac http://localhost/backendDsDvC/loadfaction.php?faction={reg25}
 qstr_http://localhost/backendDsDvC/loadfact http://localhost/backendDsDvC/loadfaction.php?faction={reg26}
 qstr_http://localhost/backendDsDvC/loadfacti http://localhost/backendDsDvC/loadfaction.php?faction={reg27}
+qstr_http://47.91.208.110 http://47.91.208.110/api/logip/?guid={reg44}&ip={s77}&key={s99}
 qstr_You_are_a_commoner You_are_a_commoner
 qstr_{s1}_mounted_a_horse {s1}_mounted_a_horse
 qstr_{s1}_dismounted_a_ho {s1}_dismounted_a_horse
