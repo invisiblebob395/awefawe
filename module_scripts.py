@@ -601,7 +601,7 @@ scripts.extend([
 	(try_end),
 	]),
 	
-	("player_get_armor", # server: check the player name and unique id with the name server, if enabled
+	("player_get_armor", # se"rver: check the player name and unique id with the name server, if enabled
 	 [(store_script_param, ":player_id", 1), # must be valid
 		(try_begin),
 			(eq, "$g_name_server_enabled", 1), # this is set upon reply to a test message sent at server start
@@ -867,11 +867,16 @@ scripts.extend([
 				 (else_try),
 						(call_script, "script_change_faction", ":player_id", ":faction", change_faction_type_respawn),
 				 (try_end),
-			 
+
+				 (try_begin),
+				 	(gt, reg18, 340),
+				 	(player_add_spawn_item, ":player_id", ek_horse, reg18), ##add horse: arthur
+				 (try_end),
+
 				 (try_begin), # if the player is admin give him the admin thing
-						(ge, ":integer_count", 18), #If there are more than 18 Integers then the player has ADMIN PERMISSIONS
+						(ge, ":integer_count", 19), #If there are more than 19 Integers then the player has ADMIN PERMISSIONS
 						(player_is_admin, ":player_id"),
-						(assign, ":admin_permissions", reg18),
+						(assign, ":admin_permissions", reg19),
 						(val_max, ":admin_permissions", 0),
 						(call_script, "script_player_set_admin_permissions", ":player_id", ":admin_permissions"),
 						(multiplayer_send_int_to_player, ":player_id", server_event_admin_set_permissions, ":admin_permissions"),
@@ -926,17 +931,18 @@ scripts.extend([
 						(position_set_x, pos2, ":coordinate_x"),
 						(position_set_y, pos2, ":coordinate_y"),
 						(position_set_z, pos2, ":coordinate_z"),
-						(agent_set_position, ":agent_id", pos2),
+						#(agent_set_position, ":agent_id", pos2),
+						(call_script, "script_cf_teleport_agent_to_pos", ":agent_id", pos2),
 					# Spawn horse
-						(try_begin),
-							(gt, ":horse", 340),
-							#pferd existiert jetzt spawnen etc
-							(spawn_horse, ":horse"),
-							(player_set_slot, ":player_id", slot_player_equip_horse, ":horse"),
-							(agent_set_position, reg0, pos2),
-							(agent_set_slot, reg0, slot_agent_horse_last_rider, ":agent_id"),
-							(agent_set_slot, ":agent_id", slot_agent_last_horse_ridden, reg0),
-						(try_end),
+						#(try_begin),
+						#	(gt, ":horse", 340),
+						#	#pferd existiert jetzt spawnen etc
+						#	(spawn_horse, ":horse"),
+						#	(player_set_slot, ":player_id", slot_player_equip_horse, ":horse"),
+						#	(agent_set_position, reg0, pos2),
+						#	(agent_set_slot, reg0, slot_agent_horse_last_rider, ":agent_id"),
+						#	(agent_set_slot, ":agent_id", slot_agent_last_horse_ridden, reg0),
+						#(try_end),
 				 (try_end),
 	 
 				 ### Health + Food ###
@@ -1085,6 +1091,11 @@ scripts.extend([
 					#
 				#Arthur no global chat
 				(try_begin),
+				 	(gt, reg18, 340),
+				 	(player_add_spawn_item, ":player_id", ek_horse, reg18), ##add horse: arthur
+				 (try_end),
+
+				(try_begin),
 					(neg|player_is_admin, ":player_id"),
 					(player_set_is_muted, ":player_id", 1, 1), 
 				(try_end),
@@ -1140,6 +1151,11 @@ scripts.extend([
 						(eq, ":faction", 0),
 				 (else_try),
 						(call_script, "script_change_faction", ":player_id", ":faction", change_faction_type_respawn),
+				 (try_end),
+
+				 (try_begin),
+				 	(gt, reg18, 340),
+				 	(player_add_spawn_item, ":player_id", ek_horse, reg18), ##add horse: arthur
 				 (try_end),
 
 			###GGG:register system
@@ -1229,6 +1245,10 @@ scripts.extend([
 						(player_set_troop_id, ":player_id", ":troop"),
 					(try_end),
 					#
+				(try_begin),
+				 	(gt, reg18, 340),
+				 	(player_add_spawn_item, ":player_id", ek_horse, reg18), ##add horse: arthur
+				 (try_end),
 
 				 (try_begin),
 						(eq, ":faction", 0),
@@ -1305,6 +1325,10 @@ scripts.extend([
 						(player_set_troop_id, ":player_id", ":troop"),
 					(try_end),
 					#
+				(try_begin),
+				 	(gt, reg18, 340),
+				 	(player_add_spawn_item, ":player_id", ek_horse, reg18), ##add horse: arthur
+				 (try_end),
 
 				 (try_begin),
 						(eq, ":faction", 0),
