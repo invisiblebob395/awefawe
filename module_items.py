@@ -705,7 +705,7 @@ items = [
 ["glaive", "Glaive", [("glaive_b",0)], itp_type_polearm|itp_cant_use_on_horseback|itp_primary|itp_two_handed|itp_wooden_parry, itc_staff|itcf_carry_spear,
  1752, weight(2.5)|difficulty(14)|spd_rtng(90)|weapon_length(157)|swing_damage(39, cut)|thrust_damage(21, pierce), imodbits_polearm],
 ["staff", "Staff", [("wooden_staff",0)], itp_type_polearm|itp_offset_lance|itp_primary|itp_penalty_with_shield|itp_wooden_parry|itp_wooden_attack, itc_staff|itcf_carry_sword_back,
- 160, weight(1.5)|difficulty(8)|spd_rtng(98)|weapon_length(128)|swing_damage(15, blunt)|thrust_damage(12, blunt), imodbits_polearm],
+ 160, weight(1.5)|difficulty(8)|spd_rtng(98)|weapon_length(128)|swing_damage(5, blunt)|thrust_damage(5, blunt), imodbits_polearm],
 ["quarter_staff", "Quarter Staff", [("quarter_staff",0)], itp_type_polearm|itp_offset_lance|itp_primary|itp_wooden_parry|itp_wooden_attack, itc_staff|itcf_carry_sword_back,
  220, weight(2.0)|difficulty(8)|spd_rtng(97)|weapon_length(137)|swing_damage(18, blunt)|thrust_damage(13, blunt), imodbits_polearm],
 ["iron_staff", "Iron Staff", [("iron_staff",0)], itp_type_polearm|itp_offset_lance|itp_primary, itc_staff|itcf_carry_sword_back,
@@ -2547,6 +2547,193 @@ itm_wall_banner("fac_8", "b"),
 ["charger_skin7", "Charger8", [("charger2",0)], itp_type_horse, 0, 8640, hit_points(165)|body_armor(58)|difficulty(4)|horse_speed(43)|horse_maneuver(44)|horse_charge(32)|horse_scale(112), imodbits_none],
 
 ["courser_skin", "Courser1", [("ak_courser",0)], itp_type_horse, 0, 3670, hit_points(110)|body_armor(12)|difficulty(3)|horse_speed(50)|horse_maneuver(44)|horse_charge(12)|horse_scale(106), imodbits_none],
+
+["cw_plate_falcon_hood", "cw_plate_falcon_hood", [("plate_falcon_hood",0)], itp_merchandise| itp_type_head_armor|itp_covers_head,0, 980 , weight(2.75)|abundance(100)|head_armor(53)|body_armor(0)|leg_armor(0)|difficulty(14) ,imodbits_plate ],
+["cw_greataxe_adjudgment","cw_greataxe_adjudgment", [("greataxe_adjudgment",0)], itp_type_two_handed_wpn|itp_two_handed|itp_cant_use_on_horseback|itp_primary|itp_bonus_against_shield|itp_unbalanced, itc_nodachi|itcf_carry_axe_back,
+3500 , weight(5.0)|difficulty(15)|spd_rtng(89) | weapon_length(120)|swing_damage(50 , cut) | thrust_damage(0 ,  pierce),imodbits_axe ],
+
+	
+["cw_shhuzhi_shield","cw_shhuzhi_shield", [("KTS125",0)], itp_merchandise|itp_type_shield, itcf_carry_round_shield,  697 , weight(3.50)|hit_points(700)|body_armor(30)|spd_rtng(75)|shield_width(90),imodbits_shield ],			
+	  
+["cw_yanyuedao","cw_yanyuedao", [("yanyuedao",0)], itp_type_polearm|itp_merchandise| itp_primary|itp_two_handed|itp_penalty_with_shield|itp_wooden_parry, itcf_carry_spear|itc_guandao,
+ 8202 , weight(4.00)|difficulty(15)|spd_rtng(87) | weapon_length(173)|swing_damage(37 , cut) | thrust_damage(20 ,  pierce),imodbits_polearm ],
+	  
+	  
+["cw_knight_mace", "cw_knight_mace", [("weapons_mace",0)], itp_type_one_handed_wpn|itp_can_knock_down|itp_merchandise| itp_primary|itp_wooden_parry, itc_scimitar|itcf_carry_mace_left_hip, 
+26216 , weight(3)|difficulty(15)|spd_rtng(96) | weapon_length(88)|swing_damage(35 , blunt) | thrust_damage(0 ,  pierce),imodbits_mace ],
+["cw_ba_knight_long_axe", "cw_ba_knight_long_axe", [("ba_knight_axe",0)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_parry, itc_scimitar|itcf_carry_axe_left_hip,
+ 2621 , weight(4)|difficulty(15)|spd_rtng(100) | weapon_length(89)|swing_damage(37 , cut) | thrust_damage(0 ,  pierce),imodbits_axe ],
+	  
+
+["cw_gudar_fist_x",         "cw_gudar_fist_x", [("Gudar_Fist_x",0)], itp_type_two_handed_wpn|itp_cant_use_on_horseback|itp_merchandise|itp_can_knock_down|itp_primary|itp_two_handed|itp_wooden_parry|itp_wooden_attack|itp_unbalanced, itc_nodachi|itcf_carry_sword_back, 
+2621 , weight(6)|difficulty(15)|spd_rtng(60) | weapon_length(121)|swing_damage(45 , blunt) | thrust_damage(0 ,  pierce),imodbits_mace ],
+	  
+
+	  
+ 
+ ["cw_corprus_flamberg",         "cw_corprus_flamberg", [("corprus_flamberg_2h",0)], itp_type_two_handed_wpn|itp_merchandise| itp_two_handed|itp_primary, itc_greatsword|itcf_carry_sword_back,
+ 1556 , weight(3.75)|difficulty(15)|spd_rtng(98) | weapon_length(125)|swing_damage(43 , cut) | thrust_damage(33 ,  pierce),imodbits_sword_high ],
+ 
+ 
+["cw_ironcramp_staff",         "cw_ironcramp_staff", [("ironcramp_staff_carry_px",0)], itp_type_polearm|itp_offset_lance|itp_merchandise| itp_primary, itc_staff|itcf_carry_sword_back,
+ 8202 , weight(3)|difficulty(12)|spd_rtng(98) | weapon_length(140)|swing_damage(29 , blunt) | thrust_damage(28 ,  blunt),imodbits_polearm ],  
+
+["cw_trtd", "cw_trtd", [("trtd",0)], itp_type_one_handed_wpn|itp_merchandise|itp_primary, itc_scimitar|itcf_carry_sword_left_hip,
+ 2459 , weight(1.75)|difficulty(15)|spd_rtng(116) | weapon_length(101)|swing_damage(39 , cut) | thrust_damage(0 ,  pierce),imodbits_sword_high ],
+		
+		
+["cw_falcon_heavy_lance",         "cw_falcon_heavy_lance", [("corprus_falcon_heavy_lance",0)], itp_couchable|itp_type_polearm|itp_merchandise| itp_primary|itp_penalty_with_shield|itp_wooden_parry, itc_greatlance, 
+ 1500 , weight(6)|difficulty(15)|spd_rtng(70) | weapon_length(190)|swing_damage(0 , cut) | thrust_damage(38 ,  pierce),imodbits_polearm ],
+
+
+["cw_falcon_kite_shield","cw_falcon_kite_shield", [("corprus_falcon_kite_shield",0)], itp_merchandise|itp_type_shield, itcf_carry_round_shield,  1277 , weight(2.50)|hit_points(640)|body_armor(30)|spd_rtng(70)|shield_width(90),imodbits_shield ],		
+
+
+	
+
+	
+	 ["cw_galloping_rainbow","cw_galloping_rainbow", [("galloping_rainbow",0)], itp_merchandise|itp_type_horse, 0, 1811,abundance(40)|hit_points(175)|body_armor(42)|difficulty(4)|horse_speed(55)|horse_maneuver(47)|horse_charge(28)|horse_scale(112),imodbits_horse_basic|imodbit_champion],
+
+
+
+
+	 
+	  
+	  	 ["cw_giant_dargon","cw_giant_dargon", [("dragonhorse",0)], itp_merchandise|itp_type_horse, 0, 1811,abundance(40)|hit_points(175)|body_armor(42)|difficulty(4)|horse_speed(55)|horse_maneuver(47)|horse_charge(28)|horse_scale(112),imodbits_horse_basic|imodbit_champion],
+	  
+
+
+
+	  	 ["cw_courser_dh_armor","cw_courser_dh_armor", [("courser_dh_armor",0)], itp_merchandise|itp_type_horse, 0, 1811,abundance(40)|hit_points(205)|body_armor(60)|difficulty(4)|horse_speed(40)|horse_maneuver(45)|horse_charge(40)|horse_scale(112),imodbits_horse_basic|imodbit_champion],
+
+
+
+	  	 ["cw_iron_pagoda","cw_iron_pagoda", [("horse6",0)], itp_merchandise|itp_type_horse, 0, 1811,abundance(40)|hit_points(210)|body_armor(63)|difficulty(4)|horse_speed(38)|horse_maneuver(42)|horse_charge(40)|horse_scale(112),imodbits_horse_basic|imodbit_champion],
+
+		 
+		 
+		 
+	["cw_helm_invisible", "cw_helm_invisible", [("invalid_item",0)], itp_type_head_armor | itp_doesnt_cover_hair,0, 3098 , weight(2.5)|abundance(100)|head_armor(50)|body_armor(0)|leg_armor(0)|difficulty(10) ,imodbits_plate ],
+
+	
+	
+	
+	
+
+
+
+ ["cw_armor8", "cw_Assassin_Leather", [("armor8",0)], itp_type_body_armor|itp_covers_legs, 0,
+ 7900, weight(12)|body_armor(37)|leg_armor(13)|difficulty(14), imodbits_armor],
+
+
+  ["cw_assassin_gloves", "cw_Assassin_Gloves", [("glove4_L",0)], itp_type_hand_armor, 0,
+ 2320, weight(0.75)|body_armor(3)|difficulty(11), imodbits_armor],
+
+
+
+  ["cw_boot7", "cw_Assassin_Boots", [("boot7", 0)], itp_type_foot_armor|itp_attach_armature, 0,
+ 8, weight(1)|leg_armor(20)|difficulty(0), imodbits_cloth],
+
+
+  ["cw_dmsg_steel_armor", "cw_Damascus_Steel_Armor", [("armor20",0)], itp_type_body_armor|itp_covers_legs, 0,
+ 7900, weight(32)|body_armor(60)|leg_armor(20)|difficulty(15), imodbits_armor],
+
+
+  ["cw_dmsg_steel_greaves", "cw_Damascus_Steel_Greaves", [("boot5", 0)], itp_type_foot_armor|itp_attach_armature, 0,
+ 8, weight(1)|leg_armor(38)|difficulty(15), imodbits_cloth],
+
+
+
+  ["cw_dmsg_steel_gauntlets", "cw_Damascus_Steel_Gauntlets", [("hourglass_gauntlets_L",0)], itp_type_hand_armor, 0,
+ 2320, weight(1)|body_armor(7)|difficulty(11), imodbits_armor],
+
+
+  ["cw_kof_cpt_helm", "cw_Knight_of_Freedom's_Helmet", [("kof_cpt_helm",0)], itp_type_head_armor|itp_covers_beard, 0,
+ 7012, weight(3)|head_armor(55)|difficulty(15), imodbits_plate],
+
+
+
+  ["cw_kof_cpt_armor", "cw_kof_cpt_armor", [("kof_cpt_armor",0)], itp_type_body_armor|itp_covers_legs, 0,
+ 7900, weight(24)|body_armor(57)|leg_armor(18)|difficulty(15), imodbits_armor],
+
+
+  ["cw_kof_cpt_gauntlets", "cw_Knight_Gauntlets", [("kof_cpt_glove_L",0)], itp_type_hand_armor, 0,
+ 2320, weight(2.25)|body_armor(12)|difficulty(7), imodbits_armor],
+
+
+
+  ["cw_kof_cpt_greaves", "cw_Knight_of_Freedom's_Greaves", [("kof_cpt_greaves", 0)], itp_type_foot_armor|itp_attach_armature, 0,
+ 8, weight(3.75)|leg_armor(35)|difficulty(15), imodbits_cloth],
+
+
+
+
+  ["cw_plate_falcon", "cw_Falcon_Armor", [("plate_falcon",0)], itp_type_body_armor|itp_covers_legs, 0,
+ 7900, weight(24)|body_armor(55)|leg_armor(16)|difficulty(15), imodbits_armor],
+
+
+ ["cw_plate_boots_falcon", "cw_Plate_boots_falcon", [("plate_boots_falcon", 0)], itp_type_foot_armor|itp_attach_armature, 0,
+ 8, weight(1)|leg_armor(35)|difficulty(15), imodbits_cloth],
+
+
+
+  ["cw_falcon_gauntlets", "cw_Falcon_Gauntlets", [("plate_falcon_fist_L",0)], itp_type_hand_armor, 0,
+ 2320, weight(2)|body_armor(11)|difficulty(7), imodbits_armor],
+
+
+
+  ["cw_leader_helmet", "cw_Leader_Helmet", [("leader_helmet",0)], itp_type_head_armor|itp_covers_beard, 0,
+ 7012, weight(3)|head_armor(50)|difficulty(15), imodbits_plate],
+
+
+
+ ["cw_armor12", "cw_Knight_FullArmore", [("armor12",0)], itp_type_body_armor|itp_covers_legs, 0,
+ 7900, weight(24)|body_armor(55)|leg_armor(16)|difficulty(15), imodbits_armor],
+
+
+
+ ["cw_knight_gauntlets_qs", "cw_knight_gauntlets_qs", [("glove1_L",0)], itp_type_hand_armor, 0,
+ 2320, weight(2)|body_armor(12)|difficulty(14), imodbits_armor],
+
+
+
+ ["cw_boot3", "cw_boot3", [("boot3", 0)], itp_type_foot_armor|itp_attach_armature, 0,
+ 8, weight(1)|leg_armor(34)|difficulty(15), imodbits_cloth],
+
+
+  ["cw_steppe_cap_heavy", "cw_steppe_cap_heavy", [("tattered_steppe_cap_heavy",0)], itp_type_head_armor|itp_covers_beard, 0,
+ 7012, weight(2.75)|head_armor(54)|difficulty(15), imodbits_plate],
+
+
+ ["cw_steppe_mask_heavy", "cw_steppe_mask_heavy", [("tattered_steppe_helmet_heavy_z",0)], itp_type_head_armor|itp_covers_beard, 0,
+ 7012, weight(2.75)|head_armor(55)|difficulty(15), imodbits_plate],
+
+
+
+
+  ["cw_lamellar_armor_dc", "cw_Heavy_Lamellar_Armor", [("tattered_steppe_armor_heavy",0)], itp_type_body_armor|itp_covers_legs, 0,
+ 7900, weight(24)|body_armor(53)|leg_armor(18)|difficulty(15), imodbits_armor],
+
+
+
+  ["cw_steppe_glove_hav", "cw_Steppe_Gauntlets", [("glove_hav_L",0)], itp_type_hand_armor, 0,
+ 2320, weight(0.75)|body_armor(5)|difficulty(11), imodbits_armor],
+
+ 
+ 
+ 
+["cw_nanguatou_had", "cw_nanguatou_had", [("nanguatou_f",0)], itp_merchandise| itp_type_head_armor|itp_covers_head,0, 980 , weight(1)|abundance(100)|head_armor(48)|body_armor(0)|leg_armor(0)|difficulty(12) ,imodbits_plate ],
+
+ 
+ 
+
+
+ 
+ ["cw_nanhguabis", "cw_nanhguabis", [("nanguatou_G",0)], itp_type_one_handed_wpn|itp_primary|itp_no_parry, itc_dagger|itcf_carry_quiver_right_vertical,
+ 800, weight(2.0)|spd_rtng(60)|swing_damage(5,blunt)|thrust_damage(5,blunt)|weapon_length(20), imodbits_none, ],
+ 
+ 
+
 
 ["all_items_end", "all_items_end", [("invisible",0)], itp_no_pick_up_from_ground, 0, 0, 0, 0],
 ["pointer_arrow", "pointer_arrow", [("pointer_arrow",0)], itp_no_pick_up_from_ground, 0, 0, 0, 0],

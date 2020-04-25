@@ -1,0 +1,1239 @@
+  6,Tattered Headcloth,itm_tattered_headcloth,12
+  7,Ragged Woolen Cap,itm_ragged_woolen_cap,12
+  8,Stained Felt Hat,itm_stained_felt_hat_b,12
+  9,Straw Hat,itm_straw_hat,12
+ 10,Head Wrapping,itm_head_wrappings,12
+ 11,Headcloth,itm_headcloth,12
+ 12,Woolen Cap,itm_woolen_cap,12
+ 13,Felt Hat,itm_sarranid_felt_hat,12
+ 14,Head Cloth,itm_sarranid_felt_head_cloth,12
+ 15,Head Cloth,itm_sarranid_felt_head_cloth_b,12
+ 16,Crown of Flowers,itm_bride_crown,12
+ 17,Blue Head Scarf,itm_khergit_lady_hat,12
+ 18,Leather Head Scarf,itm_khergit_lady_hat_b,12
+ 19,Lady Head Cloth,itm_sarranid_head_cloth,12
+ 20,Lady Head Cloth,itm_sarranid_head_cloth_b,12
+ 21,Wimple,itm_wimple_a,12
+ 22,Wimple,itm_wimple_b,12
+ 23,Barbette,itm_barbette,12
+ 24,Arming Cap,itm_arming_cap,12
+ 25,Woolen Hood,itm_ladys_hood,12
+ 26,Fur Hat,itm_fur_hat,12
+ 27,Felt Hat,itm_felt_hat,12
+ 28,Felt Hat,itm_felt_hat_b,12
+ 29,Leather Cap,itm_leather_cap,12
+ 30,Hood,itm_common_hood,12
+ 31,Hood,itm_hood_b,12
+ 32,Hood,itm_hood_c,12
+ 33,Hood,itm_hood_d,12
+ 34,Nomad Cap,itm_nomad_cap,12
+ 35,Nomad Cap,itm_nomad_cap_b,12
+ 36,Black Hood,itm_black_hood,12
+ 37,Surgeon's Coif,itm_surgeon_coif,12
+ 38,Pilgrim Hood,itm_pilgrim_hood,12
+ 39,Priestly Coif,itm_priest_coif,12
+ 40,Padded Coif,itm_padded_coif,12
+ 41,Turban,itm_turban,12
+ 42,Steppe Cap,itm_leather_steppe_cap_a,12
+ 43,Steppe Cap,itm_leather_steppe_cap_b,12
+ 44,Leather Helmet,itm_nordic_archer_helmet,12
+ 45,Cap with Fur,itm_vaegir_fur_cap,12
+ 46,Steppe Cap,itm_steppe_cap,12
+ 47,Leather Warrior Cap,itm_leather_warrior_cap,12
+ 48,Turban with Warrior Cap,itm_sarranid_warrior_cap,12
+ 49,Leather Helmet,itm_nordic_veteran_archer_helmet,12
+ 50,Skullcap,itm_skullcap,12
+ 51,Fur Helmet,itm_vaegir_fur_helmet,12
+ 52,Bishop's Mitre,itm_bishop_mitre,12
+ 53,Mail Coif,itm_mail_coif,12
+ 54,Footman's Helmet,itm_footman_helmet,12
+ 55,Horseman Helmet,itm_sarranid_horseman_helmet,12
+ 56,Nasal Helmet,itm_nasal_helmet,12
+ 57,Helmet with Cap,itm_norman_helmet,12
+ 58,Footman Helmet,itm_nordic_footman_helmet,12
+ 59,War Helmet,itm_khergit_war_helmet,12
+ 60,Segmented Helmet,itm_segmented_helmet,12
+ 61,Spiked Cap,itm_vaegir_spiked_helmet,12
+ 62,Helmet with Neckguard,itm_helmet_with_neckguard,12
+ 63,Flat Topped Helmet,itm_flat_topped_helmet,12
+ 64,Fighter Helmet,itm_nordic_fighter_helmet,12
+ 65,Kettle Hat,itm_kettle_hat,12
+ 66,Keffiyeh Helmet,itm_sarranid_helmet1,12
+ 67,Helmet with Lamellar Guard,itm_vaegir_lamellar_helmet,12
+ 68,Spiked Helmet,itm_spiked_helmet,12
+ 69,Mail Coif,itm_sarranid_mail_coif,12
+ 70,Huscarl's Helmet,itm_nordic_huscarl_helmet,12
+ 71,Bascinet,itm_bascinet,12
+ 72,Bascinet with Aventail,itm_bascinet_2,12
+ 73,Bascinet with Nose Guard,itm_bascinet_3,12
+ 74,Nobleman Helmet,itm_vaegir_noble_helmet,12
+ 75,Guard Helmet,itm_guard_helmet,12
+ 76,Veiled Helmet,itm_sarranid_veiled_helmet,12
+ 77,War Helmet,itm_vaegir_war_helmet,12
+ 78,Warlord Helmet,itm_nordic_warlord_helmet,12
+ 79,Bishop's Helm,itm_bishop_helm,12
+ 80,Full Helm,itm_full_helm,12
+ 81,War Mask,itm_vaegir_mask,12
+ 82,War Mask,itm_vaegir_mask_b,12
+ 83,Great Helmet,itm_great_helmet,12
+ 84,Winged Great Helmet,itm_winged_great_helmet,12
+ 85,Black Helmet,itm_black_helmet,12
+ 86,Ragged Shirt,itm_ragged_shirt,13
+ 87,Old Coarse Tunic,itm_old_coarse_tunic,13
+ 88,Old Linen Tunic,itm_old_linen_tunic,13
+ 89,Ragged Leather Apron,itm_ragged_leather_apron,13
+ 90,Old Tabard,itm_old_tabard,13
+ 91,Shirt,itm_shirt,13
+ 92,Linen Tunic,itm_linen_tunic,13
+ 93,Black Robe,itm_black_robe,13
+ 94,Dress,itm_dress,13
+ 95,Blue Dress,itm_blue_dress,13
+ 96,Peasant Dress,itm_peasant_dress,13
+ 97,Woolen Dress,itm_woolen_dress,13
+ 98,Gray Dress,itm_sarranid_common_dress,13
+ 99,Brown Dress,itm_sarranid_common_dress_b,13
+100,Red Dress,itm_lady_dress_ruby,13
+101,Green Dress,itm_lady_dress_green,13
+102,Blue Dress,itm_lady_dress_blue,13
+103,Red Pattern Dress,itm_court_dress,13
+104,Red Dress,itm_red_dress,13
+105,Brown Dress,itm_brown_dress,13
+106,Green Dress,itm_green_dress,13
+107,Purple Dress,itm_sarranid_lady_dress,13
+108,Orange Dress,itm_sarranid_lady_dress_b,13
+109,Blue Dress,itm_khergit_lady_dress,13
+110,Leather Dress,itm_khergit_lady_dress_b,13
+111,Bride Dress,itm_bride_dress,13
+112,Tunic with Green Cape,itm_tunic_with_green_cape,13
+113,Rough Tunic,itm_rough_tunic,13
+114,Red Shirt,itm_red_shirt,13
+115,Pelt Coat,itm_pelt_coat,13
+116,Worn Robe,itm_sarranid_cloth_robe,13
+117,Worn Robe,itm_sarranid_cloth_robe_b,13
+118,Rawhide Coat,itm_rawhide_coat,13
+119,Tunic with Vest,itm_coarse_tunic,13
+120,Leather Apron,itm_leather_apron,13
+121,Fur Coat,itm_fur_coat,13
+122,Friar's Robe,itm_friar_robe,13
+123,Skirmisher Armor,itm_skirmisher_armor,13
+124,Rich Outfit,itm_rich_outfit,13
+125,Tabard,itm_tabard,13
+126,Tribesman Armor,itm_khergit_armor,13
+127,Leather Vest,itm_leather_vest_plain,13
+128,Heraldic Leather Vest,itm_leather_vest,13
+129,Leather Jacket,itm_leather_jacket,13
+130,Priestly Robes,itm_priest_robe,13
+131,Arena Tunic,itm_arena_tunic,13
+132,Leather Breastplate,itm_steppe_armor,13
+133,Leather Armor,itm_leather_armor,13
+134,Pilgrim Disguise,itm_pilgrim_disguise,13
+135,Red Gambeson,itm_red_gambeson,13
+136,Aketon,itm_padded_cloth,13
+137,Padded Cloth,itm_aketon_green,13
+138,Archer's Padded Vest,itm_archers_vest,13
+139,Nomad Vest,itm_nomad_vest,13
+140,Ragged Outfit,itm_ragged_outfit,13
+141,Surgeon's Coat,itm_surgeon_coat,13
+142,Nomad Armor,itm_nomad_armor,13
+143,Nomad Robe,itm_nomad_robe,13
+144,Light Leather,itm_light_leather,13
+145,Leather Jerkin,itm_leather_jerkin,13
+146,Padded Leather,itm_padded_leather,13
+147,Arena Armor,itm_arena_armor,13
+148,Tribal Warrior Outfit,itm_tribal_warrior_outfit,13
+149,Leather Armor,itm_sarranid_leather_armor,13
+150,Courtly Outfit,itm_courtly_outfit,13
+151,Nobleman Outfit,itm_nobleman_outfit,13
+152,Brown Mail Shirt,itm_sarranid_cavalry_robe,13
+153,Studded Leather Coat,itm_studded_leather_coat,13
+154,Byrnie,itm_byrnie,13
+155,Haubergeon,itm_haubergeon,13
+156,Guard Armor,itm_arabian_armor_b,13
+157,Lamellar Vest,itm_lamellar_vest,13
+158,Lamellar Vest,itm_lamellar_vest_khergit,13
+159,Mail Shirt,itm_mail_shirt,13
+160,Mail Hauberk,itm_mail_hauberk,13
+161,Orange Mail Shirt,itm_sarranid_mail_shirt,13
+162,Bishop's Armor,itm_bishop_armor,13
+163,Surcoat over Mail,itm_mail_with_surcoat,13
+164,Surcoat over Mail,itm_surcoat_over_mail,13
+165,Brigandine,itm_brigandine_red,13
+166,Mail Robe,itm_mamluke_mail,13
+167,Lamellar Armor,itm_lamellar_armor,13
+168,Scale Armor,itm_scale_armor,13
+169,Banded Armor,itm_banded_armor,13
+170,Cuir Bouilli,itm_cuir_bouilli,13
+171,Coat of Plates,itm_coat_of_plates,13
+172,Heraldic Coat of Plates,itm_coat_of_plates_red,13
+173,Heraldic Elite Armor,itm_khergit_elite_armor,13
+174,Elite Armor,itm_vaegir_elite_armor,13
+175,Elite Armor,itm_sarranid_elite_armor,13
+176,Plate Armor,itm_plate_armor,13
+177,Black Armor,itm_black_armor,13
+178,Light Heraldic Mail,itm_light_heraldic_mail,13
+179,Heraldic Mail with Tunic,itm_heraldic_mail_with_tunic,13
+180,Heraldic Mail with Tabard,itm_heraldic_mail_with_tabard,13
+181,Heraldic Mail with Surcoat,itm_heraldic_mail_with_surcoat,13
+182,Tattered Wrapping Boots,itm_tattered_wrapping_boots,14
+183,Ripped Woolen Hose,itm_ripped_woolen_hose,14
+184,Old Hide Boots,itm_old_hide_boots,14
+185,Wrapping Boots,itm_wrapping_boots,14
+186,Woolen Hose,itm_woolen_hose,14
+187,Friar's Sandals,itm_friar_sandals,14
+188,Blue Hose,itm_blue_hose,14
+189,Bride Shoes,itm_bride_shoes,14
+190,Priestly Leggings,itm_priest_leggings,14
+191,Pointed Shoes,itm_sarranid_boots_a,14
+192,Hunter Boots,itm_hunter_boots,14
+193,Hide Boots,itm_hide_boots,14
+194,Ankle Boots,itm_ankle_boots,14
+195,Nomad Boots,itm_nomad_boots,14
+196,Light Leather Boots,itm_light_leather_boots,14
+197,Leather Boots,itm_leather_boots,14
+198,Pointed Leather Boots,itm_sarranid_boots_b,14
+199,Black Leather Boots,itm_khergit_leather_boots,14
+200,Plated Boots,itm_sarranid_boots_c,14
+201,Splinted Leather Greaves,itm_splinted_leather_greaves,14
+202,Bishop's Chausses,itm_bishop_chausses,14
+203,Mail Chausses,itm_mail_chausses,14
+204,Splinted Greaves,itm_splinted_greaves,14
+205,Mail Boots,itm_sarranid_boots_d,14
+206,Mail Boots,itm_mail_boots,14
+207,Iron Greaves,itm_iron_greaves,14
+208,Plate Boots,itm_plate_boots,14
+209,Black Greaves,itm_black_greaves,14
+210,Leather Gloves,itm_leather_gloves,15
+211,Bishop's Gloves,itm_bishop_gloves,15
+212,Mail Mittens,itm_mail_mittens,15
+213,Lamellar Gauntlets,itm_lamellar_gauntlets,15
+214,Scale Gauntlets,itm_scale_gauntlets,15
+215,Gauntlets,itm_gauntlets,15
+216,Club,itm_club,2
+217,Spiked Club,itm_spiked_club,2
+218,Old Knife,itm_old_knife,2
+219,Crude Spear,itm_crude_spear,4
+220,Blunt Falchion,itm_blunt_falchion,2
+221,Chipped Falchion,itm_chipped_falchion,2
+222,Rusty Sword,itm_rusty_sword,2
+223,Worn Sword,itm_worn_sword,2
+224,Bent Lance,itm_bent_lance,4
+225,Practice Sword,itm_practice_sword,2
+226,Heavy Practice Sword,itm_heavy_practice_sword,3
+227,Flanged Mace,itm_winged_mace,2
+228,Spiked Mace,itm_spiked_mace,2
+229,Knobbed Mace,itm_mace_2,2
+230,Winged Mace,itm_mace_4,2
+231,Spiked Staff,itm_club_with_spike_head,3
+232,Long Spiked Club,itm_long_spiked_club,4
+233,Long Hafted Spiked Mace,itm_long_hafted_spiked_mace,4
+234,Fighting Pick,itm_fighting_pick,2
+235,Military Pick,itm_military_pick,2
+236,Military Sickle,itm_military_sickle,2
+237,Military Hammer,itm_military_hammer,2
+238,Morningstar,itm_morningstar,3
+239,Falchion,itm_falchion,2
+240,Curved Sword,itm_curved_sword,2
+241,Sword,itm_sword_medieval_a,2
+242,Short Sword,itm_sword_medieval_b_small,2
+243,Arming Sword,itm_sword_medieval_c_long,2
+244,Knightly Sword,itm_sword_medieval_d_long,2
+245,Nordic Sword,itm_sword_viking_c,2
+246,Nordic Short Sword,itm_sword_viking_b_small,2
+247,Nordic Long Sword,itm_sword_viking_a_long,2
+248,Arabian Sword,itm_arabian_sword_a,2
+249,Arabian Arming Sword,itm_arabian_sword_b,2
+250,Arabian Cavalry Sword,itm_arabian_sword_c,2
+251,Arabian Guard Sword,itm_arabian_sword_d,2
+252,Scimitar,itm_scimitar,2
+253,Elite Scimitar,itm_scimitar_b,2
+254,Sabre,itm_khergit_sword_c,2
+255,Heavy Sabre,itm_khergit_sword_d,2
+256,Two Handed Sabre,itm_khergit_sword_two_handed_a,3
+257,War Cleaver,itm_two_handed_cleaver,3
+258,Soldier's Cleaver,itm_military_cleaver_b,2
+259,Military Cleaver,itm_military_cleaver_c,2
+260,Bastard Sword,itm_bastard_sword_a,3
+261,Heavy Bastard Sword,itm_bastard_sword_b,3
+262,Two Handed Sword,itm_sword_two_handed_b,3
+263,Great Sword,itm_sword_two_handed_a,3
+264,Throwing Axes,itm_throwing_axes,10
+265,Throwing Axe,itm_throwing_axes_melee,2
+266,One Handed War Axe,itm_one_handed_war_axe_b,2
+267,One Handed Axe,itm_one_handed_battle_axe_a,2
+268,One Handed Battle Axe,itm_one_handed_battle_axe_b,2
+269,Spiked One Handed Battle Axe,itm_one_handed_battle_axe_c,2
+270,Iron Battle Axe,itm_sarranid_axe_a,2
+271,Iron War Axe,itm_sarranid_axe_b,2
+272,Two Handed Axe,itm_two_handed_axe,3
+273,Two Handed War Axe,itm_two_handed_battle_axe,3
+274,Shortened Voulge,itm_shortened_voulge,3
+275,Bardiche,itm_bardiche,3
+276,Shortened Military Scythe,itm_shortened_military_scythe,3
+277,Two Handed Iron Axe,itm_sarranid_two_handed_axe_a,3
+278,Two Handed Iron Axe,itm_sarranid_two_handed_axe_b,3
+279,Long Axe,itm_long_axe_a,4
+280,Glaive,itm_glaive,4
+281,Staff,itm_staff,4
+282,Quarter Staff,itm_quarter_staff,4
+283,Iron Staff,itm_iron_staff,4
+284,Throwing Spears,itm_throwing_spears,10
+285,Throwing Spear,itm_throwing_spear_melee,4
+286,Shortened Spear,itm_shortened_spear,4
+287,Spear,itm_spear,4
+288,Bamboo Spear,itm_bamboo_spear,4
+289,War Spear,itm_war_spear,4
+290,Light Lance,itm_light_lance,4
+291,Lance,itm_lance,4
+292,Heavy Lance,itm_heavy_lance,4
+293,Great Lance,itm_great_lance,4
+294,Jousting Lance,itm_jousting_lance,4
+295,Awlpike,itm_awlpike,4
+296,Long Awlpike,itm_awlpike_long,4
+297,Pike,itm_pike,4
+298,War Hammer,itm_bec_de_corbin_a,4
+299,Bishop's Crosier,itm_bishop_crosier,3
+300,Crude Bow,itm_crude_bow,8
+301,Bent Arrows,itm_bent_arrows,5
+302,Flimsy Crossbow,itm_flimsy_crossbow,9
+303,Crude Bolts,itm_crude_bolts,6
+304,Hunting Bow,itm_hunting_bow,8
+305,Short Bow,itm_short_bow,8
+306,Nomad Bow,itm_nomad_bow,8
+307,Long Bow,itm_long_bow,8
+308,Khergit Bow,itm_khergit_bow,8
+309,Strong Bow,itm_strong_bow,8
+310,War Bow,itm_war_bow,8
+311,Arrows,itm_arrows,5
+312,Barbed Arrows,itm_barbed_arrows,5
+313,Broadhead Arrows,itm_khergit_arrows,5
+314,Bodkin Arrows,itm_bodkin_arrows,5
+315,Hunting Crossbow,itm_hunting_crossbow,9
+316,Light Crossbow,itm_light_crossbow,9
+317,Crossbow,itm_crossbow,9
+318,Heavy Crossbow,itm_heavy_crossbow,9
+319,Siege Crossbow,itm_sniper_crossbow,9
+320,Bolts,itm_bolts,6
+321,Steel Bolts,itm_steel_bolts,6
+322,Old Shield,itm_old_shield,7
+323,Practice Shield,itm_practice_shield,7
+324,Plain Round Shield,itm_tab_shield_round_b,7
+325,Round Shield,itm_tab_shield_round_c,7
+326,Heavy Round Shield,itm_tab_shield_round_d,7
+327,Huscarl's Round Shield,itm_tab_shield_round_e,7
+328,Plain Kite Shield,itm_tab_shield_kite_b,7
+329,Kite Shield,itm_tab_shield_kite_c,7
+330,Heavy Kite Shield,itm_tab_shield_kite_d,7
+331,Horseman's Kite Shield,itm_tab_shield_kite_cav_a,7
+332,Knightly Kite Shield,itm_tab_shield_kite_cav_b,7
+333,Plain Heater Shield,itm_tab_shield_heater_b,7
+334,Heater Shield,itm_tab_shield_heater_c,7
+335,Heavy Heater Shield,itm_tab_shield_heater_d,7
+336,Horseman's Heater Shield,itm_tab_shield_heater_cav_a,7
+337,Knightly Heater Shield,itm_tab_shield_heater_cav_b,7
+338,Plain Board Shield,itm_tab_shield_pavise_b,7
+339,Board Shield,itm_tab_shield_pavise_c,7
+340,Heavy Board Shield,itm_tab_shield_pavise_d,7
+341,Plain Cavalry Shield,itm_tab_shield_small_round_a,7
+342,Round Cavalry Shield,itm_tab_shield_small_round_b,7
+343,Elite Cavalry Shield,itm_tab_shield_small_round_c,7
+344,Hide Covered Round Shield,itm_hide_covered_round_shield,7
+345,Hide Covered Kite Shield,itm_hide_covered_kite_shield,7
+346,Steel Shield,itm_steel_shield,7
+347,Sumpter Horse,itm_sumpter_horse,1
+348,Cart Horse,itm_cart_horse,1
+349,Saddle Horse,itm_saddle_horse,1
+350,Steppe Horse,itm_steppe_horse,1
+351,Desert Horse,itm_arabian_horse_a,1
+352,Silver Horse,itm_arabian_horse_b,1
+353,Courser,itm_courser,1
+354,Hunter,itm_hunter,1
+355,War Horse,itm_warhorse,1
+356,Steppe War Horse,itm_warhorse_steppe,1
+357,Barded War Horse,itm_warhorse_sarranid,1
+358,Charger,itm_charger,1
+359,Plated Charger,itm_plated_charger,1
+360,Deer,itm_deer,1
+361,Fawn,itm_fawn,1
+362,Boar,itm_boar,1
+363,Boarlet,itm_boarlet,1
+364,Cow,itm_cow,1
+365,Calf,itm_calf,1
+366,Stick,itm_stick,2
+367,Stick,itm_stick_melee,2
+368,Branch,itm_branch,4
+369,Short Wooden Pole,itm_wood_pole_short,4
+370,Wooden Pole,itm_wood_pole,4
+371,Wood Block,itm_wood_block,4
+372,Board,itm_board,2
+373,Small Iron Ore,itm_iron_ore_small,4
+374,Iron Ore,itm_iron_ore,4
+375,Iron Piece,itm_iron_piece,2
+376,Short Iron Bar,itm_iron_bar_short,2
+377,Iron Bar,itm_iron_bar,2
+378,Long Iron Bar,itm_iron_bar_long,4
+379,Gold Nugget,itm_gold_nugget,2
+380,Gold Bar,itm_gold_bar,2
+381,Silver Nugget,itm_silver_nugget,2
+382,Silver Bar,itm_silver_bar,2
+383,Flax Bundle,itm_flax_bundle,2
+384,Linen Thread,itm_linen_thread,2
+385,Linen Cloth,itm_linen_cloth,2
+386,Small Linen Cloth,itm_linen_cloth_small,2
+387,Raw Hide,itm_raw_hide,2
+388,Leather Roll,itm_leather_roll,2
+389,Leather Piece,itm_leather_piece,2
+390,Saddle,itm_saddle,4
+391,Horse Armor,itm_horse_armor,4
+392,Hatchet,itm_hatchet,2
+393,Small Mining Pick,itm_small_mining_pick,2
+394,Woodcutter's Axe,itm_woodcutter_axe,3
+395,Mining Pick,itm_mining_pick,4
+396,Repair Hammer,itm_repair_hammer,2
+397,Lock Pick,itm_lock_pick,2
+398,Admin Lock Pick,itm_admin_lock_pick,2
+399,Bucket,itm_bucket,2
+400,Water Bucket,itm_water_bucket,2
+401,Fishing Spear,itm_fishing_spear,4
+402,Fishing Net,itm_fishing_net,2
+403,Blunt Sickle,itm_blunt_sickle,2
+404,Sickle,itm_sickle,2
+405,Scythe,itm_scythe,4
+406,Kitchen Knife,itm_kitchen_knife,2
+407,Butchering Cleaver,itm_cleaver,2
+408,Knife,itm_knife,2
+409,Butchering Knife,itm_butchering_knife,2
+410,Broom,itm_broom,4
+411,Herding Crook,itm_herding_crook,3
+412,Herding Crook,itm_herding_crook_alt,4
+413,Fish,itm_fish,2
+414,Cooked Fish,itm_cooked_fish,2
+415,Salted Fish,itm_salted_fish,2
+416,Wheat Sack,itm_wheat_sack,10
+417,Wheat Sheaf,itm_wheat_sheaf,2
+418,Flour Sack,itm_flour_sack,4
+419,Bread,itm_bread,2
+420,Beer Cask,itm_beer_cask,4
+421,Beer Jug,itm_beer_jug,2
+422,Grapes,itm_grapes,2
+423,Must Barrel,itm_must_barrel,4
+424,Wine Barrel,itm_wine_barrel,4
+425,Wine Jar,itm_wine_jar,2
+426,Raw Meat,itm_raw_meat,4
+427,Cooked Meat,itm_cooked_meat,4
+428,Salted Meat,itm_salted_meat,4
+429,Meat Pie,itm_meat_pie,2
+430,Red Apple,itm_red_apple,2
+431,Apple Pie,itm_apple_pie,2
+432,Carrot,itm_carrot,2
+433,Salt Sack,itm_salt_sack,2
+434,Salt,itm_salt,2
+435,Surgeon's Scalpel,itm_surgeon_scalpel,2
+436,Admin Scalpel,itm_admin_scalpel,2
+437,Herb,itm_healing_herb,2
+438,Herb,itm_poison_herb,2
+439,Dagger,itm_dagger,2
+440,Poisoned Dagger,itm_poisoned_dagger,2
+441,Thin Lance,itm_thin_lance,4
+442,Broken Lance,itm_broken_lance,4
+443,Money Bag,itm_money_bag,2
+444,Torch,itm_torch,2
+445,Book of Clothing,itm_book_a,2
+446,Book of Weapons,itm_book_b,2
+447,Book of Armor,itm_book_c,2
+448,Book of Healing,itm_book_d,2
+449,Book,itm_book_e,2
+450,Sacred Book,itm_book_f,2
+451,Sacred Book,itm_book_f_open,3
+452,Lyre,itm_lyre,2
+453,Lute,itm_lute,2
+454,Dart,itm_dart,10
+455,Die,itm_die,2
+760,Admin Horse,itm_admin_horse,1
+761,Invisible Head,itm_invisible_head,12
+762,Invisible Body,itm_invisible_body,13
+763,Invisible Foot,itm_invisible_foot,14
+764,Invisible Hand,itm_invisible_hand,15
+765,Invisible Sword,itm_invisible_sword,3
+766,Strange Armor,itm_strange_armor,13
+767,Strange Boots,itm_strange_boots,14
+768,Strange Helmet,itm_strange_helmet,12
+769,Strange Sword,itm_strange_sword,3
+770,Strange Great Sword,itm_strange_great_sword,3
+771,Strange Short Sword,itm_strange_short_sword,2
+772,Wand Of Law,itm_wand_of_law,4
+773,King Crown,itm_king_crown,12
+774,Cartridges,itm_cartridges,18
+775,Flintlock Pistol,itm_flintlock_pistol,16
+776,Sipahi Helmet,itm_sipahi_helmet_a,12
+777,Byzantion Helmet,itm_byzantion_helmet_a,12
+778,Rus Helmet,itm_rus_helmet_a,12
+779,Shahi,itm_shahi,12
+780,Rabati,itm_rabati,12
+781,Aketon A,itm_aketon_a,13
+782,Gold Tourney Armor,itm_gold_tourney_armor,13
+783,Old Nomad Armor,itm_old_nomad_armor,13
+784,Nomad Armor b,itm_nomad_armor_b,13
+785,Tunic Fur,itm_tunic_fur,13
+786,Lthr Armor A,itm_lthr_armor_a,13
+787,Brigandine A,itm_brigandine_a,13
+788,Haubergeon A,itm_haubergeon_a,13
+789,Haubergeon B,itm_haubergeon_b,13
+790,Std Lthr Coat,itm_std_lthr_coat,13
+791,Pink Lamellar Vest,itm_p_lamellar_vest,13
+792,Red Tourney Armor,itm_red_tourney_armor,13
+793,Lamellar Cuirass,itm_lamellar_cuirass,13
+794,Khergit Guard Armor,itm_khergit_guard_armor,13
+795,Light Mail and Plate,itm_light_mail_and_plate,13
+796,Mail and Plate,itm_mail_and_plate,13
+797,Sword of War,itm_sword_of_war,3
+798,Nomad Sabre,itm_nomad_sabre,2
+799,Darts,itm_darts,10
+800,War Darts,itm_war_darts,10
+801,Javelins,itm_javelin,10
+802,Javelin,itm_javelin_melee,4
+803,Jarids,itm_jarid,10
+804,Jarid,itm_jarid_melee,4
+805,Stones,itm_stones,10
+806,Throwing Knives,itm_throwing_knives,10
+807,Throwing Daggers,itm_throwing_daggers,10
+808,Light Throwing Axes,itm_light_throwing_axes,10
+809,Light Throwing Axe,itm_light_throwing_axes_melee,2
+810,Heavy Throwing Axes,itm_heavy_throwing_axes,10
+811,Heavy Throwing Axe,itm_heavy_throwing_axes_melee,2
+812,Maul,itm_maul,3
+813,Sledgehammer,itm_sledgehammer,3
+814,Great Hammer,itm_warhammer,3
+815,Polehammer,itm_polehammer,4
+816,Mace Pear,itm_mace_pear,2
+817,Old Winged Mace,itm_old_winged_mace,2
+818,Mace Morningstar,itm_mace_morningstar,2
+819,Mace Small D,itm_mace_small_d,3
+820,Flanged Mace,itm_flanged_mace,2
+821,Pike,itm_battle_pike,4
+822,Double Sided Lance,itm_double_sided_lance,4
+823,Pitch Fork,itm_pitch_fork,4
+824,Battle Fork,itm_battle_fork,4
+825,Military Fork,itm_military_fork,4
+826,Battle Scythe,itm_battle_scythe,4
+827,Iron bardiche,itm_iron_bardiche,4
+828,Hafted Blade b,itm_hafted_blade_b,4
+829,Hafted Blade a,itm_hafted_blade_a,4
+830,War Axe,itm_war_axe,3
+831,Great Axe,itm_great_axe,3
+832,Battle Axe,itm_battle_axe,3
+833,Poleaxe,itm_poleaxe,4
+834,Double Axe,itm_double_axe,3
+835,Axe,itm_axe,3
+836,Voulge,itm_voulge,3
+837,Leather Covered Round Shield,itm_leather_covered_round_shield,7
+838,Kite Shield i,itm_shield_kite_i,7
+839,Lordly Bishop's Armor,itm_lordly_bishop_armor,13
+840,Reinforced Bishop's Armor,itm_reinforced_bishop_armor,13
+841,Hardened Bishop's Armor,itm_hardened_bishop_armor,13
+842,Heavy Bishop's Armor,itm_heavy_bishop_armor,13
+843,Thick Bishop's Armor,itm_thick_bishop_armor,13
+844,Sturdy Bishop's Armor,itm_sturdy_bishop_armor,13
+845,Battered Bishop's Armor,itm_battered_bishop_armor,13
+846,Lordly Khergit Guard Armor,itm_lordly_khergit_guard_armor,13
+847,Reinforced Khergit Guard Armor,itm_reinforced_khergit_guard_armor,13
+848,Hardened Khergit Guard Armor,itm_hardened_khergit_guard_armor,13
+849,Heavy Khergit Guard Armor,itm_heavy_khergit_guard_armor,13
+850,Thick Khergit Guard Armor,itm_thick_khergit_guard_armor,13
+851,Sturdy Khergit Guard Armor,itm_sturdy_khergit_guard_armor,13
+852,Battered Khergit Guard Armor,itm_battered_khergit_guard_armor,13
+853,Lordly Strange Armor,itm_lordly_strange_armor,13
+854,Reinforced Strange Armor,itm_reinforced_strange_armor,13
+855,Hardened Strange Armor,itm_hardened_strange_armor,13
+856,Heavy Strange Armor,itm_heavy_strange_armor,13
+857,Thick Strange Armor,itm_thick_strange_armor,13
+858,Sturdy Strange Armor,itm_sturdy_strange_armor,13
+859,Battered Strange Armor,itm_battered_strange_armor,13
+860,Lordly Mail Robe,itm_lordly_mamluke_mail,13
+861,Reinforced Mail Robe,itm_reinforced_mamluke_mail,13
+862,Hardened Mail Robe,itm_hardened_mamluke_mail,13
+863,Heavy Mail Robe,itm_heavy_mamluke_mail,13
+864,Thick Mail Robe,itm_thick_mamluke_mail,13
+865,Sturdy Mail Robe,itm_sturdy_mamluke_mail,13
+866,Battered Mail Robe,itm_battered_mamluke_mail,13
+867,Lordly Brigandine,itm_lordly_brigandine_red,13
+868,Reinforced Brigandine,itm_reinforced_brigandine_red,13
+869,Hardened Brigandine,itm_hardened_brigandine_red,13
+870,Heavy Brigandine,itm_heavy_brigandine_red,13
+871,Thick Brigandine,itm_thick_brigandine_red,13
+872,Sturdy Brigandine,itm_sturdy_brigandine_red,13
+873,Battered Brigandine,itm_battered_brigandine_red,13
+874,Lordly Lamellar Armor,itm_lordly_lamellar_armor,13
+875,Reinforced Lamellar Armor,itm_reinforced_lamellar_armor,13
+876,Hardened Lamellar Armor,itm_hardened_lamellar_armor,13
+877,Heavy Lamellar Armor,itm_heavy_lamellar_armor,13
+878,Thick Lamellar Armor,itm_thick_lamellar_armor,13
+879,Sturdy Lamellar Armor,itm_sturdy_lamellar_armor,13
+880,Battered Lamellar Armor,itm_battered_lamellar_armor,13
+881,Lordly Scale Armor,itm_lordly_scale_armor,13
+882,Reinforced Scale Armor,itm_reinforced_scale_armor,13
+883,Hardened Scale Armor,itm_hardened_scale_armor,13
+884,Heavy Scale Armor,itm_heavy_scale_armor,13
+885,Thick Scale Armor,itm_thick_scale_armor,13
+886,Sturdy Scale Armor,itm_sturdy_scale_armor,13
+887,Battered Scale Armor,itm_battered_scale_armor,13
+888,Lordly Banded Armor,itm_lordly_banded_armor,13
+889,Reinforced Banded Armor,itm_reinforced_banded_armor,13
+890,Hardened Banded Armor,itm_hardened_banded_armor,13
+891,Heavy Banded Armor,itm_heavy_banded_armor,13
+892,Thick Banded Armor,itm_thick_banded_armor,13
+893,Sturdy Banded Armor,itm_sturdy_banded_armor,13
+894,Battered Banded Armor,itm_battered_banded_armor,13
+895,Lordly Cuir Bouilli,itm_lordly_cuir_bouilli,13
+896,Reinforced Cuir Bouilli,itm_reinforced_cuir_bouilli,13
+897,Hardened Cuir Bouilli,itm_hardened_cuir_bouilli,13
+898,Heavy Cuir Bouilli,itm_heavy_cuir_bouilli,13
+899,Thick Cuir Bouilli,itm_thick_cuir_bouilli,13
+900,Sturdy Cuir Bouilli,itm_sturdy_cuir_bouilli,13
+901,Battered Cuir Bouilli,itm_battered_cuir_bouilli,13
+902,Lordly Coat of Plates,itm_lordly_coat_of_plates,13
+903,Reinforced Coat of Plates,itm_reinforced_coat_of_plates,13
+904,Hardened Coat of Plates,itm_hardened_coat_of_plates,13
+905,Heavy Coat of Plates,itm_heavy_coat_of_plates,13
+906,Thick Coat of Plates,itm_thick_coat_of_plates,13
+907,Sturdy Coat of Plates,itm_sturdy_coat_of_plates,13
+908,Battered Coat of Plates,itm_battered_coat_of_plates,13
+909,Lordly Heraldic Coat of Plates,itm_lordly_coat_of_plates_red,13
+910,Reinforced Heraldic Coat of Plates,itm_reinforced_coat_of_plates_red,13
+911,Hardened Heraldic Coat of Plates,itm_hardened_coat_of_plates_red,13
+912,Heavy Heraldic Coat of Plates,itm_heavy_coat_of_plates_red,13
+913,Thick Heraldic Coat of Plates,itm_thick_coat_of_plates_red,13
+914,Sturdy Heraldic Coat of Plates,itm_sturdy_coat_of_plates_red,13
+915,Battered Heraldic Coat of Plates,itm_battered_coat_of_plates_red,13
+916,Lordly Heraldic Elite Armor,itm_lordly_khergit_elite_armor,13
+917,Reinforced Heraldic Elite Armor,itm_reinforced_khergit_elite_armor,13
+918,Hardened Heraldic Elite Armor,itm_hardened_khergit_elite_armor,13
+919,Heavy Heraldic Elite Armor,itm_heavy_khergit_elite_armor,13
+920,Thick Heraldic Elite Armor,itm_thick_khergit_elite_armor,13
+921,Sturdy Heraldic Elite Armor,itm_sturdy_khergit_elite_armor,13
+922,Battered Heraldic Elite Armor,itm_battered_khergit_elite_armor,13
+923,Lordly Elite Armor,itm_lordly_vaegir_elite_armor,13
+924,Reinforced Elite Armor,itm_reinforced_vaegir_elite_armor,13
+925,Hardened Elite Armor,itm_hardened_vaegir_elite_armor,13
+926,Heavy Elite Armor,itm_heavy_vaegir_elite_armor,13
+927,Thick Elite Armor,itm_thick_vaegir_elite_armor,13
+928,Sturdy Elite Armor,itm_sturdy_vaegir_elite_armor,13
+929,Battered Elite Armor,itm_battered_vaegir_elite_armor,13
+930,Lordly Elite Armor,itm_lordly_sarranid_elite_armor,13
+931,Elite Armor,itm_reinforced_sarranid_elite_armor,13
+932,Elite Armor,itm_hardened_sarranid_elite_armor,13
+933,Elite Armor,itm_heavy_sarranid_elite_armor,13
+934,Elite Armor,itm_thick_sarranid_elite_armor,13
+935,Elite Armor,itm_sturdy_sarranid_elite_armor,13
+936,Elite Armor,itm_battered_sarranid_elite_armor,13
+937,Lordly Plate Armor,itm_lordly_plate_armor,13
+938,Reinforced Plate Armor,itm_reinforced_plate_armor,13
+939,Hardened Plate Armor,itm_hardened_plate_armor,13
+940,Heavy Plate Armor,itm_heavy_plate_armor,13
+941,Thick Plate Armor,itm_thick_plate_armor,13
+942,Sturdy Plate Armor,itm_sturdy_plate_armor,13
+943,Battered Plate Armor,itm_battered_plate_armor,13
+944,Lordly Plate Boots,itm_lordly_plate_boots,14
+945,Reinforced Plate Boots,itm_reinforced_plate_boots,14
+946,Hardened Plate Boots,itm_hardened_plate_boots,14
+947,Heavy Plate Boots,itm_heavy_plate_boots,14
+948,Thick Plate Boots,itm_thick_plate_boots,14
+949,Sturdy Plate Boots,itm_sturdy_plate_boots,14
+950,Battered Plate Boots,itm_battered_plate_boots,14
+951,Lordly Iron Greaves,itm_lordly_iron_greaves,14
+952,Reinforced Iron Greaves,itm_reinforced_iron_greaves,14
+953,Hardened Iron Greaves,itm_hardened_iron_greaves,14
+954,Heavy Iron Greaves,itm_heavy_iron_greaves,14
+955,Thick Iron Greaves,itm_thick_iron_greaves,14
+956,Sturdy Iron Greaves,itm_sturdy_iron_greaves,14
+957,Battered Iron Greaves,itm_battered_iron_greaves,14
+958,Lordly Bishop's Chausses,itm_lordly_bishop_chausses,14
+959,Reinforced Bishop's Chausses,itm_reinforced_bishop_chausses,14
+960,Hardened Bishop's Chausses,itm_hardened_bishop_chausses,14
+961,Heavy Bishop's Chausses,itm_heavy_bishop_chausses,14
+962,Thick Bishop's Chausses,itm_thick_bishop_chausses,14
+963,Sturdy Bishop's Chausses,itm_sturdy_bishop_chausses,14
+964,Battered Bishop's Chausses,itm_battered_bishop_chausses,14
+965,Lordly Strange Boots,itm_lordly_strange_boots,14
+966,Reinforced Strange Boots,itm_reinforced_strange_boots,14
+967,Hardened Strange Boots,itm_hardened_strange_boots,14
+968,Heavy Strange Boots,itm_heavy_strange_boots,14
+969,Thick Strange Boots,itm_thick_strange_boots,14
+970,Sturdy Strange Boots,itm_sturdy_strange_boots,14
+971,Battered Strange Boots,itm_battered_strange_boots,14
+972,Lordly Lamellar Gauntlets,itm_lordly_lamellar_gauntlets,15
+973,Reinforced Lamellar Gauntlets,itm_reinforced_lamellar_gauntlets,15
+974,Hardened Lamellar Gauntlets,itm_hardened_lamellar_gauntlets,15
+975,Heavy Lamellar Gauntlets,itm_heavy_lamellar_gauntlets,15
+976,Thick Lamellar Gauntlets,itm_thick_lamellar_gauntlets,15
+977,Sturdy Lamellar Gauntlets,itm_sturdy_lamellar_gauntlets,15
+978,Battered Lamellar Gauntlets,itm_battered_lamellar_gauntlets,15
+979,Lordly Scale Gauntlets,itm_lordly_scale_gauntlets,15
+980,Reinforced Scale Gauntlets,itm_reinforced_scale_gauntlets,15
+981,Hardened Scale Gauntlets,itm_hardened_scale_gauntlets,15
+982,Heavy Scale Gauntlets,itm_heavy_scale_gauntlets,15
+983,Thick Scale Gauntlets,itm_thick_scale_gauntlets,15
+984,Sturdy Scale Gauntlets,itm_sturdy_scale_gauntlets,15
+985,Battered Scale Gauntlets,itm_battered_scale_gauntlets,15
+986,Lordly Gauntlets,itm_lordly_gauntlets,15
+987,Reinforced Gauntlets,itm_reinforced_gauntlets,15
+988,Hardened Gauntlets,itm_hardened_gauntlets,15
+989,Heavy Gauntlets,itm_heavy_gauntlets,15
+990,Thick Gauntlets,itm_thick_gauntlets,15
+991,Sturdy Gauntlets,itm_sturdy_gauntlets,15
+992,Battered Gauntlets,itm_battered_gauntlets,15
+993,Lordly Strange Helmet,itm_lordly_strange_helmet,12
+994,Reinforced Strange Helmet,itm_reinforced_strange_helmet,12
+995,Hardened Strange Helmet,itm_hardened_strange_helmet,12
+996,Heavy Strange Helmet,itm_heavy_strange_helmet,12
+997,Thick Strange Helmet,itm_thick_strange_helmet,12
+998,Sturdy Strange Helmet,itm_sturdy_strange_helmet,12
+999,Battered Strange Helmet,itm_battered_strange_helmet,12
+1000,Lordly Bishop's Helm,itm_lordly_bishop_helm,12
+1001,Reinforced Bishop's Helm,itm_reinforced_bishop_helm,12
+1002,Hardened Bishop's Helm,itm_hardened_bishop_helm,12
+1003,Heavy Bishop's Helm,itm_heavy_bishop_helm,12
+1004,Thick Bishop's Helm,itm_thick_bishop_helm,12
+1005,Sturdy Bishop's Helm,itm_sturdy_bishop_helm,12
+1006,Battered Bishop's Helm,itm_battered_bishop_helm,12
+1007,Lordly Full Helm,itm_lordly_full_helm,12
+1008,Reinforced Full Helm,itm_reinforced_full_helm,12
+1009,Hardened Full Helm,itm_hardened_full_helm,12
+1010,Heavy Full Helm,itm_heavy_full_helm,12
+1011,Thick Full Helm,itm_thick_full_helm,12
+1012,Sturdy Full Helm,itm_sturdy_full_helm,12
+1013,Battered Full Helm,itm_battered_full_helm,12
+1014,Lordly War Mask,itm_lordly_vaegir_mask,12
+1015,Reinforced War Mask,itm_reinforced_vaegir_mask,12
+1016,Hardened War Mask,itm_hardened_vaegir_mask,12
+1017,Heavy War Mask,itm_heavy_vaegir_mask,12
+1018,Thick War Mask,itm_thick_vaegir_mask,12
+1019,Sturdy War Mask,itm_sturdy_vaegir_mask,12
+1020,Battered War Mask,itm_battered_vaegir_mask,12
+1021,Lordly War Mask,itm_lordly_vaegir_mask_b,12
+1022,Reinforced War Mask,itm_reinforced_vaegir_mask_b,12
+1023,Hardened War Mask,itm_hardened_vaegir_mask_b,12
+1024,Heavy War Mask,itm_heavy_vaegir_mask_b,12
+1025,Thick War Mask,itm_thick_vaegir_mask_b,12
+1026,Sturdy War Mask,itm_sturdy_vaegir_mask_b,12
+1027,Battered War Mask,itm_battered_vaegir_mask_b,12
+1028,Lordly Great Helmet,itm_lordly_great_helmet,12
+1029,Reinforced Great Helmet,itm_reinforced_great_helmet,12
+1030,Hardened Great Helmet,itm_hardened_great_helmet,12
+1031,Heavy Great Helmet,itm_heavy_great_helmet,12
+1032,Thick Great Helmet,itm_thick_great_helmet,12
+1033,Sturdy Great Helmet,itm_sturdy_great_helmet,12
+1034,Battered Great Helmet,itm_battered_great_helmet,12
+1035,Lordly Winged Great Helmet,itm_lordly_winged_great_helmet,12
+1036,Reinforced Winged Great Helmet,itm_reinforced_winged_great_helmet,12
+1037,Hardened Winged Great Helmet,itm_hardened_winged_great_helmet,12
+1038,Heavy Winged Great Helmet,itm_heavy_winged_great_helmet,12
+1039,Thick Winged Great Helmet,itm_thick_winged_great_helmet,12
+1040,Sturdy Winged Great Helmet,itm_sturdy_winged_great_helmet,12
+1041,Battered Winged Great Helmet,itm_battered_winged_great_helmet,12
+1042,Gold Charger,itm_gold_charger,1
+1043,Gold Gauntlets,itm_gold_gauntlets,15
+1044,Gold Plate Armor,itm_gold_plate_armor,13
+1045,Gold Plate Boots,itm_gold_plate_boots,14
+1046,King Great Helmet,itm_king_great_helmet,12
+1047,Great Helmet King,itm_great_helmet_king,12
+1048,Great King Helmet,itm_great_king_helmet,12
+1049,Voulge,itm_voulge_duplicate,4
+1050,Long Bardiche,itm_long_bardiche,4
+1051,Great Long Bardiche,itm_great_long_bardiche,4
+1052,Great Bardiche,itm_great_bardiche,3
+1053,Nordic Sword,itm_nordic_sword,2
+1054,Sword,itm_sword,2
+1055,Nordic Short War Sword,itm_sword_viking_3_small,2
+1056,Nordic Sword,itm_sword_viking_2,2
+1057,sword_viking_c_long,itm_sword_viking_c_long,2
+1058,Sword,itm_sword_medieval_a_long,2
+1059,Sword,itm_sword_medieval_b,2
+1060,Short Arming Sword,itm_sword_medieval_c_small,2
+1061,sword_medieval_d,itm_sword_medieval_d,2
+1062,sword_medieval_e,itm_sword_medieval_e,2
+1063,Military Scythe,itm_military_scythe,4
+1064,Spear 3-25m,itm_spear_e_3_25m,4
+1065,One Handed Axe,itm_one_handed_war_axe_a,2
+1066,Spiked Club,itm_mace_1,2
+1067,Spiked Mace,itm_mace_3,2
+1068,Long Hafted Knobbed Mace,itm_long_hafted_knobbed_mace,4
+1069,Iron Mace,itm_sarranid_two_handed_mace_1,3
+1070,Long Axe,itm_long_axe,4
+1071,Long Axe,itm_long_axe_alt,3
+1072,Long War Axe,itm_long_axe_b,4
+1073,Long War Axe,itm_long_axe_b_alt,3
+1074,Nomad Sabre,itm_sword_khergit_1,2
+1075,Sabre,itm_sword_khergit_3,2
+1076,Two Handed Sabre,itm_khergit_sword_two_handed_b,3
+1077,Imperial Bow,itm_imperial_war_bow,8
+1078,Noldor Bow,itm_noldor_bow,8
+1079,Long Bow,itm_imperial_long_bow,8
+1080,Nomad Bow,itm_imperial_nomad_bow,8
+1081,Short Imperial Bow,itm_imperial_short_bow,8
+1082,Two Repeating Crossbow,itm_two_repeating_crossbow,9
+1083,Automatic Crossbow,itm_automatic_crossbow,9
+1084,Voulge1,itm_voulge_duplicate_skin,4
+1085,Long Bardiche1,itm_long_bardiche_skin,4
+1086,Great Long Bardiche1,itm_great_long_bardiche_skin,4
+1087,Shortened Military Scythe1,itm_shortened_military_scythe_skin,3
+1088,Great Bardiche1,itm_great_bardiche_skin,3
+1089,Two Handed Axe1,itm_two_handed_axe_skin,3
+1090,Two Handed War Axe1,itm_two_handed_battle_axe_skin,3
+1091,Shortened Voulge1,itm_shortened_voulge_skin,3
+1092,Bardiche1,itm_bardiche_skin,3
+1093,Throwing Axes1,itm_throwing_axes_skin,10
+1094,Throwing Axe1,itm_throwing_axes_melee_skin,2
+1095,Heavy Throwing Axes1,itm_heavy_throwing_axes_skin,10
+1096,Heavy Throwing Axe1,itm_heavy_throwing_axes_melee_skin,2
+1097,Nordic Long Sword1,itm_sword_viking_a_long_skin,2
+1098,Nordic Long Sword2,itm_sword_viking_a_long_skin1,2
+1099,Nordic Short War Sword1,itm_sword_viking_3_small_skin,2
+1100,Short Arming Sword1,itm_sword_medieval_c_small_skin,2
+1101,Nordic Sword1,itm_sword_viking_2_skin,2
+1102,Nordic Sword2,itm_sword_viking_2_skin1,2
+1103,Nordic Sword1,itm_nordic_sword_skin,2
+1104,Sword1,itm_sword_skin,2
+1105,Arabian Guard Sword1,itm_arabian_sword_d_skin,2
+1106,Curved Sword1,itm_curved_sword_skin,2
+1107,Nordic Short Sword1,itm_sword_viking_b_small_skin,2
+1108,Nordic Sword1,itm_sword_viking_c_skin,2
+1109,sword_viking_c_long1,itm_sword_viking_c_long_skin,2
+1110,Two Handed Sword1,itm_sword_two_handed_b_skin,3
+1111,Great Sword1,itm_sword_two_handed_a_skin,3
+1112,Great Sword1,itm_sword_two_handed_a_skin1,3
+1113,Sword1,itm_sword_medieval_a_skin,2
+1114,Sword1,itm_sword_medieval_a_long_skin,2
+1115,Sword1,itm_sword_medieval_b_skin,2
+1116,Sword2,itm_sword_medieval_b_skin1,2
+1117,Short Sword1,itm_sword_medieval_b_small_skin,2
+1118,sword_medieval_d1,itm_sword_medieval_d_skin,2
+1119,Knightly Sword1,itm_sword_medieval_d_long_skin,2
+1120,sword_medieval_e1,itm_sword_medieval_e_skin,2
+1121,sword_medieval_e2,itm_sword_medieval_e_skin1,2
+1122,Pike1,itm_pike_skin,4
+1123,Military Scythe1,itm_military_scythe_skin,4
+1124,Lance1,itm_lance_skin,4
+1125,Spear_3-25m1,itm_spear_e_3_25m_skin,4
+1126,Heavy Lance1,itm_heavy_lance_skin,4
+1127,War Spear1,itm_war_spear_skin,4
+1128,Scimitar1,itm_scimitar_skin,2
+1129,Elite Scimitar1,itm_scimitar_b_skin,2
+1130,Arabian Sword1,itm_arabian_sword_a_skin,2
+1131,Arrows1,itm_arrows_skin,5
+1132,Arrows2,itm_arrows_skin1,5
+1133,Barbed Arrows1,itm_barbed_arrows_skin,5
+1134,Barbed Arrows2,itm_barbed_arrows_skin1,5
+1135,Broadhead Arrows1,itm_khergit_arrows_skin,5
+1136,Bodkin Arrows1,itm_bodkin_arrows_skin,5
+1137,Bodkin Arrows2,itm_bodkin_arrows_skin1,5
+1138,Bodkin Arrows3,itm_bodkin_arrows_skin2,5
+1139,Bodkin Arrows4,itm_bodkin_arrows_skin3,5
+1140,Bodkin Arrows5,itm_bodkin_arrows_skin4,5
+1141,Bodkin Arrows6,itm_bodkin_arrows_skin5,5
+1142,Bodkin Arrows7,itm_bodkin_arrows_skin6,5
+1143,One Handed Axe1,itm_one_handed_battle_axe_a_skin,2
+1144,One Handed Axe1,itm_one_handed_war_axe_a_skin,2
+1145,War Cleaver1,itm_two_handed_cleaver_skin,3
+1146,Soldier's Cleaver1,itm_military_cleaver_b_skin,2
+1147,Military Cleaver1,itm_military_cleaver_c_skin,2
+1148,Military Hammer1,itm_military_hammer_skin,2
+1149,Military Sickle1,itm_military_sickle_skin,2
+1150,Knobbed Mace1,itm_mace_2_skin,2
+1151,Spiked Mace1,itm_mace_3_skin,2
+1152,Winged Mace1,itm_mace_4_skin,2
+1153,Long Hafted Knobbed Mace1,itm_long_hafted_knobbed_mace_skin,4
+1154,Long Hafted Spiked Mace1,itm_long_hafted_spiked_mace_skin,4
+1155,Iron Mace1,itm_sarranid_two_handed_mace_1_skin,3
+1156,Mace Small D1,itm_mace_small_d_skin,3
+1157,Great Hammer1,itm_warhammer_skin,3
+1158,Long Axe1,itm_long_axe_skin,4
+1159,Long Axe1,itm_long_axe_alt_skin,3
+1160,Long War Axe1,itm_long_axe_b_skin,4
+1161,Long War Axe1,itm_long_axe_b_alt_skin,3
+1162,Hafted Blade a1,itm_hafted_blade_a_skin,4
+1163,Hafted Blade b1,itm_hafted_blade_b_skin,4
+1164,Glaive1,itm_glaive_skin,4
+1165,Nomad Sabre1,itm_sword_khergit_1_skin,2
+1166,Nomad Sabre2,itm_sword_khergit_1_skin1,2
+1167,Sabre1,itm_khergit_sword_c_skin,2
+1168,Sabre1,itm_sword_khergit_3_skin,2
+1169,Sabre2,itm_sword_khergit_3_skin1,2
+1170,Heavy Sabre1,itm_khergit_sword_d_skin,2
+1171,Heavy Sabre2,itm_khergit_sword_d_skin1,2
+1172,Two Handed Sabre1,itm_khergit_sword_two_handed_a_skin,3
+1173,Two Handed Sabre1,itm_khergit_sword_two_handed_b_skin,3
+1174,Jarids1,itm_jarid_skin,10
+1175,Jarid1,itm_jarid_melee_skin,4
+1176,Jarids2,itm_jarid_skin1,10
+1177,Jarid2,itm_jarid_melee_skin1,4
+1178,Throwing Spears1,itm_throwing_spears_skin,10
+1179,Throwing Spear1,itm_throwing_spear_melee_skin,4
+1180,Javelins1,itm_javelin_skin,10
+1181,Javelin1,itm_javelin_melee_skin,4
+1182,War Darts1,itm_war_darts_skin,10
+1183,Darts1,itm_darts_skin,10
+1184,Crossbow1,itm_crossbow_skin,9
+1185,Crossbow2,itm_crossbow_skin1,9
+1186,Light Crossbow1,itm_light_crossbow_skin,9
+1187,Heavy Crossbow1,itm_heavy_crossbow_skin,9
+1188,Bolts1,itm_bolts_skin,6
+1189,Bolts2,itm_bolts_skin1,6
+1190,Bolts3,itm_bolts_skin2,6
+1191,Bolts4,itm_bolts_skin3,6
+1192,Steel Bolts1,itm_steel_bolts_skin,6
+1193,War Hammer1,itm_bec_de_corbin_a_skin,4
+1194,Bastard Sword1,itm_bastard_sword_a_skin,3
+1195,Bastard Sword2,itm_bastard_sword_a_skin1,3
+1196,Bastard Sword3,itm_bastard_sword_a_skin2,3
+1197,Heavy Bastard Sword1,itm_bastard_sword_b_skin,3
+1198,Heavy Bastard Sword2,itm_bastard_sword_b_skin1,3
+1199,Heavy Bastard Sword3,itm_bastard_sword_b_skin2,3
+1200,Heavy Bastard Sword4,itm_bastard_sword_b_skin3,3
+1201,Sword of War1,itm_sword_of_war_skin,3
+1202,Sword of War2,itm_sword_of_war_skin1,3
+1203,Long Awlpike1,itm_awlpike_long_skin,4
+1204,Bamboo Spear1,itm_bamboo_spear_skin,4
+1205,Double Axe1,itm_double_axe_skin,3
+1206,Steel Shield1,itm_steel_shield_skin,7
+1207,Steel Shield2,itm_steel_shield_skin1,7
+1208,Steel Shield3,itm_steel_shield_skin2,7
+1209,Steel Shield4,itm_steel_shield_skin3,7
+1210,Steel Shield5,itm_steel_shield_skin4,7
+1211,Steel Shield6,itm_steel_shield_skin5,7
+1212,Steel Shield7,itm_steel_shield_skin6,7
+1213,Steel Shield8,itm_steel_shield_skin7,7
+1214,Steel Shield9,itm_steel_shield_skin8,7
+1215,Steel Shield10,itm_steel_shield_skin9,7
+1216,Steel Shield11,itm_steel_shield_skin10,7
+1217,Steel Shield12,itm_steel_shield_skin11,7
+1218,Steel Shield14,itm_steel_shield_skin13,7
+1219,Steel Shield15,itm_steel_shield_skin14,7
+1220,Steel Shield17,itm_steel_shield_skin16,7
+1221,Short Bow1,itm_short_bow_skin,8
+1222,Hunting Bow1,itm_hunting_bow_skin,8
+1223,War Bow1,itm_war_bow_skin,8
+1224,Long Bow1,itm_long_bow_skin,8
+1225,Strong Bow1,itm_strong_bow_skin,8
+1226,Strong Bow2,itm_strong_bow_skin1,8
+1227,Nomad Bow1,itm_nomad_bow_skin,8
+1228,Nomad Bow2,itm_nomad_bow_skin1,8
+1229,Khergit Bow1,itm_khergit_bow_skin,8
+1230,Khergit Bow2,itm_khergit_bow_skin1,8
+1231,Mail Plate Armor,itm_mail_plate_armor,13
+1232,Shoulder Plate Armor,itm_2_plate_armor,13
+1233,Khergit Guard Boots,itm_khergit_guard_boots,14
+1234,Khergit Guard Helmet,itm_khergit_guard_helmet,12
+1235,Khergit Cavalry Helmet,itm_khergit_cavalry_helmet,12
+1236,Brigandine,itm_brigandine_red_mail,13
+1237,Lordly Mail Plate Armor,itm_lordly_mail_plate_armor,13
+1238,Reinforced Mail Plate Armor,itm_reinforced_mail_plate_armor,13
+1239,Hardened Mail Plate Armor,itm_hardened_mail_plate_armor,13
+1240,Heavy Mail Plate Armor,itm_heavy_mail_plate_armor,13
+1241,Thick Mail Plate Armor,itm_thick_mail_plate_armor,13
+1242,Sturdy Mail Plate Armor,itm_sturdy_mail_plate_armor,13
+1243,Battered Mail Plate Armor,itm_battered_mail_plate_armor,13
+1244,Lordly Shoulder Plate Armor,itm_lordly_2_plate_armor,13
+1245,Reinforced Shoulder Plate Armor,itm_reinforced_2_plate_armor,13
+1246,Hardened Shoulder Plate Armor,itm_hardened_2_plate_armor,13
+1247,Heavy Shoulder Plate Armor,itm_heavy_2_plate_armor,13
+1248,Thick Shoulder Plate Armor,itm_thick_2_plate_armor,13
+1249,Sturdy Shoulder Plate Armor,itm_sturdy_2_plate_armor,13
+1250,Battered Shoulder Plate Armor,itm_battered_2_plate_armor,13
+1251,Lordly Shoulder Plate Armor,itm_lordly_brigandine_red_mail,13
+1252,Reinforced Shoulder Plate Armor,itm_reinforced_brigandine_red_mail,13
+1253,Hardened Shoulder Plate Armor,itm_hardened_brigandine_red_mail,13
+1254,Heavy Shoulder Plate Armor,itm_heavy_brigandine_red_mail,13
+1255,Thick Shoulder Plate Armor,itm_thick_brigandine_red_mail,13
+1256,Sturdy Shoulder Plate Armor,itm_sturdy_brigandine_red_mail,13
+1257,Battered Shoulder Plate Armor,itm_battered_brigandine_red_mail,13
+1258,Lordly Khergit Guard Boots,itm_lordly_khergit_guard_boots,14
+1259,Reinforced Khergit Guard Boots,itm_reinforced_khergit_guard_boots,14
+1260,Hardened Khergit Guard Boots,itm_hardened_khergit_guard_boots,14
+1261,Heavy Khergit Guard Boots,itm_heavy_khergit_guard_boots,14
+1262,Thick Khergit Guard Boots,itm_thick_khergit_guard_boots,14
+1263,Sturdy Khergit Guard Boots,itm_sturdy_khergit_guard_boots,14
+1264,Battered Khergit Guard Boots,itm_battered_khergit_guard_boots,14
+1265,Lordly Khergit Guard Helmet,itm_lordly_khergit_guard_helmet,12
+1266,Reinforced Khergit Guard Helmet,itm_reinforced_khergit_guard_helmet,12
+1267,Hardened Khergit Guard Helmet,itm_hardened_khergit_guard_helmet,12
+1268,Heavy Khergit Guard Helmet,itm_heavy_khergit_guard_helmet,12
+1269,Thick Khergit Guard Helmet,itm_thick_khergit_guard_helmet,12
+1270,Sturdy Khergit Guard Helmet,itm_sturdy_khergit_guard_helmet,12
+1271,Battered Khergit Guard Helmet,itm_battered_khergit_guard_helmet,12
+1272,Lordly Khergit Cavalry Helmet,itm_lordly_khergit_cavalry_helmet,12
+1273,Reinforced Khergit Cavalry Helmet,itm_reinforced_khergit_cavalry_helmet,12
+1274,Hardened Khergit Cavalry Helmet,itm_hardened_khergit_cavalry_helmet,12
+1275,Heavy Khergit Cavalry Helmet,itm_heavy_khergit_cavalry_helmet,12
+1276,Thick Khergit Cavalry Helmet,itm_thick_khergit_cavalry_helmet,12
+1277,Sturdy Khergit Cavalry Helmet,itm_sturdy_khergit_cavalry_helmet,12
+1278,Battered Khergit Cavalry Helmet,itm_battered_khergit_cavalry_helmet,12
+1279,Banded Armor1,itm_banded_armor_skin,13
+1280,Haubergeon A1,itm_haubergeon_a_skin,13
+1281,Cuir Bouilli1,itm_cuir_bouilli_skin,13
+1282,Surcoat over Mail1,itm_surcoat_over_mail_skin,13
+1283,Surcoat over Mail2,itm_surcoat_over_mail_skin1,13
+1284,Surcoat over Mail3,itm_surcoat_over_mail_skin2,13
+1285,Surcoat over Mail4,itm_surcoat_over_mail_skin3,13
+1286,Surcoat over Mail5,itm_surcoat_over_mail_skin4,13
+1287,Surcoat over Mail6,itm_surcoat_over_mail_skin5,13
+1288,Surcoat over Mail7,itm_surcoat_over_mail_skin6,13
+1289,Surcoat over Mail8,itm_surcoat_over_mail_skin7,13
+1290,Surcoat over Mail9,itm_surcoat_over_mail_skin8,13
+1291,Surcoat over Mail10,itm_surcoat_over_mail_skin9,13
+1292,Surcoat over Mail11,itm_surcoat_over_mail_skin10,13
+1293,Surcoat over Mail12,itm_surcoat_over_mail_skin11,13
+1294,Surcoat over Mail13,itm_surcoat_over_mail_skin12,13
+1295,Surcoat over Mail14,itm_surcoat_over_mail_skin13,13
+1296,Surcoat over Mail15,itm_surcoat_over_mail_skin14,13
+1297,Surcoat over Mail16,itm_surcoat_over_mail_skin15,13
+1298,Surcoat over Mail17,itm_surcoat_over_mail_skin16,13
+1299,Surcoat over Mail18,itm_surcoat_over_mail_skin17,13
+1300,Plate Armor1,itm_plate_armor_skin,13
+1301,Plate Armor2,itm_plate_armor_skin1,13
+1302,Plate Armor3,itm_plate_armor_skin2,13
+1303,Plate Armor4,itm_plate_armor_skin3,13
+1304,Plate Armor5,itm_plate_armor_skin4,13
+1305,Plate Armor6,itm_plate_armor_skin5,13
+1306,Brigandine2,itm_brigandine_red_skin1,13
+1307,Brigandine3,itm_brigandine_red_skin2,13
+1308,Brigandine4,itm_brigandine_red_skin3,13
+1309,Brigandine5,itm_brigandine_red_skin4,13
+1310,Brigandine6,itm_brigandine_red_skin5,13
+1311,Brigandine7,itm_brigandine_red_skin6,13
+1312,Brigandine8,itm_brigandine_red_skin7,13
+1313,Brigandine9,itm_brigandine_red_skin8,13
+1314,Brigandine10,itm_brigandine_red_skin9,13
+1315,Brigandine11,itm_brigandine_red_skin10,13
+1316,Brigandine12,itm_brigandine_red_skin11,13
+1317,Brigandine13,itm_brigandine_red_skin12,13
+1318,Brigandine14,itm_brigandine_red_skin13,13
+1319,Brigandine16,itm_brigandine_red_skin15,13
+1320,Brigandine17,itm_brigandine_red_skin16,13
+1321,Scale Armor1,itm_scale_armor_skin,13
+1322,Mail Shirt1,itm_mail_shirt_skin,13
+1323,Mail Shirt2,itm_mail_shirt_skin1,13
+1324,Plate Boots1,itm_plate_boots_skin,14
+1325,Plate Boots2,itm_plate_boots_skin1,14
+1326,Mail Chausses1,itm_mail_chausses_skin,14
+1327,Gauntlets1,itm_gauntlets_skin,15
+1328,Flat Topped Helmet1,itm_flat_topped_helmet_skin,12
+1329,Flat Topped Helmet2,itm_flat_topped_helmet_skin1,12
+1330,Kettle Hat1,itm_kettle_hat_skin,12
+1331,Kettle Hat2,itm_kettle_hat_skin1,12
+1332,Kettle Hat3,itm_kettle_hat_skin2,12
+1333,Kettle Hat4,itm_kettle_hat_skin3,12
+1334,Kettle Hat5,itm_kettle_hat_skin4,12
+1335,Kettle Hat6,itm_kettle_hat_skin5,12
+1336,Winged Great Helmet1,itm_winged_great_helmet_skin,12
+1337,Winged Great Helmet2,itm_winged_great_helmet_skin1,12
+1338,Winged Great Helmet3,itm_winged_great_helmet_skin2,12
+1339,Winged Great Helmet4,itm_winged_great_helmet_skin3,12
+1340,Winged Great Helmet5,itm_winged_great_helmet_skin4,12
+1341,Winged Great Helmet6,itm_winged_great_helmet_skin5,12
+1342,Winged Great Helmet7,itm_winged_great_helmet_skin6,12
+1343,Winged Great Helmet8,itm_winged_great_helmet_skin7,12
+1344,Winged Great Helmet9,itm_winged_great_helmet_skin8,12
+1345,Winged Great Helmet11,itm_winged_great_helmet_skin10,12
+1346,Winged Great Helmet12,itm_winged_great_helmet_skin11,12
+1347,Winged Great Helmet13,itm_winged_great_helmet_skin12,12
+1348,Winged Great Helmet14,itm_winged_great_helmet_skin13,12
+1349,Winged Great Helmet15,itm_winged_great_helmet_skin14,12
+1350,Guard Helmet1,itm_guard_helmet_skin,12
+1351,Guard Helmet2,itm_guard_helmet_skin1,12
+1352,Guard Helmet3,itm_guard_helmet_skin2,12
+1353,Guard Helmet4,itm_guard_helmet_skin3,12
+1354,Bascinet1,itm_bascinet_skin,12
+1355,Bascinet with Aventail1,itm_bascinet_2_skin,12
+1356,Bascinet with Nose Guard1,itm_bascinet_3_skin,12
+1357,Great Helmet1,itm_great_helmet_skin,12
+1358,Great Helmet2,itm_great_helmet_skin1,12
+1359,Great Helmet3,itm_great_helmet_skin2,12
+1360,Great Helmet4,itm_great_helmet_skin3,12
+1361,Great Helmet5,itm_great_helmet_skin4,12
+1362,Great Helmet6,itm_great_helmet_skin5,12
+1363,Great Helmet7,itm_great_helmet_skin6,12
+1364,Great Helmet8,itm_great_helmet_skin7,12
+1365,Great Helmet9,itm_great_helmet_skin8,12
+1366,Great Helmet10,itm_great_helmet_skin9,12
+1367,Great Helmet11,itm_great_helmet_skin10,12
+1368,Great Helmet12,itm_great_helmet_skin11,12
+1369,Great Helmet13,itm_great_helmet_skin12,12
+1370,Great Helmet14,itm_great_helmet_skin13,12
+1371,Great Helmet15,itm_great_helmet_skin14,12
+1372,Great Helmet16,itm_great_helmet_skin15,12
+1373,Great Helmet17,itm_great_helmet_skin16,12
+1374,Great Helmet18,itm_great_helmet_skin17,12
+1375,Great Helmet19,itm_great_helmet_skin18,12
+1376,Great Helmet20,itm_great_helmet_skin19,12
+1377,Great Helmet21,itm_great_helmet_skin20,12
+1378,Great Helmet22,itm_great_helmet_skin21,12
+1379,Great Helmet23,itm_great_helmet_skin22,12
+1380,Great Helmet24,itm_great_helmet_skin23,12
+1381,Great Helmet25,itm_great_helmet_skin24,12
+1382,Great Helmet26,itm_great_helmet_skin25,12
+1383,Great Helmet27,itm_great_helmet_skin26,12
+1384,Great Helmet28,itm_great_helmet_skin27,12
+1385,Great Helmet29,itm_great_helmet_skin28,12
+1386,Great Helmet30,itm_great_helmet_skin29,12
+1387,Great Helmet31,itm_great_helmet_skin30,12
+1388,Great Helmet31 open,itm_great_helmet_skin30_open,12
+1389,Great Helmet32,itm_great_helmet_skin31,12
+1390,Great Helmet32 open,itm_great_helmet_skin31_open,12
+1391,Great Helmet33,itm_great_helmet_skin32,12
+1392,Great Helmet34,itm_great_helmet_skin33,12
+1393,Great Helmet35,itm_great_helmet_skin34,12
+1394,Full Helm1,itm_full_helm_skin,12
+1395,Full Helm2,itm_full_helm_skin1,12
+1396,Full Helm3,itm_full_helm_skin2,12
+1397,Full Helm4,itm_full_helm_skin3,12
+1398,Full Helm5,itm_full_helm_skin4,12
+1399,Full Helm6,itm_full_helm_skin5,12
+1400,Full Helm7,itm_full_helm_skin6,12
+1401,Full Helm8,itm_full_helm_skin7,12
+1402,Full Helm9,itm_full_helm_skin8,12
+1403,Full Helm10,itm_full_helm_skin9,12
+1404,Full Helm11,itm_full_helm_skin10,12
+1405,Mail Boots2,itm_mail_boots_skin1,14
+1406,Iron Greaves1,itm_iron_greaves_skin,14
+1407,Strange Armor1,itm_strange_armor_skin,13
+1408,Strange Boots1,itm_strange_boots_skin,14
+1409,Strange Helmet1,itm_strange_helmet_skin,12
+1410,Strange Gauntlets,itm_gauntlets_skin1,15
+1411,Huntdog Helmet,itm_huntdog_helmet,12
+1412,Huntdog Helmet open,itm_huntdog_helmet_open,12
+1413,Huntdog Brigandine,itm_huntdog_brigandine,13
+1414,Huntdog Mail Boots,itm_huntdog_mail_boots,14
+1415,Bear Armor,itm_bear_armor,13
+1416,Bear Gauntlets,itm_bear_gauntlets,15
+1417,Bear Boots,itm_bear_boots,14
+1418,Black Plate Helmet,itm_black_plate_helmet,12
+1419,Black Plate Armor,itm_black_plate_armor,13
+1420,Black Plate Greaves,itm_black_plate_greaves,14
+1421,Black Plate Gauntlets,itm_black_plate_gauntlets,15
+1422,Light Charger,itm_light_charger,1
+1423,Plated Charger2,itm_plated_charger_skin1,1
+1424,Plated Charger3,itm_plated_charger_skin2,1
+1425,Plated Charger5,itm_plated_charger_skin4,1
+1426,War Horse1,itm_warhorse_skin,1
+1427,War Horse2,itm_warhorse_skin1,1
+1428,War Horse3,itm_warhorse_skin2,1
+1429,War Horse4,itm_warhorse_skin3,1
+1430,War Horse5,itm_warhorse_skin4,1
+1431,War Horse6,itm_warhorse_skin5,1
+1432,War Horse7,itm_warhorse_skin6,1
+1433,War Horse8,itm_warhorse_skin7,1
+1434,War Horse9,itm_warhorse_skin8,1
+1435,War Horse10,itm_warhorse_skin9,1
+1436,War Horse11,itm_warhorse_skin10,1
+1437,War Horse12,itm_warhorse_skin11,1
+1438,War Horse13,itm_warhorse_skin12,1
+1439,War Horse14,itm_warhorse_skin13,1
+1440,War Horse15,itm_warhorse_skin14,1
+1441,War Horse16,itm_warhorse_skin15,1
+1442,War Horse17,itm_warhorse_skin16,1
+1443,War Horse18,itm_warhorse_skin17,1
+1444,War Horse19,itm_warhorse_skin18,1
+1445,War Horse20,itm_warhorse_skin19,1
+1446,War Horse21,itm_warhorse_skin20,1
+1447,War Horse22,itm_warhorse_skin21,1
+1448,War Horse23,itm_warhorse_skin22,1
+1449,War Horse24,itm_warhorse_skin23,1
+1450,War Horse25,itm_warhorse_skin24,1
+1451,War Horse26,itm_warhorse_skin25,1
+1452,War Horse27,itm_warhorse_skin26,1
+1453,War Horse28,itm_warhorse_skin27,1
+1454,War Horse29,itm_warhorse_skin28,1
+1455,War Horse30,itm_warhorse_skin29,1
+1456,War Horse31,itm_warhorse_skin30,1
+1457,War Horse32,itm_warhorse_skin31,1
+1458,War Horse33,itm_warhorse_skin32,1
+1459,War Horse34,itm_warhorse_skin33,1
+1460,War Horse35,itm_warhorse_skin34,1
+1461,War Horse36,itm_warhorse_skin35,1
+1462,War Horse37,itm_warhorse_skin36,1
+1463,War Horse38,itm_warhorse_skin37,1
+1464,War Horse39,itm_warhorse_skin38,1
+1465,War Horse40,itm_warhorse_skin39,1
+1466,War Horse41,itm_warhorse_skin40,1
+1467,War Horse42,itm_warhorse_skin41,1
+1468,War Horse43,itm_warhorse_skin42,1
+1469,War Horse44,itm_warhorse_skin43,1
+1470,War Horse45,itm_warhorse_skin44,1
+1471,War Horse46,itm_warhorse_skin45,1
+1472,War Horse47,itm_warhorse_skin46,1
+1473,War Horse48,itm_warhorse_skin47,1
+1474,Steppe War Horse1,itm_warhorse_sarranid_skin,1
+1475,Steppe War Horse2,itm_warhorse_sarranid_skin1,1
+1476,Steppe War Horse3,itm_warhorse_sarranid_skin2,1
+1477,Steppe War Horse4,itm_warhorse_sarranid_skin3,1
+1478,Steppe War Horse5,itm_warhorse_sarranid_skin4,1
+1479,Steppe War Horse6,itm_warhorse_sarranid_skin5,1
+1480,Steppe War Horse7,itm_warhorse_sarranid_skin6,1
+1481,Steppe War Horse8,itm_warhorse_sarranid_skin7,1
+1482,Steppe War Horse9,itm_warhorse_sarranid_skin8,1
+1483,Steppe War Horse10,itm_warhorse_sarranid_skin9,1
+1484,Steppe War Horse11,itm_warhorse_sarranid_skin10,1
+1485,Steppe War Horse12,itm_warhorse_sarranid_skin11,1
+1486,Steppe War Horse13,itm_warhorse_sarranid_skin12,1
+1487,Steppe War Horse14,itm_warhorse_sarranid_skin13,1
+1488,Steppe War Horse15,itm_warhorse_sarranid_skin14,1
+1489,Steppe War Horse16,itm_warhorse_sarranid_skin15,1
+1490,Steppe War Horse17,itm_warhorse_sarranid_skin16,1
+1491,Steppe War Horse18,itm_warhorse_sarranid_skin17,1
+1492,War Horse1,itm_warhorse_steppe_skin,1
+1493,War Horse2,itm_warhorse_steppe_skin1,1
+1494,War Horse3,itm_warhorse_steppe_skin2,1
+1495,Light Charger1,itm_light_charger_skin,1
+1496,Light Charger2,itm_light_charger_skin1,1
+1497,Light Charger3,itm_light_charger_skin2,1
+1498,Light Charger4,itm_light_charger_skin3,1
+1499,Light Charger5,itm_light_charger_skin4,1
+1500,Charger1,itm_charger_skin,1
+1501,Charger2,itm_charger_skin1,1
+1502,Charger3,itm_charger_skin2,1
+1503,Charger4,itm_charger_skin3,1
+1504,Charger5,itm_charger_skin4,1
+1505,Charger6,itm_charger_skin5,1
+1506,Charger7,itm_charger_skin6,1
+1507,Charger8,itm_charger_skin7,1
+1508,Courser1,itm_courser_skin,1
+1509,cw_plate_falcon_hood,itm_cw_plate_falcon_hood,12
+1510,cw_greataxe_adjudgment,itm_cw_greataxe_adjudgment,3
+1511,cw_shhuzhi_shield,itm_cw_shhuzhi_shield,7
+1512,cw_yanyuedao,itm_cw_yanyuedao,4
+1513,cw_knight_mace,itm_cw_knight_mace,2
+1514,cw_ba_knight_long_axe,itm_cw_ba_knight_long_axe,2
+1515,cw_gudar_fist_x,itm_cw_gudar_fist_x,3
+1516,cw_corprus_flamberg,itm_cw_corprus_flamberg,3
+1517,cw_ironcramp_staff,itm_cw_ironcramp_staff,4
+1518,cw_trtd,itm_cw_trtd,2
+1519,cw_falcon_heavy_lance,itm_cw_falcon_heavy_lance,4
+1520,cw_falcon_kite_shield,itm_cw_falcon_kite_shield,7
+1521,cw_galloping_rainbow,itm_cw_galloping_rainbow,1
+1522,cw_giant_dargon,itm_cw_giant_dargon,1
+1523,cw_courser_dh_armor,itm_cw_courser_dh_armor,1
+1524,cw_iron_pagoda,itm_cw_iron_pagoda,1
+1525,cw_helm_invisible,itm_cw_helm_invisible,12
+1526,cw_Assassin_Leather,itm_cw_armor8,13
+1527,cw_Assassin_Gloves,itm_cw_assassin_gloves,15
+1528,cw_Assassin_Boots,itm_cw_boot7,14
+1529,cw_Damascus_Steel_Armor,itm_cw_dmsg_steel_armor,13
+1530,cw_Damascus_Steel_Greaves,itm_cw_dmsg_steel_greaves,14
+1531,cw_Damascus_Steel_Gauntlets,itm_cw_dmsg_steel_gauntlets,15
+1532,cw_Knight_of_Freedom's_Helmet,itm_cw_kof_cpt_helm,12
+1533,cw_kof_cpt_armor,itm_cw_kof_cpt_armor,13
+1534,cw_Knight_Gauntlets,itm_cw_kof_cpt_gauntlets,15
+1535,cw_Knight_of_Freedom's_Greaves,itm_cw_kof_cpt_greaves,14
+1536,cw_Falcon_Armor,itm_cw_plate_falcon,13
+1537,cw_Plate_boots_falcon,itm_cw_plate_boots_falcon,14
+1538,cw_Falcon_Gauntlets,itm_cw_falcon_gauntlets,15
+1539,cw_Leader_Helmet,itm_cw_leader_helmet,12
+1540,cw_Knight_FullArmore,itm_cw_armor12,13
+1541,cw_knight_gauntlets_qs,itm_cw_knight_gauntlets_qs,15
+1542,cw_boot3,itm_cw_boot3,14
+1543,cw_steppe_cap_heavy,itm_cw_steppe_cap_heavy,12
+1544,cw_steppe_mask_heavy,itm_cw_steppe_mask_heavy,12
+1545,cw_Heavy_Lamellar_Armor,itm_cw_lamellar_armor_dc,13
+1546,cw_Steppe_Gauntlets,itm_cw_steppe_glove_hav,15
+1547,cw_nanguatou_had,itm_cw_nanguatou_had,12
+1548,cw_nanhguabis,itm_cw_nanhguabis,2

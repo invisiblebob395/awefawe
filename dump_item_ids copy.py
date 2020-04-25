@@ -13,4 +13,4 @@ with open(args.output_file + ".txt", "w") as f:
       continue
     elif (item[0] == "all_items_end"):
       break
-    f.write("{0:3},{1},{2},{3}\n".format(i, item[1], 'itm_' + item[0], item[3] % 100))
+    f.write("{0:3} = {1} ({2})\n".format(i, item[1], item[0]))

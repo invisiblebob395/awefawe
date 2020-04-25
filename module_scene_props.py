@@ -528,7 +528,6 @@ def spr_cart_triggers(horse=-1, detach_offset=0, detach_rotation=0, inventory_co
       (scene_prop_set_slot, ":instance_id", slot_scene_prop_width, access_distance),
       (scene_prop_set_slot, ":instance_id", slot_scene_prop_use_string, use_string),
       (scene_prop_set_slot, ":instance_id", slot_scene_prop_collision_kind, -1),
-      (prop_instance_enable_physics, ":instance_id", 0),
       (call_script, "script_add_cart_to_list", ":instance_id"),
       ]),
     (ti_on_scene_prop_use,
@@ -3401,6 +3400,12 @@ scene_props = [
   ("code_freeze_agent",sokf_moveable,"0","bo_pw_freeze_agent", []),
   ("code_freeze_horse_agent",sokf_moveable,"0","bo_pw_freeze_horse_agent", []),
 
+  
+    ("pw_wooden_standyws",0,"pw_wooden_standyws","bo_pw_wooden_standyws", []),  
+  
+  
+  
+  
   ("custom_script_trigger_a",sokf_invisible|spr_use_time(1),"pw_invisible_chest","bo_pw_invisible_chest", []),
   ("custom_script_trigger_b",sokf_invisible|spr_use_time(1),"pw_invisible_chest","bo_pw_invisible_chest", []),
   ("custom_script_trigger_c",sokf_invisible|spr_use_time(1),"pw_invisible_chest","bo_pw_invisible_chest", []),
@@ -3410,7 +3415,7 @@ scene_props = [
   ###GGG:outlaw rating
   ("pw_sinner_book",spr_use_time(3),"pw_book_f_open","bo_pw_weapon_small", spr_clean_sin_triggers()),
   ###GGG:smithing system
-  ("pw_process_smithing",spr_use_time(10),"bench_tavern_b","bo_bench_tavern_b", spr_workbench_triggers(inventory_count=18)),
+  ("pw_process_smithing",spr_use_time(10),"pw_prcess_smithing","bo_pw_prcess_smithing", spr_workbench_triggers(inventory_count=18)),
   ("pw_process_forging",spr_use_time(10),"smithy_forge_bellows","bo_smithy_forge_bellows", spr_workbench_triggers(inventory_count=2)),
   ###GGG:new supplies
   ("pw_stockpile_bread",spr_use_time(1),"pw_bread_a","bo_pw_weapon_small", spr_stockpile_resource_triggers("itm_bread")),
