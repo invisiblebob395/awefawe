@@ -5164,20 +5164,28 @@ scripts.extend([
 		      #(position_has_line_of_sight_to_position, pos10, pos11),
 		      (get_distance_between_positions_in_meters, reg11, pos10, pos11),
 		      (lt, reg11, 35),
-		      (assign, ":continue", 0),
-		      (eq, ":continue", 0), ##double check for hostile
+		      (eq, ":continue", 1), ##double check for hostile
 		      (try_begin),
 		      	(neq, ":playerFac", "fac_commoners"),
 		      	(neq, ":playerFac", "fac_outlaws"),
 		      	(neq, ":curPlayerFac", "fac_outlaws"),
 		      	(call_script, "script_cf_factions_are_hostile", ":playerFac", ":curPlayerFac"),
-		      	(assign, ":continue", 1),
+		      	(assign, ":continue", 0),
+		      (else_try),
+		      	(eq, ":playerFac", "fac_outlaws"),
+		      	(neq, ":curPlayerFac", "fac_outlaws"),
+		      	(assign, ":continue", 0),
+		      (else_try),
+		      	(neq, ":playerFac", "fac_outlaws"),
+		      	(eq, ":curPlayerFac", "fac_outlaws"),
+		      	(assign, ":continue", 0),
 		      (try_end),
 		    (try_end),
 		  (try_end),
 	  (try_end),
 	  (assign, reg10, ":continue"),
 	]),
+
 	
 	#GGG:admin tools
 	("cf_increase_stock_count", #server: increase stock count
@@ -5594,6 +5602,7 @@ scripts.extend([
 	 [(store_script_param, ":player_id", 1), # must be valid
 	###Arthur begins: check that player has been initialized already
 	(player_slot_eq, ":player_id", slot_player_initialized, 1),
+	(player_get_unique_id, reg1, ":player_id"),
 	###	
 	##arthur: code serves no purpose..
 	 #(try_begin), #schauen ob player exploited
