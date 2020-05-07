@@ -2722,7 +2722,7 @@ itm_wall_banner("fac_8", "b"),
  
  
  
-["cw_nanguatou_had", "cw_nanguatou_had", [("nanguatou_f",0)], itp_merchandise| itp_type_head_armor|itp_covers_head,0, 980 , weight(1)|abundance(100)|head_armor(48)|body_armor(0)|leg_armor(0)|difficulty(12) ,imodbits_plate ],
+["cw_nanguatou_had", "cw_nanguatou_had", [("nanguatou_f",0)], itp_merchandise| itp_type_head_armor|itp_covers_head,0, 980 , weight(1)|abundance(100)|head_armor(10)|body_armor(0)|leg_armor(0)|difficulty(0) ,imodbits_plate ],
 
  
  
