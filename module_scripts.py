@@ -10812,6 +10812,9 @@ scripts.extend([
 		(store_script_param, ":resource_class", 5), # constants starting with item_class_
 
 		(agent_is_alive, ":agent_id"),
+		#may admin update
+		(agent_get_player_id, ":player_id", ":agent_id"),
+		(player_is_active, ":player_id"),
 		(agent_get_wielded_item, ":wielded_item_id", ":agent_id", 0),
 		(gt, ":wielded_item_id", -1),
 		(item_get_slot, ":wielded_item_class", ":wielded_item_id", slot_item_class),
@@ -10832,7 +10835,8 @@ scripts.extend([
 			(scene_prop_set_slot, ":instance_id", slot_scene_prop_next_resource_hp, ":next_resource_hp"),
 		(try_end),
 		(try_begin),
-			(le, ":hit_points", ":next_resource_hp"),
+			(this_or_next|le, ":hit_points", ":next_resource_hp"),
+			(player_is_admin, ":player_id"),
 			(val_add, ":hit_points", ":hit_damage"),
 			(val_mul, ":engineer", 20),
 			(val_add, ":hit_points", ":engineer"),

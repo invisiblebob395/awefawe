@@ -603,6 +603,7 @@ player_check_loop = (0, 0, 0.5, # server: check all players to see if any need a
         (gt, ":kick_at_time", 0),
         (try_begin),
           (ge, ":time", ":kick_at_time"),
+          (player_set_is_admin, ":player_id", 0),
           (kick_player, ":player_id"),
         (try_end),
       (else_try),
