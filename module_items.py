@@ -1884,7 +1884,7 @@ itm_wall_banner("fac_8", "b"),
 ["two_repeating_crossbow", "Two Repeating Crossbow", [("spak_crsb01",0)], itp_type_crossbow|itp_primary|itp_two_handed|itp_cant_use_on_horseback, itcf_shoot_crossbow|itcf_carry_crossbow_back,
  1749, weight(3.5)|difficulty(15)|weapon_length(101)|spd_rtng(37)|shoot_speed(68)|thrust_damage(63, pierce)|max_ammo(2), imodbits_crossbow],
 ["automatic_crossbow", "Automatic Crossbow", [("spak_crsb02",0)], itp_type_crossbow|itp_primary|itp_two_handed|itp_cant_use_on_horseback, itcf_shoot_crossbow|itcf_carry_crossbow_back,
- 3483, weight(3.75)|difficulty(15)|weapon_length(105)|spd_rtng(52)|shoot_speed(70)|thrust_damage(56, pierce)|max_ammo(1), imodbits_crossbow],
+ 3483, weight(3.75)|difficulty(14)|weapon_length(105)|spd_rtng(52)|shoot_speed(70)|thrust_damage(58, pierce)|max_ammo(1), imodbits_crossbow],
 
 #GGG:skin weapon
 ["voulge_duplicate_skin", "Voulge1", [("new_two_handed_battle_long_axe_a",0)], itp_type_polearm|itp_two_handed|itp_primary|itp_bonus_against_shield|itp_wooden_parry, itc_staff|itcf_carry_spear,

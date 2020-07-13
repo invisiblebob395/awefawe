@@ -157,7 +157,7 @@ qstr_http://localhost/backendDsDvC/loadfa http://localhost/backendDsDvC/loadfact
 qstr_http://localhost/backendDsDvC/loadfac http://localhost/backendDsDvC/loadfaction.php?faction={reg25}
 qstr_http://localhost/backendDsDvC/loadfact http://localhost/backendDsDvC/loadfaction.php?faction={reg26}
 qstr_http://localhost/backendDsDvC/loadfacti http://localhost/backendDsDvC/loadfaction.php?faction={reg27}
-qstr_http://www.pwyonghen http://www.pwyongheng.cn/api/logip/?guid={reg44}&ip={s77}&key={s99}
+qstr_http://api.persisten http://api.persistentworld.cn/server/logip/?guid={reg44}&ip={s77}&ApiKey={s99}
 qstr_You_are_a_commoner You_are_a_commoner
 qstr_{s1}_mounted_a_horse {s1}_mounted_a_horse
 qstr_{s1}_dismounted_a_ho {s1}_dismounted_a_horse

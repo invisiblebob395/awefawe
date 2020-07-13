@@ -5128,7 +5128,6 @@ scripts.extend([
 			(agent_is_active, ":horse"),
 			(agent_is_alive, ":horse"),
 			(agent_get_item_id, ":item_id", ":horse"),
-			(neq, ":item_id", "itm_cart_horse"),
 			(assign, ":teleporter", ":horse"),
 		(try_end),
 		(agent_set_position, ":teleporter", ":position"),
