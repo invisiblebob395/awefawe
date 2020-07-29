@@ -1,4 +1,4 @@
-165
+176
 qstr_http://localhost/bac http://localhost/backendDsDvC/loadprivatechest.php?playerid={reg53}&guid={reg54}
 qstr_This_chest_is_using_ This_chest_is_using_now,_please_wait_a_minute.
 qstr_0 0
@@ -90,13 +90,21 @@ qstr_Loaded_private_chest Loaded_private_chest:_{reg52}_items_{s21}_succesfully_
 qstr_your_guid_is_{reg1} your_guid_is_{reg1}
 qstr_your_invitation_code your_invitation_code_is_{reg2}
 qstr_you_have_{reg2}_dnr_ you_have_{reg2}_dnr_in_bank
+qstr_{s98}_opened_door_nu {s98}_opened_door_number_{reg2}
 qstr_Welcome_home! Welcome_home!
 qstr_This_is_not_your_hou This_is_not_your_house!
+qstr_{s98}_failed_to_open {s98}_failed_to_open_door_number_{reg2}
 qstr_You_have_nearby_enem You_have_nearby_enemies!_Please_retreat_to_a_safe_area_and_try_again!
 qstr_Disconnecting... Disconnecting...
 qstr_Exit_reqeusted Exit_reqeusted
 qstr_obliged obliged
 qstr_nope nope
+qstr_UNRECOGNIZED UNRECOGNIZED
+qstr_{ {
+qstr__ _
+qstr_} }
+qstr_< <
+qstr_> >
 qstr_http://localhost/backendDsDvC/d http://localhost/backendDsDvC/deposit.php?guid={reg2}&playerid={reg0}&gold={s0}&carried={reg8}
 qstr_http://localhost/backendDsDvC/w http://localhost/backendDsDvC/withdraw.php?guid={reg2}&playerid={reg0}&gold={s0}&carried={reg8}
 qstr_http://localhost/backendDsDvC/i http://localhost/backendDsDvC/igcommand.php?value={s0}&playerid={reg1}&guid={reg2}
@@ -137,6 +145,9 @@ qstr_{s1}_pick_locked_a_d {s1}_pick_locked_a_door_owned_by:_{s2}
 qstr_http://localhost/backendDsDvC/che http://localhost/backendDsDvC/checkhouse.php?guid={reg1}&house={reg2}&playerid={reg3}
 qstr_{s1}_pick_locked_a_c {s1}_pick_locked_a_chest_owned_by:_{s2}
 qstr_You_have_accessed_a_ You_have_accessed_a_house_item_bank.
+qstr_{s98}_accessed_house {s98}_accessed_house_chest_{reg99}
+qstr_{s99}_took_{s98}_fro {s99}_took_{s98}_from_a_chest
+qstr_{s99}_deposited_{s98 {s99}_deposited_{s98}_to_a_chest
 qstr_item={reg1}{reg2}{reg item={reg1}|{reg2}|{reg3}|{reg4}|{reg5}|{reg6}|{reg7}|{reg8}|{reg9}|{reg10}|{reg11}|{reg12}|{reg13}|{reg14}|{reg15}|{reg16}|{reg17}|{reg18}|{reg19}|{reg20}|{reg21}|{reg22}|{reg23}|{reg24}|{reg25}|{reg26}|{reg27}|{reg28}|{reg29}|{reg30}|{reg31}|{reg32}|{reg33}
 qstr_http://localhost/backendDsDvC/sav http://localhost/backendDsDvC/saveprivatechest.php?guid={reg54}&{s21}
 qstr_Saved_private_chest: Saved_private_chest:_{reg54}_items_{s21}_succesfully_into_the_database.

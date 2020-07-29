@@ -694,7 +694,7 @@ scripts.extend([
 							(try_end),
 				 (else_try),
 							(gt, ":food_amount", 0),
-							(store_agent_hit_points, ":agent_hp", ":agent_id", 1),
+							(store_agent_hit_points, ":agent_hp", ":agent_id"),
 							(agent_get_slot, ":food_amount", ":agent_id", slot_agent_food_amount),
 							(try_begin),
 								(ge, ":food_amount", 1),
@@ -702,7 +702,7 @@ scripts.extend([
 								(lt, ":agent_hp", 100), #do not increase if already max
 								(store_add, ":new_hp", ":agent_hp", 1),
 								(val_sub, ":food_amount", 1),
-								(agent_set_hit_points, ":agent_id", ":new_hp", 1),
+								(agent_set_hit_points, ":agent_id", ":new_hp"),
 								(agent_set_slot, ":agent_id", slot_agent_food_amount, ":food_amount"),
 							(try_end),                    
 				 (try_end),
@@ -813,7 +813,6 @@ scripts.extend([
 				 (assign, ":title_number", reg17),
 
 				 (player_is_active, ":player_id"), #GGG:debug
-
 				 #GGG:title
 				 (player_set_slot, ":player_id", slot_player_title, ":title_number"),
 				 (get_max_players, ":max_players"),
@@ -867,11 +866,16 @@ scripts.extend([
 				 (else_try),
 						(call_script, "script_change_faction", ":player_id", ":faction", change_faction_type_respawn),
 				 (try_end),
+
+				 (try_begin),
+				 	(gt, reg18, 340),
+				 	(player_add_spawn_item, ":player_id", ek_horse, reg18),
+				 (try_end),
 			 
 				 (try_begin), # if the player is admin give him the admin thing
-						(ge, ":integer_count", 18), #If there are more than 18 Integers then the player has ADMIN PERMISSIONS
+						(ge, ":integer_count", 19), #If there are more than 18 Integers then the player has ADMIN PERMISSIONS
 						(player_is_admin, ":player_id"),
-						(assign, ":admin_permissions", reg18),
+						(assign, ":admin_permissions", reg19),
 						(val_max, ":admin_permissions", 0),
 						(call_script, "script_player_set_admin_permissions", ":player_id", ":admin_permissions"),
 						(multiplayer_send_int_to_player, ":player_id", server_event_admin_set_permissions, ":admin_permissions"),
@@ -908,7 +912,7 @@ scripts.extend([
 				 #Arthur no global chat
 				(try_begin),
 					(neg|player_is_admin, ":player_id"),
-					(player_set_is_muted, ":player_id", 1, 1), 
+					#(player_set_is_muted, ":player_id", 1, 1), 
 				(try_end),
 				 #Get Agent ID
 				 (player_get_agent_id, ":agent_id", reg1),
@@ -926,17 +930,18 @@ scripts.extend([
 						(position_set_x, pos2, ":coordinate_x"),
 						(position_set_y, pos2, ":coordinate_y"),
 						(position_set_z, pos2, ":coordinate_z"),
-						(agent_set_position, ":agent_id", pos2),
+						(call_script, "script_cf_teleport_agent_to_pos", ":agent_id", pos2),
+						#(agent_set_position, ":agent_id", pos2),
 					# Spawn horse
-						(try_begin),
-							(gt, ":horse", 340),
+						#(try_begin),
+						#	(gt, ":horse", 340),
 							#pferd existiert jetzt spawnen etc
-							(spawn_horse, ":horse"),
-							(player_set_slot, ":player_id", slot_player_equip_horse, ":horse"),
-							(agent_set_position, reg0, pos2),
-							(agent_set_slot, reg0, slot_agent_horse_last_rider, ":agent_id"),
-							(agent_set_slot, ":agent_id", slot_agent_last_horse_ridden, reg0),
-						(try_end),
+						#	(spawn_horse, ":horse"),
+						#	(player_set_slot, ":player_id", slot_player_equip_horse, ":horse"),
+						#	(agent_set_position, reg0, pos2),
+						#	(agent_set_slot, reg0, slot_agent_horse_last_rider, ":agent_id"),
+						#	(agent_set_slot, ":agent_id", slot_agent_last_horse_ridden, reg0),
+						#(try_end),
 				 (try_end),
 	 
 				 ### Health + Food ###
@@ -1038,7 +1043,7 @@ scripts.extend([
 				 #Arthur no global chat
 				(try_begin),
 					(neg|player_is_admin, ":player_id"),
-					(player_set_is_muted, ":player_id", 1, 1), 
+					#(player_set_is_muted, ":player_id", 1, 1), 
 				(try_end),
 				 #GGG:title
 				 (player_set_slot, ":player_id", slot_player_title, ":title_number"),
@@ -1086,7 +1091,7 @@ scripts.extend([
 				#Arthur no global chat
 				(try_begin),
 					(neg|player_is_admin, ":player_id"),
-					(player_set_is_muted, ":player_id", 1, 1), 
+					#(player_set_is_muted, ":player_id", 1, 1), 
 				(try_end),
 				 (try_begin),
 						(eq, ":faction", 0),
@@ -1109,7 +1114,7 @@ scripts.extend([
 				 #Arthur no global chat
 				(try_begin),
 					(neg|player_is_admin, ":player_id"),
-					(player_set_is_muted, ":player_id", 1, 1), 
+					#(player_set_is_muted, ":player_id", 1, 1), 
 				(try_end),
 				 #GGG:title
 				 (player_set_slot, ":player_id", slot_player_title, ":title_number"),
@@ -1157,7 +1162,7 @@ scripts.extend([
 				 #Arthur no global chat
 				(try_begin),
 					(neg|player_is_admin, ":player_id"),
-					(player_set_is_muted, ":player_id", 1, 1), 
+					#(player_set_is_muted, ":player_id", 1, 1), 
 				(try_end),
 				 #GGG:title
 				 (player_set_slot, ":player_id", slot_player_title, ":title_number"),
@@ -1235,11 +1240,16 @@ scripts.extend([
 				 (else_try),
 						(call_script, "script_change_faction", ":player_id", ":faction", change_faction_type_respawn),
 				 (try_end),
+
+				(try_begin),
+				 	(gt, reg18, 340),
+				 	(player_add_spawn_item, ":player_id", ek_horse, reg18),
+				 (try_end),
 			 
 				 (try_begin), # if the player is admin give him the admin thing
-						(ge, ":integer_count", 18), #If there are more than 18 Integers then the player has ADMIN PERMISSIONS
+						(ge, ":integer_count", 19), #If there are more than 18 Integers then the player has ADMIN PERMISSIONS
 						(player_is_admin, ":player_id"),
-						(assign, ":admin_permissions", reg18),
+						(assign, ":admin_permissions", reg19),
 						(val_max, ":admin_permissions", 0),
 						(call_script, "script_player_set_admin_permissions", ":player_id", ":admin_permissions"),
 						(multiplayer_send_int_to_player, ":player_id", server_event_admin_set_permissions, ":admin_permissions"),
@@ -1260,7 +1270,7 @@ scripts.extend([
 				 #Arthur no global chat
 				(try_begin),
 					(neg|player_is_admin, ":player_id"),
-					(player_set_is_muted, ":player_id", 1, 1), 
+					#(player_set_is_muted, ":player_id", 1, 1), 
 				(try_end),
 				 #GGG:title
 				 (player_set_slot, ":player_id", slot_player_title, ":title_number"),
@@ -1311,11 +1321,16 @@ scripts.extend([
 				 (else_try),
 						(call_script, "script_change_faction", ":player_id", ":faction", change_faction_type_respawn),
 				 (try_end),
-			 
+			 	
+			 	(try_begin),
+				 	(gt, reg18, 340),
+				 	(player_add_spawn_item, ":player_id", ek_horse, reg18),
+				 (try_end),
+
 				 (try_begin), # if the player is admin give him the admin thing
-						(ge, ":integer_count", 18), #If there are more than 18 Integers then the player has ADMIN PERMISSIONS
+						(ge, ":integer_count", 19), #If there are more than 18 Integers then the player has ADMIN PERMISSIONS
 						(player_is_admin, ":player_id"),
-						(assign, ":admin_permissions", reg18),
+						(assign, ":admin_permissions", reg19),
 						(val_max, ":admin_permissions", 0),
 						(call_script, "script_player_set_admin_permissions", ":player_id", ":admin_permissions"),
 						(multiplayer_send_int_to_player, ":player_id", server_event_admin_set_permissions, ":admin_permissions"),
@@ -1790,7 +1805,8 @@ scripts.extend([
 				 (assign, ":player_id", reg1),
 				 (player_is_active, ":player_id"),
 					#reg 2 is house id
-					 
+				(str_store_player_username, s98, ":player_id"),
+				(server_add_message_to_log, "@{s98} opened door number {reg2}"),
 				 (str_store_string, s0, "@Welcome home!"),
 				 (multiplayer_send_string_to_player, ":player_id", server_event_local_chat, s0),
 				 (assign, ":loop_stop", 0),
@@ -1815,6 +1831,8 @@ scripts.extend([
 					#reg 2 is house id
 					
 				 (str_store_string, s0, "@This is not your house!"),
+				 (str_store_player_username, s98, ":player_id"),
+				 (server_add_message_to_log, "@{s98} failed to open door number {reg2}"),
 				 (multiplayer_send_string_to_player, ":player_id", server_event_local_chat, s0),
 			(try_end),
 
@@ -2427,6 +2445,12 @@ scripts.extend([
 					(call_script, "script_chat_event_increment", ":event_type"), # store the next chat event number expected from the player
 					(player_set_slot, ":sender_player_id", slot_player_next_chat_event_type, reg0),
 					(neg|str_is_empty, s0),
+					(multiplayer_is_server),
+					(neg|str_contains, s0, "@UNRECOGNIZED"),
+					(str_store_replace, s0, s0, "@{", "@_"),
+					(str_store_replace, s0, s0, "@}", "@_"),
+					(str_store_replace, s0, s0, "@<", "@_"),
+					(str_store_replace, s0, s0, "@>", "@_"),
 					###GGG:new bank
 					(player_is_active, ":sender_player_id"),
 					(player_get_slot, ":enter_amount", ":sender_player_id", slot_player_must_enter_amount),
@@ -5127,7 +5151,7 @@ scripts.extend([
 		(try_begin),
 			(agent_is_active, ":horse"),
 			(agent_is_alive, ":horse"),
-			(agent_get_item_id, ":item_id", ":horse"),
+			#(agent_get_item_id, ":item_id", ":horse"),
 			(assign, ":teleporter", ":horse"),
 		(try_end),
 		(agent_set_position, ":teleporter", ":position"),
@@ -5332,7 +5356,7 @@ scripts.extend([
 			(try_begin),
 				#(eq, "$g_mute_global_chat", 1),
 				#(player_set_is_muted, ":player_id", "$g_mute_global_chat"), 
-				(player_set_is_muted, ":player_id", 1),
+				#(player_set_is_muted, ":player_id", 1),
 			(try_end),
 		(try_end),
 		]),
@@ -10773,10 +10797,12 @@ scripts.extend([
 	 [(store_script_param, ":instance_id", 1), # must be valid
 
 		(prop_instance_get_variation_id_2, ":design_target_stock_count", ":instance_id"),
+		(store_mod, ":is_odd", ":design_target_stock_count", 2),
 		(scene_prop_get_slot, ":stock_count", ":instance_id", slot_scene_prop_stock_count),
 		(store_sub, ":stock_count_factor", ":design_target_stock_count", ":stock_count"),
 		(try_begin),
 			(gt, ":stock_count_factor", 0),
+			(eq, ":is_odd", 0),
 			(scene_prop_get_slot, ":item_id", ":instance_id", slot_scene_prop_item_id),
 			(call_script, "script_scene_prop_get_gold_value", ":instance_id", ":item_id", 0),
 			(store_mul, ":gold_reward", reg0, craft_price_gold_reward_percentage),
@@ -11684,9 +11710,12 @@ scripts.extend([
 			(eq, ":scene_prop_kind", "spr_pw_item_chest_a"), 
 			(prop_instance_get_variation_id_2, ":chest_id", ":instance_id"),
 			(gt, ":chest_id", 0),
+			(assign, reg99, ":chest_id"),
 
 			(str_store_string, s0, "@You have accessed a house item bank."),
 			(multiplayer_send_string_to_player, ":player_id", server_event_local_chat, s0),
+			(str_store_player_username, s98, ":player_id"),
+			(server_add_message_to_log, "@{s98} accessed house chest {reg99}"),
 		(try_end),
 		#
 		(agent_set_animation, ":agent_id", "anim_access_inventory"),
@@ -11930,6 +11959,9 @@ scripts.extend([
 						(gt, ":item_ammo", -1),
 						(agent_set_ammo, ":agent_id", ":item_id", ":item_ammo"),
 					(try_end),
+					(str_store_item_name, s98, ":item_id"),
+					(str_store_player_username, s99, ":player_id"),
+					(server_add_message_to_log, "@{s99} took {s98} from a chest"),
 				(else_try),
 					(scene_prop_set_slot, ":instance_id", ":to_slot", ":item_id"),
 					(try_begin),
@@ -11937,6 +11969,9 @@ scripts.extend([
 						(store_add, ":to_ammo_slot", ":to_slot", slot_scene_prop_inventory_ammo_begin - slot_scene_prop_inventory_begin),
 						(scene_prop_set_slot, ":instance_id", ":to_ammo_slot", ":item_ammo",),
 					(try_end),
+					(str_store_item_name, s98, ":item_id"),
+					(str_store_player_username, s99, ":player_id"),
+					(server_add_message_to_log, "@{s99} deposited {s98} to a chest"),
 				(try_end),
 				(try_begin), # ignore empty ammo items
 					(eq, ":item_ammo", 0),
@@ -15209,6 +15244,7 @@ scripts.extend([
 			(try_end),
 		(else_try),
 		###GGG:lance break system
+			(eq, 1, 2),
 			(this_or_next|eq, ":weapon_item_id", "itm_light_lance"),
 			(this_or_next|eq, ":weapon_item_id", "itm_lance"),
 			(this_or_next|eq, ":weapon_item_id", "itm_heavy_lance"),

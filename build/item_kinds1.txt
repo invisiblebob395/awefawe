@@ -3521,7 +3521,7 @@ itemsfile version 3
 1
 -50.000000  1 1981 2 1729382256910270508 432345564227567625 
 
- itm_admin_horse Admin_Horse Admin_Horse 1  plated_charger_black 0  1 0 0 34359738368 0.000000 100 0 100 0 0 500 100 400 130 0 50 0
+ itm_admin_horse Admin_Horse Admin_Horse 1  plated_charger_black 0  1 0 0 34359738368 0.000000 100 0 100 0 10 500 100 400 130 0 0 0
  0
 0
 

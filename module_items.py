@@ -1396,7 +1396,7 @@ itm_wall_banner("fac_7", "b"),
 itm_wall_banner("fac_8", "b"),
 
 ["admin_horse", "Admin Horse", [("plated_charger_black",0)], itp_type_horse, 0,
- 0, hit_points(500)|body_armor(100)|difficulty(0)|horse_speed(400)|horse_maneuver(100)|horse_charge(50)|horse_scale(130), imodbit_spirited],
+ 0, hit_points(500)|body_armor(100)|difficulty(10)|horse_speed(400)|horse_maneuver(100)|horse_charge(0)|horse_scale(130), imodbit_spirited],
 ["invisible_head", "Invisible Head", [("invisible",0)], itp_type_head_armor|itp_covers_head, 0,
  0, weight(1)|head_armor(80)|difficulty(30), imodbits_none],
 ["invisible_body", "Invisible Body", [("invisible",0)], itp_type_body_armor|itp_covers_legs, 0,

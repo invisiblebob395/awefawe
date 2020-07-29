@@ -532,6 +532,7 @@ agent_hit = (ti_on_agent_hit, 0, 0, [], # server: apply extra scripted effects f
       (call_script, "script_agent_hit_with_scripted_item", ":attacked_agent_id", ":attacker_agent_id", ":damage_dealt", reg0),
     #GGG:lance break system
     (else_try),
+      (eq, 1, 2),
       (this_or_next|eq, reg0, "itm_light_lance"),
       (this_or_next|eq, reg0, "itm_lance"),
       (this_or_next|eq, reg0, "itm_heavy_lance"),
