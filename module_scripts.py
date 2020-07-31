@@ -2723,6 +2723,11 @@ scripts.extend([
 					(store_script_param, ":command", 3),
 					(store_script_param, ":value", 4),
 					(store_script_param, ":value_2", 5),
+					(try_begin),
+						(eq, ":command", command_start_scene),
+						(str_store_player_username, s98, ":sender_player_id"),
+						(server_add_message_to_log, "@{s98} changed the scene"),
+					(try_end),
 					(call_script, "script_cf_execute_command", ":command", ":value", ":value_2"),
 				(try_end),
 			(else_try), # handle admins changing the server name

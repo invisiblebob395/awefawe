@@ -1,4 +1,4 @@
-176
+177
 qstr_http://localhost/bac http://localhost/backendDsDvC/loadprivatechest.php?playerid={reg53}&guid={reg54}
 qstr_This_chest_is_using_ This_chest_is_using_now,_please_wait_a_minute.
 qstr_0 0
@@ -108,6 +108,7 @@ qstr_> >
 qstr_http://localhost/backendDsDvC/d http://localhost/backendDsDvC/deposit.php?guid={reg2}&playerid={reg0}&gold={s0}&carried={reg8}
 qstr_http://localhost/backendDsDvC/w http://localhost/backendDsDvC/withdraw.php?guid={reg2}&playerid={reg0}&gold={s0}&carried={reg8}
 qstr_http://localhost/backendDsDvC/i http://localhost/backendDsDvC/igcommand.php?value={s0}&playerid={reg1}&guid={reg2}
+qstr_{s98}_changed_the_sc {s98}_changed_the_scene
 qstr_{s1}_accessed/looted {s1}_accessed/looted_a_corpse!
 qstr_{s1}_{s2} {s1}_{s2}
 qstr_You_did_restock_this You_did_restock_this_stock_by_20!
