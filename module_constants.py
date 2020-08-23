@@ -138,6 +138,7 @@ slot_player_knights                   = 106
 ##Arthur begins
 slot_player_check_passed			  = 107
 slot_player_initialized				  = 108
+slot_player_battle_time				  = 109
 ########################################################
 ##  AGENT SLOTS            #############################
 ########################################################
@@ -503,7 +504,7 @@ slot_array_begin                      = 1
 
 
 ########################################################
-loop_hunger_check_interval            = 96 #13 * 6
+loop_hunger_check_interval            = 60 #13 * 6
 spawn_invulnerable_time               = 10 # time agents are invlunerable after freshly spawning
 loop_player_check_outlaw_interval     = 1800 #GGG:60
 loop_agent_check_interval             = 2

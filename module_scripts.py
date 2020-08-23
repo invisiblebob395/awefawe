@@ -802,7 +802,7 @@ scripts.extend([
 				 (eq, ":return_code", 0), #Lade Gold.
 				 (assign, ":player_id", reg1),
 				 ###Arthur begins
-				 (player_set_slot, ":player_id", slot_player_initialized, 1),
+				 #(player_set_slot, ":player_id", slot_player_initialized, 1),
 				 (multiplayer_send_3_int_to_player, ":player_id", server_event_player_set_slot, ":player_id", slot_player_initialized, 1),
 				 ###
 				# (assign, ":unique_id", reg2),
@@ -888,6 +888,7 @@ scripts.extend([
 				 (eq, ":return_code", 2), #Lade Ruestung und Waffen aber nur wenn spawnedonce auf 0 ist
 				 (assign, ":player_id", reg1),
 				 ###Arthur begins
+				 #(player_set_slot, ":player_id", slot_player_initialized, 1),
 				 (player_set_slot, ":player_id", slot_player_initialized, 1),
 				 (multiplayer_send_3_int_to_player, ":player_id", server_event_player_set_slot, ":player_id", slot_player_initialized, 1),
 				 ###
@@ -1037,7 +1038,7 @@ scripts.extend([
 				 (assign, ":gold", reg15),
 				 (assign, ":title_number", reg17),
 				 ###Arthur begins
-				 (player_set_slot, ":player_id", slot_player_initialized, 1),
+				 #(player_set_slot, ":player_id", slot_player_initialized, 1),
 				 (multiplayer_send_3_int_to_player, ":player_id", server_event_player_set_slot, ":player_id", slot_player_initialized, 1),
 				 ###
 				 #Arthur no global chat
@@ -1108,7 +1109,7 @@ scripts.extend([
 				 (assign, ":gold", reg15),
 				 (assign, ":title_number", reg17),
 				 ###Arthur begins
-				 (player_set_slot, ":player_id", slot_player_initialized, 1),
+				 #(player_set_slot, ":player_id", slot_player_initialized, 1),
 				 (multiplayer_send_3_int_to_player, ":player_id", server_event_player_set_slot, ":player_id", slot_player_initialized, 1),
 				 ###
 				 #Arthur no global chat
@@ -1156,7 +1157,7 @@ scripts.extend([
 				 (assign, ":gold", reg15),
 				 (assign, ":title_number", reg17),
 				 ###Arthur begins
-				 (player_set_slot, ":player_id", slot_player_initialized, 1),
+				 #(player_set_slot, ":player_id", slot_player_initialized, 1),
 				 (multiplayer_send_3_int_to_player, ":player_id", server_event_player_set_slot, ":player_id", slot_player_initialized, 1),
 				 ###
 				 #Arthur no global chat
@@ -1264,7 +1265,7 @@ scripts.extend([
 				 (assign, ":gold", reg15),
 				 (assign, ":title_number", reg17),
 				 ###Arthur begins
-				 (player_set_slot, ":player_id", slot_player_initialized, 1),
+				 #(player_set_slot, ":player_id", slot_player_initialized, 1),
 				 (multiplayer_send_3_int_to_player, ":player_id", server_event_player_set_slot, ":player_id", slot_player_initialized, 1),
 				 ###
 				 #Arthur no global chat
@@ -2856,6 +2857,9 @@ scripts.extend([
 					(else_try), # if something is equipped in the slot and it is not gloves or head armor, clear the stored item id
 						(neq, ":equip_slot", ek_head),
 						(neq, ":equip_slot", ek_gloves),
+						#arthur no chest shifting for skins
+						(call_script, "script_is_skin", ":item_id"),
+						(eq, reg97, 0),
 						(player_set_slot, ":sender_player_id", ":player_slot", 0),
 						(agent_get_position, pos1, ":agent_id"),
 						(try_begin), # try find a previously used corpse item close enough to put the item in
@@ -5398,6 +5402,9 @@ scripts.extend([
 			(assign, ":inventory_slot", slot_scene_prop_inventory_begin),
 			(try_for_range, ":player_equip_slot", slot_player_equip_head, slot_player_equip_gloves + 1),
 				(player_get_slot, ":item_id", ":player_id", ":player_equip_slot"),
+				#arthur no chest shifting for skins
+				(call_script, "script_is_skin", ":item_id"),
+				(eq, reg97, 0),
 				(ge, ":item_id", all_items_begin),
 				(scene_prop_set_slot, ":corpse_instance_id", ":inventory_slot", ":item_id"),
 				(val_add, ":inventory_slot", 1),
@@ -5426,6 +5433,8 @@ scripts.extend([
 				(try_begin),
 					(this_or_next|eq, ":item_id", ":weapon_item_id"),
 					(eq, ":item_id", ":shield_item_id"),
+					(call_script, "script_is_skin", ":item_id"),
+					(eq, reg97, 0),
 					(gt, ":height", -50),
 					(neq, ":item_id", "itm_money_bag"),
 				(else_try),
@@ -5655,7 +5664,6 @@ scripts.extend([
 			#(player_slot_eq, ":player_id", slot_player_has_disconnected_ok, 1),  #make sure player pass the time
 			(assign, ":can_continue", 1),
 			#(server_add_message_to_log, "@break2"),
-			#arthur begins.. dun wanna run the check more times than needed its fairly expensive.. using or in case of a ddos attack
 			(try_begin),
 			#	(server_add_message_to_log, "@break3"),
 				(neg|player_slot_eq, ":player_id", slot_player_check_passed, 1),
@@ -8370,9 +8378,12 @@ scripts.extend([
 			(try_end),
 			(prop_instance_set_position, ":instance_id", pos1),
 		(else_try), # remove admin items dropped on the ground
+			(call_script, "script_is_skin", ":item_id"),
+			#(eq, reg97, 0),
 			(this_or_next|eq, ":item_id", "itm_invisible_sword"),
 			(this_or_next|eq, ":item_id", "itm_admin_lock_pick"),
 			(this_or_next|eq, ":item_id", "itm_admin_scalpel"),
+			(this_or_next|eq, reg97, 1),
 			(eq, ":item_id", "itm_wand_of_law"), #GGG:wand of law
 			(init_position, pos1),
 			(position_set_z, pos1, z_position_to_hide_object),
@@ -10802,12 +10813,10 @@ scripts.extend([
 	 [(store_script_param, ":instance_id", 1), # must be valid
 
 		(prop_instance_get_variation_id_2, ":design_target_stock_count", ":instance_id"),
-		(store_mod, ":is_odd", ":design_target_stock_count", 2),
 		(scene_prop_get_slot, ":stock_count", ":instance_id", slot_scene_prop_stock_count),
 		(store_sub, ":stock_count_factor", ":design_target_stock_count", ":stock_count"),
 		(try_begin),
 			(gt, ":stock_count_factor", 0),
-			(eq, ":is_odd", 0),
 			(scene_prop_get_slot, ":item_id", ":instance_id", slot_scene_prop_item_id),
 			(call_script, "script_scene_prop_get_gold_value", ":instance_id", ":item_id", 0),
 			(store_mul, ":gold_reward", reg0, craft_price_gold_reward_percentage),
@@ -11849,6 +11858,9 @@ scripts.extend([
 			(gt, ":inventory_count", 0),
 			(player_set_slot, ":player_id", slot_player_accessing_instance_id, ":instance_id"),
 			(try_begin), # for failures after this point, stay connected with the scene prop, to receive updates
+				#arthur no chest shifting for skins
+				(call_script, "script_is_skin", ":item_id"),
+				(eq, reg97, 0),
 				(store_add, ":inventory_end", slot_scene_prop_inventory_begin, ":inventory_count"),
 				(this_or_next|is_between, ":from_slot", slot_scene_prop_inventory_begin, ":inventory_end"),
 				(is_between, ":from_slot", slot_scene_prop_inventory_item_0, slot_scene_prop_inventory_item_0 + ek_gloves + 1),
@@ -19461,6 +19473,17 @@ scripts.extend([
 	(store_script_param, ":window_param_1", 2),
 	(store_script_param, ":window_param_2", 3),
 ]),
+
+("is_skin", [
+	(store_script_param, ":item_id", 1),
+	(try_begin),
+		(eq, 1, 2),
+		(is_between, ":item_id", "itm_voulge_duplicate", "itm_cw_plate_falcon_hood"),
+		(assign, reg97, 1),
+	(else_try),
+		(assign, reg97, 0),
+	(try_end),
+	]),
 
 
 #script_wse_get_server_info

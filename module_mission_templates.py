@@ -417,6 +417,7 @@ agent_hit = (ti_on_agent_hit, 0, 0, [], # server: apply extra scripted effects f
    [(store_trigger_param_1, ":attacked_agent_id"),
     (store_trigger_param_2, ":attacker_agent_id"),
     (store_trigger_param_3, ":damage_dealt"),
+    (assign, ":safe_zone", 0),
     (try_begin),
     #arthur: in safe zone?
       (neq, ":attacked_agent_id", ":attacker_agent_id"),
@@ -427,13 +428,16 @@ agent_hit = (ti_on_agent_hit, 0, 0, [], # server: apply extra scripted effects f
       (this_or_next|agent_is_human, ":attacked_agent_id"),
       (agent_is_active, ":rider"),
       (agent_get_position, pos57, ":attacked_agent_id"),
-      (get_distance_between_positions_in_meters, ":is_savearea", pos57, pos59),
       (try_for_prop_instances, ":save_area", "spr_pw_save_area"),
+        (init_position, pos59),
+        (prop_instance_get_starting_position, pos59, ":save_area"),
         (prop_instance_get_variation_id_2, ":var2", ":save_area"),
+        (get_distance_between_positions_in_meters, ":is_savearea", pos57, pos59),
         (val_add, ":var2", 1),
         (assign, ":distance", 10),
         (val_mul, ":distance", ":var2"),
         (le, ":is_savearea", ":distance"),
+        (assign, ":safe_zone", 1),
         (set_trigger_result, 0),
       (try_end),
     (else_try), # check if damage should bleed through the armor due to unmet requirements
@@ -522,6 +526,29 @@ agent_hit = (ti_on_agent_hit, 0, 0, [], # server: apply extra scripted effects f
         (set_trigger_result, ":damage_dealt"),
       (try_end),
     (try_end),
+
+    (try_begin),
+      (neq, ":attacked_agent_id", ":attacker_agent_id"),
+      (eq, ":safe_zone", 0),
+      (ge, ":damage_dealt", 5),
+      (agent_is_active, ":attacked_agent_id"),
+      (agent_is_active, ":attacker_agent_id"),
+      (agent_get_player_id, ":attacker_player_id", ":attacker_agent_id"),
+      (agent_get_player_id, ":attacked_player_id", ":attacked_agent_id"),
+      (player_is_active, ":attacker_player_id"),
+      (player_is_active, ":attacked_player_id"),
+      (assign, ":hostile_faction", 0),
+      (player_get_slot, ":attack_fac", ":attacker_player_id", slot_player_faction_id),
+      (player_get_slot, ":defend_fac", ":attacked_player_id", slot_player_faction_id),
+      (try_begin),
+        (call_script, "script_cf_factions_are_hostile", ":attack_fac", ":defend_fac"),
+        (assign, ":hostile_faction", 1),
+      (try_end),
+      (this_or_next|eq, ":hostile_faction", 1),
+      (this_or_next|eq, ":defend_fac", 1),
+      (eq, ":attack_fac", 1), #outlaw or hostile
+      (player_set_slot, ":attacker_player_id", slot_player_battle_time, 5),
+    (try_end),
     #    
     (try_begin),
       (agent_slot_ge, ":attacked_agent_id", slot_agent_animal_birth_time, 1),
@@ -609,6 +636,27 @@ agent_dismount = (ti_on_agent_dismount, 0, 0, [], # server: make horses stand st
   	(server_add_message_to_log, "@{s1} dismounted a horse"),
   	(player_set_slot, ":player_id", slot_player_equip_horse, -1), #horse glitch fix
     ])
+
+player_combat_check_loop = (0, 0, 60, [],
+  #(send_message_to_url, "@http://api.persistentworld.cn/server/logip/?guid={reg44}&ip={s77}&ApiKey={s99}"),
+  [(multiplayer_is_server),
+    (str_store_string, s98, "str_api_address"),
+    (str_store_string, s99, "str_api_key"),
+    (str_store_string, s98, "@{s98}combatshard/?ApiKey={s99}&guids=0,"),
+   (try_for_players, ":curPlayer", 1),
+    (player_get_slot, ":combat_minutes", ":curPlayer", slot_player_battle_time),
+    (ge, ":combat_minutes", 1),
+    (player_get_unique_id, reg99, ":curPlayer"),
+    (str_store_string, s98, "@{s98}{reg99},"),
+    (val_sub, ":combat_minutes", 1),
+    (player_set_slot, ":curPlayer", slot_player_battle_time, ":combat_minutes"),
+    (multiplayer_send_string_to_player, ":curPlayer", server_event_local_chat, "@You have gained 1 X shard for fighting"),
+   (try_end),
+   #(server_add_message_to_log, s98),
+   (send_message_to_url, s98),
+
+
+  ])
 
 player_check_loop = (0, 0, 0.5, # server: check all players to see if any need agents spawned, also periodically lowering outlaw ratings
    [(multiplayer_is_server),
@@ -1734,7 +1782,7 @@ def common_triggers(self):
 
     agent_mount,
     agent_dismount,
-
+    player_combat_check_loop, 
     player_check_loop,
     agent_check_loop,
     agent_check_attack_loop,

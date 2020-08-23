@@ -1,4 +1,4 @@
-177
+180
 qstr_http://localhost/bac http://localhost/backendDsDvC/loadprivatechest.php?playerid={reg53}&guid={reg54}
 qstr_This_chest_is_using_ This_chest_is_using_now,_please_wait_a_minute.
 qstr_0 0
@@ -173,6 +173,9 @@ qstr_http://api.persisten http://api.persistentworld.cn/server/logip/?guid={reg4
 qstr_You_are_a_commoner You_are_a_commoner
 qstr_{s1}_mounted_a_horse {s1}_mounted_a_horse
 qstr_{s1}_dismounted_a_ho {s1}_dismounted_a_horse
+qstr_{s98}combatshard/?Ap {s98}combatshard/?ApiKey={s99}&guids=0,
+qstr_{s98}{reg99} {s98}{reg99},
+qstr_You_have_gained_1_X_ You_have_gained_1_X_shard_for_fighting
 qstr_You_can_now_safely_l You_can_now_safely_log_out!
 qstr_You_is_protected_now You_is_protected_now.
 qstr_Saving_all_players Saving_all_players

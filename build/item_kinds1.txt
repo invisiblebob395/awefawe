@@ -6678,7 +6678,7 @@ itemsfile version 3
  0
 0
 
- itm_light_charger_skin Light_Charger1 Light_Charger1 1  2lamellar_charger 0  1 0 5200 0 0.000000 100 0 33 0 3 165 48 52 110 0 23 0
+ itm_light_charger_skin Light_Charger1 Light_Charger1 1  2lamellar_charger 0  1 0 5200 0 0.000000 100 0 33 0 3 165 48 48 110 0 23 0
  0
 0
 
@@ -6686,15 +6686,15 @@ itemsfile version 3
  0
 0
 
- itm_light_charger_skin2 Light_Charger3 Light_Charger3 1  5warhorse_holy 0  1 0 5200 0 0.000000 100 0 33 0 3 165 48 52 110 0 23 0
+ itm_light_charger_skin2 Light_Charger3 Light_Charger3 1  5warhorse_holy 0  1 0 5200 0 0.000000 100 0 33 0 3 165 48 48 110 0 23 0
  0
 0
 
- itm_light_charger_skin3 Light_Charger4 Light_Charger4 1  whg 0  1 0 5200 0 0.000000 100 0 33 0 3 165 48 52 110 0 23 0
+ itm_light_charger_skin3 Light_Charger4 Light_Charger4 1  whg 0  1 0 5200 0 0.000000 100 0 33 0 3 165 48 48 110 0 23 0
  0
 0
 
- itm_light_charger_skin4 Light_Charger5 Light_Charger5 1  whg2 0  1 0 5200 0 0.000000 100 0 33 0 3 165 48 52 110 0 23 0
+ itm_light_charger_skin4 Light_Charger5 Light_Charger5 1  whg2 0  1 0 5200 0 0.000000 100 0 33 0 3 165 48 48 110 0 23 0
  0
 0
 
