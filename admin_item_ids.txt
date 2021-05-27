@@ -1,1239 +1,1555 @@
-  6,Tattered Headcloth,itm_tattered_headcloth,12
-  7,Ragged Woolen Cap,itm_ragged_woolen_cap,12
-  8,Stained Felt Hat,itm_stained_felt_hat_b,12
-  9,Straw Hat,itm_straw_hat,12
- 10,Head Wrapping,itm_head_wrappings,12
- 11,Headcloth,itm_headcloth,12
- 12,Woolen Cap,itm_woolen_cap,12
- 13,Felt Hat,itm_sarranid_felt_hat,12
- 14,Head Cloth,itm_sarranid_felt_head_cloth,12
- 15,Head Cloth,itm_sarranid_felt_head_cloth_b,12
- 16,Crown of Flowers,itm_bride_crown,12
- 17,Blue Head Scarf,itm_khergit_lady_hat,12
- 18,Leather Head Scarf,itm_khergit_lady_hat_b,12
- 19,Lady Head Cloth,itm_sarranid_head_cloth,12
- 20,Lady Head Cloth,itm_sarranid_head_cloth_b,12
- 21,Wimple,itm_wimple_a,12
- 22,Wimple,itm_wimple_b,12
- 23,Barbette,itm_barbette,12
- 24,Arming Cap,itm_arming_cap,12
- 25,Woolen Hood,itm_ladys_hood,12
- 26,Fur Hat,itm_fur_hat,12
- 27,Felt Hat,itm_felt_hat,12
- 28,Felt Hat,itm_felt_hat_b,12
- 29,Leather Cap,itm_leather_cap,12
- 30,Hood,itm_common_hood,12
- 31,Hood,itm_hood_b,12
- 32,Hood,itm_hood_c,12
- 33,Hood,itm_hood_d,12
- 34,Nomad Cap,itm_nomad_cap,12
- 35,Nomad Cap,itm_nomad_cap_b,12
- 36,Black Hood,itm_black_hood,12
- 37,Surgeon's Coif,itm_surgeon_coif,12
- 38,Pilgrim Hood,itm_pilgrim_hood,12
- 39,Priestly Coif,itm_priest_coif,12
- 40,Padded Coif,itm_padded_coif,12
- 41,Turban,itm_turban,12
- 42,Steppe Cap,itm_leather_steppe_cap_a,12
- 43,Steppe Cap,itm_leather_steppe_cap_b,12
- 44,Leather Helmet,itm_nordic_archer_helmet,12
- 45,Cap with Fur,itm_vaegir_fur_cap,12
- 46,Steppe Cap,itm_steppe_cap,12
- 47,Leather Warrior Cap,itm_leather_warrior_cap,12
- 48,Turban with Warrior Cap,itm_sarranid_warrior_cap,12
- 49,Leather Helmet,itm_nordic_veteran_archer_helmet,12
- 50,Skullcap,itm_skullcap,12
- 51,Fur Helmet,itm_vaegir_fur_helmet,12
- 52,Bishop's Mitre,itm_bishop_mitre,12
- 53,Mail Coif,itm_mail_coif,12
- 54,Footman's Helmet,itm_footman_helmet,12
- 55,Horseman Helmet,itm_sarranid_horseman_helmet,12
- 56,Nasal Helmet,itm_nasal_helmet,12
- 57,Helmet with Cap,itm_norman_helmet,12
- 58,Footman Helmet,itm_nordic_footman_helmet,12
- 59,War Helmet,itm_khergit_war_helmet,12
- 60,Segmented Helmet,itm_segmented_helmet,12
- 61,Spiked Cap,itm_vaegir_spiked_helmet,12
- 62,Helmet with Neckguard,itm_helmet_with_neckguard,12
- 63,Flat Topped Helmet,itm_flat_topped_helmet,12
- 64,Fighter Helmet,itm_nordic_fighter_helmet,12
- 65,Kettle Hat,itm_kettle_hat,12
- 66,Keffiyeh Helmet,itm_sarranid_helmet1,12
- 67,Helmet with Lamellar Guard,itm_vaegir_lamellar_helmet,12
- 68,Spiked Helmet,itm_spiked_helmet,12
- 69,Mail Coif,itm_sarranid_mail_coif,12
- 70,Huscarl's Helmet,itm_nordic_huscarl_helmet,12
- 71,Bascinet,itm_bascinet,12
- 72,Bascinet with Aventail,itm_bascinet_2,12
- 73,Bascinet with Nose Guard,itm_bascinet_3,12
- 74,Nobleman Helmet,itm_vaegir_noble_helmet,12
- 75,Guard Helmet,itm_guard_helmet,12
- 76,Veiled Helmet,itm_sarranid_veiled_helmet,12
- 77,War Helmet,itm_vaegir_war_helmet,12
- 78,Warlord Helmet,itm_nordic_warlord_helmet,12
- 79,Bishop's Helm,itm_bishop_helm,12
- 80,Full Helm,itm_full_helm,12
- 81,War Mask,itm_vaegir_mask,12
- 82,War Mask,itm_vaegir_mask_b,12
- 83,Great Helmet,itm_great_helmet,12
- 84,Winged Great Helmet,itm_winged_great_helmet,12
- 85,Black Helmet,itm_black_helmet,12
- 86,Ragged Shirt,itm_ragged_shirt,13
- 87,Old Coarse Tunic,itm_old_coarse_tunic,13
- 88,Old Linen Tunic,itm_old_linen_tunic,13
- 89,Ragged Leather Apron,itm_ragged_leather_apron,13
- 90,Old Tabard,itm_old_tabard,13
- 91,Shirt,itm_shirt,13
- 92,Linen Tunic,itm_linen_tunic,13
- 93,Black Robe,itm_black_robe,13
- 94,Dress,itm_dress,13
- 95,Blue Dress,itm_blue_dress,13
- 96,Peasant Dress,itm_peasant_dress,13
- 97,Woolen Dress,itm_woolen_dress,13
- 98,Gray Dress,itm_sarranid_common_dress,13
- 99,Brown Dress,itm_sarranid_common_dress_b,13
-100,Red Dress,itm_lady_dress_ruby,13
-101,Green Dress,itm_lady_dress_green,13
-102,Blue Dress,itm_lady_dress_blue,13
-103,Red Pattern Dress,itm_court_dress,13
-104,Red Dress,itm_red_dress,13
-105,Brown Dress,itm_brown_dress,13
-106,Green Dress,itm_green_dress,13
-107,Purple Dress,itm_sarranid_lady_dress,13
-108,Orange Dress,itm_sarranid_lady_dress_b,13
-109,Blue Dress,itm_khergit_lady_dress,13
-110,Leather Dress,itm_khergit_lady_dress_b,13
-111,Bride Dress,itm_bride_dress,13
-112,Tunic with Green Cape,itm_tunic_with_green_cape,13
-113,Rough Tunic,itm_rough_tunic,13
-114,Red Shirt,itm_red_shirt,13
-115,Pelt Coat,itm_pelt_coat,13
-116,Worn Robe,itm_sarranid_cloth_robe,13
-117,Worn Robe,itm_sarranid_cloth_robe_b,13
-118,Rawhide Coat,itm_rawhide_coat,13
-119,Tunic with Vest,itm_coarse_tunic,13
-120,Leather Apron,itm_leather_apron,13
-121,Fur Coat,itm_fur_coat,13
-122,Friar's Robe,itm_friar_robe,13
-123,Skirmisher Armor,itm_skirmisher_armor,13
-124,Rich Outfit,itm_rich_outfit,13
-125,Tabard,itm_tabard,13
-126,Tribesman Armor,itm_khergit_armor,13
-127,Leather Vest,itm_leather_vest_plain,13
-128,Heraldic Leather Vest,itm_leather_vest,13
-129,Leather Jacket,itm_leather_jacket,13
-130,Priestly Robes,itm_priest_robe,13
-131,Arena Tunic,itm_arena_tunic,13
-132,Leather Breastplate,itm_steppe_armor,13
-133,Leather Armor,itm_leather_armor,13
-134,Pilgrim Disguise,itm_pilgrim_disguise,13
-135,Red Gambeson,itm_red_gambeson,13
-136,Aketon,itm_padded_cloth,13
-137,Padded Cloth,itm_aketon_green,13
-138,Archer's Padded Vest,itm_archers_vest,13
-139,Nomad Vest,itm_nomad_vest,13
-140,Ragged Outfit,itm_ragged_outfit,13
-141,Surgeon's Coat,itm_surgeon_coat,13
-142,Nomad Armor,itm_nomad_armor,13
-143,Nomad Robe,itm_nomad_robe,13
-144,Light Leather,itm_light_leather,13
-145,Leather Jerkin,itm_leather_jerkin,13
-146,Padded Leather,itm_padded_leather,13
-147,Arena Armor,itm_arena_armor,13
-148,Tribal Warrior Outfit,itm_tribal_warrior_outfit,13
-149,Leather Armor,itm_sarranid_leather_armor,13
-150,Courtly Outfit,itm_courtly_outfit,13
-151,Nobleman Outfit,itm_nobleman_outfit,13
-152,Brown Mail Shirt,itm_sarranid_cavalry_robe,13
-153,Studded Leather Coat,itm_studded_leather_coat,13
-154,Byrnie,itm_byrnie,13
-155,Haubergeon,itm_haubergeon,13
-156,Guard Armor,itm_arabian_armor_b,13
-157,Lamellar Vest,itm_lamellar_vest,13
-158,Lamellar Vest,itm_lamellar_vest_khergit,13
-159,Mail Shirt,itm_mail_shirt,13
-160,Mail Hauberk,itm_mail_hauberk,13
-161,Orange Mail Shirt,itm_sarranid_mail_shirt,13
-162,Bishop's Armor,itm_bishop_armor,13
-163,Surcoat over Mail,itm_mail_with_surcoat,13
-164,Surcoat over Mail,itm_surcoat_over_mail,13
-165,Brigandine,itm_brigandine_red,13
-166,Mail Robe,itm_mamluke_mail,13
-167,Lamellar Armor,itm_lamellar_armor,13
-168,Scale Armor,itm_scale_armor,13
-169,Banded Armor,itm_banded_armor,13
-170,Cuir Bouilli,itm_cuir_bouilli,13
-171,Coat of Plates,itm_coat_of_plates,13
-172,Heraldic Coat of Plates,itm_coat_of_plates_red,13
-173,Heraldic Elite Armor,itm_khergit_elite_armor,13
-174,Elite Armor,itm_vaegir_elite_armor,13
-175,Elite Armor,itm_sarranid_elite_armor,13
-176,Plate Armor,itm_plate_armor,13
-177,Black Armor,itm_black_armor,13
-178,Light Heraldic Mail,itm_light_heraldic_mail,13
-179,Heraldic Mail with Tunic,itm_heraldic_mail_with_tunic,13
-180,Heraldic Mail with Tabard,itm_heraldic_mail_with_tabard,13
-181,Heraldic Mail with Surcoat,itm_heraldic_mail_with_surcoat,13
-182,Tattered Wrapping Boots,itm_tattered_wrapping_boots,14
-183,Ripped Woolen Hose,itm_ripped_woolen_hose,14
-184,Old Hide Boots,itm_old_hide_boots,14
-185,Wrapping Boots,itm_wrapping_boots,14
-186,Woolen Hose,itm_woolen_hose,14
-187,Friar's Sandals,itm_friar_sandals,14
-188,Blue Hose,itm_blue_hose,14
-189,Bride Shoes,itm_bride_shoes,14
-190,Priestly Leggings,itm_priest_leggings,14
-191,Pointed Shoes,itm_sarranid_boots_a,14
-192,Hunter Boots,itm_hunter_boots,14
-193,Hide Boots,itm_hide_boots,14
-194,Ankle Boots,itm_ankle_boots,14
-195,Nomad Boots,itm_nomad_boots,14
-196,Light Leather Boots,itm_light_leather_boots,14
-197,Leather Boots,itm_leather_boots,14
-198,Pointed Leather Boots,itm_sarranid_boots_b,14
-199,Black Leather Boots,itm_khergit_leather_boots,14
-200,Plated Boots,itm_sarranid_boots_c,14
-201,Splinted Leather Greaves,itm_splinted_leather_greaves,14
-202,Bishop's Chausses,itm_bishop_chausses,14
-203,Mail Chausses,itm_mail_chausses,14
-204,Splinted Greaves,itm_splinted_greaves,14
-205,Mail Boots,itm_sarranid_boots_d,14
-206,Mail Boots,itm_mail_boots,14
-207,Iron Greaves,itm_iron_greaves,14
-208,Plate Boots,itm_plate_boots,14
-209,Black Greaves,itm_black_greaves,14
-210,Leather Gloves,itm_leather_gloves,15
-211,Bishop's Gloves,itm_bishop_gloves,15
-212,Mail Mittens,itm_mail_mittens,15
-213,Lamellar Gauntlets,itm_lamellar_gauntlets,15
-214,Scale Gauntlets,itm_scale_gauntlets,15
-215,Gauntlets,itm_gauntlets,15
-216,Club,itm_club,2
-217,Spiked Club,itm_spiked_club,2
-218,Old Knife,itm_old_knife,2
-219,Crude Spear,itm_crude_spear,4
-220,Blunt Falchion,itm_blunt_falchion,2
-221,Chipped Falchion,itm_chipped_falchion,2
-222,Rusty Sword,itm_rusty_sword,2
-223,Worn Sword,itm_worn_sword,2
-224,Bent Lance,itm_bent_lance,4
-225,Practice Sword,itm_practice_sword,2
-226,Heavy Practice Sword,itm_heavy_practice_sword,3
-227,Flanged Mace,itm_winged_mace,2
-228,Spiked Mace,itm_spiked_mace,2
-229,Knobbed Mace,itm_mace_2,2
-230,Winged Mace,itm_mace_4,2
-231,Spiked Staff,itm_club_with_spike_head,3
-232,Long Spiked Club,itm_long_spiked_club,4
-233,Long Hafted Spiked Mace,itm_long_hafted_spiked_mace,4
-234,Fighting Pick,itm_fighting_pick,2
-235,Military Pick,itm_military_pick,2
-236,Military Sickle,itm_military_sickle,2
-237,Military Hammer,itm_military_hammer,2
-238,Morningstar,itm_morningstar,3
-239,Falchion,itm_falchion,2
-240,Curved Sword,itm_curved_sword,2
-241,Sword,itm_sword_medieval_a,2
-242,Short Sword,itm_sword_medieval_b_small,2
-243,Arming Sword,itm_sword_medieval_c_long,2
-244,Knightly Sword,itm_sword_medieval_d_long,2
-245,Nordic Sword,itm_sword_viking_c,2
-246,Nordic Short Sword,itm_sword_viking_b_small,2
-247,Nordic Long Sword,itm_sword_viking_a_long,2
-248,Arabian Sword,itm_arabian_sword_a,2
-249,Arabian Arming Sword,itm_arabian_sword_b,2
-250,Arabian Cavalry Sword,itm_arabian_sword_c,2
-251,Arabian Guard Sword,itm_arabian_sword_d,2
-252,Scimitar,itm_scimitar,2
-253,Elite Scimitar,itm_scimitar_b,2
-254,Sabre,itm_khergit_sword_c,2
-255,Heavy Sabre,itm_khergit_sword_d,2
-256,Two Handed Sabre,itm_khergit_sword_two_handed_a,3
-257,War Cleaver,itm_two_handed_cleaver,3
-258,Soldier's Cleaver,itm_military_cleaver_b,2
-259,Military Cleaver,itm_military_cleaver_c,2
-260,Bastard Sword,itm_bastard_sword_a,3
-261,Heavy Bastard Sword,itm_bastard_sword_b,3
-262,Two Handed Sword,itm_sword_two_handed_b,3
-263,Great Sword,itm_sword_two_handed_a,3
-264,Throwing Axes,itm_throwing_axes,10
-265,Throwing Axe,itm_throwing_axes_melee,2
-266,One Handed War Axe,itm_one_handed_war_axe_b,2
-267,One Handed Axe,itm_one_handed_battle_axe_a,2
-268,One Handed Battle Axe,itm_one_handed_battle_axe_b,2
-269,Spiked One Handed Battle Axe,itm_one_handed_battle_axe_c,2
-270,Iron Battle Axe,itm_sarranid_axe_a,2
-271,Iron War Axe,itm_sarranid_axe_b,2
-272,Two Handed Axe,itm_two_handed_axe,3
-273,Two Handed War Axe,itm_two_handed_battle_axe,3
-274,Shortened Voulge,itm_shortened_voulge,3
-275,Bardiche,itm_bardiche,3
-276,Shortened Military Scythe,itm_shortened_military_scythe,3
-277,Two Handed Iron Axe,itm_sarranid_two_handed_axe_a,3
-278,Two Handed Iron Axe,itm_sarranid_two_handed_axe_b,3
-279,Long Axe,itm_long_axe_a,4
-280,Glaive,itm_glaive,4
-281,Staff,itm_staff,4
-282,Quarter Staff,itm_quarter_staff,4
-283,Iron Staff,itm_iron_staff,4
-284,Throwing Spears,itm_throwing_spears,10
-285,Throwing Spear,itm_throwing_spear_melee,4
-286,Shortened Spear,itm_shortened_spear,4
-287,Spear,itm_spear,4
-288,Bamboo Spear,itm_bamboo_spear,4
-289,War Spear,itm_war_spear,4
-290,Light Lance,itm_light_lance,4
-291,Lance,itm_lance,4
-292,Heavy Lance,itm_heavy_lance,4
-293,Great Lance,itm_great_lance,4
-294,Jousting Lance,itm_jousting_lance,4
-295,Awlpike,itm_awlpike,4
-296,Long Awlpike,itm_awlpike_long,4
-297,Pike,itm_pike,4
-298,War Hammer,itm_bec_de_corbin_a,4
-299,Bishop's Crosier,itm_bishop_crosier,3
-300,Crude Bow,itm_crude_bow,8
-301,Bent Arrows,itm_bent_arrows,5
-302,Flimsy Crossbow,itm_flimsy_crossbow,9
-303,Crude Bolts,itm_crude_bolts,6
-304,Hunting Bow,itm_hunting_bow,8
-305,Short Bow,itm_short_bow,8
-306,Nomad Bow,itm_nomad_bow,8
-307,Long Bow,itm_long_bow,8
-308,Khergit Bow,itm_khergit_bow,8
-309,Strong Bow,itm_strong_bow,8
-310,War Bow,itm_war_bow,8
-311,Arrows,itm_arrows,5
-312,Barbed Arrows,itm_barbed_arrows,5
-313,Broadhead Arrows,itm_khergit_arrows,5
-314,Bodkin Arrows,itm_bodkin_arrows,5
-315,Hunting Crossbow,itm_hunting_crossbow,9
-316,Light Crossbow,itm_light_crossbow,9
-317,Crossbow,itm_crossbow,9
-318,Heavy Crossbow,itm_heavy_crossbow,9
-319,Siege Crossbow,itm_sniper_crossbow,9
-320,Bolts,itm_bolts,6
-321,Steel Bolts,itm_steel_bolts,6
-322,Old Shield,itm_old_shield,7
-323,Practice Shield,itm_practice_shield,7
-324,Plain Round Shield,itm_tab_shield_round_b,7
-325,Round Shield,itm_tab_shield_round_c,7
-326,Heavy Round Shield,itm_tab_shield_round_d,7
-327,Huscarl's Round Shield,itm_tab_shield_round_e,7
-328,Plain Kite Shield,itm_tab_shield_kite_b,7
-329,Kite Shield,itm_tab_shield_kite_c,7
-330,Heavy Kite Shield,itm_tab_shield_kite_d,7
-331,Horseman's Kite Shield,itm_tab_shield_kite_cav_a,7
-332,Knightly Kite Shield,itm_tab_shield_kite_cav_b,7
-333,Plain Heater Shield,itm_tab_shield_heater_b,7
-334,Heater Shield,itm_tab_shield_heater_c,7
-335,Heavy Heater Shield,itm_tab_shield_heater_d,7
-336,Horseman's Heater Shield,itm_tab_shield_heater_cav_a,7
-337,Knightly Heater Shield,itm_tab_shield_heater_cav_b,7
-338,Plain Board Shield,itm_tab_shield_pavise_b,7
-339,Board Shield,itm_tab_shield_pavise_c,7
-340,Heavy Board Shield,itm_tab_shield_pavise_d,7
-341,Plain Cavalry Shield,itm_tab_shield_small_round_a,7
-342,Round Cavalry Shield,itm_tab_shield_small_round_b,7
-343,Elite Cavalry Shield,itm_tab_shield_small_round_c,7
-344,Hide Covered Round Shield,itm_hide_covered_round_shield,7
-345,Hide Covered Kite Shield,itm_hide_covered_kite_shield,7
-346,Steel Shield,itm_steel_shield,7
-347,Sumpter Horse,itm_sumpter_horse,1
-348,Cart Horse,itm_cart_horse,1
-349,Saddle Horse,itm_saddle_horse,1
-350,Steppe Horse,itm_steppe_horse,1
-351,Desert Horse,itm_arabian_horse_a,1
-352,Silver Horse,itm_arabian_horse_b,1
-353,Courser,itm_courser,1
-354,Hunter,itm_hunter,1
-355,War Horse,itm_warhorse,1
-356,Steppe War Horse,itm_warhorse_steppe,1
-357,Barded War Horse,itm_warhorse_sarranid,1
-358,Charger,itm_charger,1
-359,Plated Charger,itm_plated_charger,1
-360,Deer,itm_deer,1
-361,Fawn,itm_fawn,1
-362,Boar,itm_boar,1
-363,Boarlet,itm_boarlet,1
-364,Cow,itm_cow,1
-365,Calf,itm_calf,1
-366,Stick,itm_stick,2
-367,Stick,itm_stick_melee,2
-368,Branch,itm_branch,4
-369,Short Wooden Pole,itm_wood_pole_short,4
-370,Wooden Pole,itm_wood_pole,4
-371,Wood Block,itm_wood_block,4
-372,Board,itm_board,2
-373,Small Iron Ore,itm_iron_ore_small,4
-374,Iron Ore,itm_iron_ore,4
-375,Iron Piece,itm_iron_piece,2
-376,Short Iron Bar,itm_iron_bar_short,2
-377,Iron Bar,itm_iron_bar,2
-378,Long Iron Bar,itm_iron_bar_long,4
-379,Gold Nugget,itm_gold_nugget,2
-380,Gold Bar,itm_gold_bar,2
-381,Silver Nugget,itm_silver_nugget,2
-382,Silver Bar,itm_silver_bar,2
-383,Flax Bundle,itm_flax_bundle,2
-384,Linen Thread,itm_linen_thread,2
-385,Linen Cloth,itm_linen_cloth,2
-386,Small Linen Cloth,itm_linen_cloth_small,2
-387,Raw Hide,itm_raw_hide,2
-388,Leather Roll,itm_leather_roll,2
-389,Leather Piece,itm_leather_piece,2
-390,Saddle,itm_saddle,4
-391,Horse Armor,itm_horse_armor,4
-392,Hatchet,itm_hatchet,2
-393,Small Mining Pick,itm_small_mining_pick,2
-394,Woodcutter's Axe,itm_woodcutter_axe,3
-395,Mining Pick,itm_mining_pick,4
-396,Repair Hammer,itm_repair_hammer,2
-397,Lock Pick,itm_lock_pick,2
-398,Admin Lock Pick,itm_admin_lock_pick,2
-399,Bucket,itm_bucket,2
-400,Water Bucket,itm_water_bucket,2
-401,Fishing Spear,itm_fishing_spear,4
-402,Fishing Net,itm_fishing_net,2
-403,Blunt Sickle,itm_blunt_sickle,2
-404,Sickle,itm_sickle,2
-405,Scythe,itm_scythe,4
-406,Kitchen Knife,itm_kitchen_knife,2
-407,Butchering Cleaver,itm_cleaver,2
-408,Knife,itm_knife,2
-409,Butchering Knife,itm_butchering_knife,2
-410,Broom,itm_broom,4
-411,Herding Crook,itm_herding_crook,3
-412,Herding Crook,itm_herding_crook_alt,4
-413,Fish,itm_fish,2
-414,Cooked Fish,itm_cooked_fish,2
-415,Salted Fish,itm_salted_fish,2
-416,Wheat Sack,itm_wheat_sack,10
-417,Wheat Sheaf,itm_wheat_sheaf,2
-418,Flour Sack,itm_flour_sack,4
-419,Bread,itm_bread,2
-420,Beer Cask,itm_beer_cask,4
-421,Beer Jug,itm_beer_jug,2
-422,Grapes,itm_grapes,2
-423,Must Barrel,itm_must_barrel,4
-424,Wine Barrel,itm_wine_barrel,4
-425,Wine Jar,itm_wine_jar,2
-426,Raw Meat,itm_raw_meat,4
-427,Cooked Meat,itm_cooked_meat,4
-428,Salted Meat,itm_salted_meat,4
-429,Meat Pie,itm_meat_pie,2
-430,Red Apple,itm_red_apple,2
-431,Apple Pie,itm_apple_pie,2
-432,Carrot,itm_carrot,2
-433,Salt Sack,itm_salt_sack,2
-434,Salt,itm_salt,2
-435,Surgeon's Scalpel,itm_surgeon_scalpel,2
-436,Admin Scalpel,itm_admin_scalpel,2
-437,Herb,itm_healing_herb,2
-438,Herb,itm_poison_herb,2
-439,Dagger,itm_dagger,2
-440,Poisoned Dagger,itm_poisoned_dagger,2
-441,Thin Lance,itm_thin_lance,4
-442,Broken Lance,itm_broken_lance,4
-443,Money Bag,itm_money_bag,2
-444,Torch,itm_torch,2
-445,Book of Clothing,itm_book_a,2
-446,Book of Weapons,itm_book_b,2
-447,Book of Armor,itm_book_c,2
-448,Book of Healing,itm_book_d,2
-449,Book,itm_book_e,2
-450,Sacred Book,itm_book_f,2
-451,Sacred Book,itm_book_f_open,3
-452,Lyre,itm_lyre,2
-453,Lute,itm_lute,2
-454,Dart,itm_dart,10
-455,Die,itm_die,2
-760,Admin Horse,itm_admin_horse,1
-761,Invisible Head,itm_invisible_head,12
-762,Invisible Body,itm_invisible_body,13
-763,Invisible Foot,itm_invisible_foot,14
-764,Invisible Hand,itm_invisible_hand,15
-765,Invisible Sword,itm_invisible_sword,3
-766,Strange Armor,itm_strange_armor,13
-767,Strange Boots,itm_strange_boots,14
-768,Strange Helmet,itm_strange_helmet,12
-769,Strange Sword,itm_strange_sword,3
-770,Strange Great Sword,itm_strange_great_sword,3
-771,Strange Short Sword,itm_strange_short_sword,2
-772,Wand Of Law,itm_wand_of_law,4
-773,King Crown,itm_king_crown,12
-774,Cartridges,itm_cartridges,18
-775,Flintlock Pistol,itm_flintlock_pistol,16
-776,Sipahi Helmet,itm_sipahi_helmet_a,12
-777,Byzantion Helmet,itm_byzantion_helmet_a,12
-778,Rus Helmet,itm_rus_helmet_a,12
-779,Shahi,itm_shahi,12
-780,Rabati,itm_rabati,12
-781,Aketon A,itm_aketon_a,13
-782,Gold Tourney Armor,itm_gold_tourney_armor,13
-783,Old Nomad Armor,itm_old_nomad_armor,13
-784,Nomad Armor b,itm_nomad_armor_b,13
-785,Tunic Fur,itm_tunic_fur,13
-786,Lthr Armor A,itm_lthr_armor_a,13
-787,Brigandine A,itm_brigandine_a,13
-788,Haubergeon A,itm_haubergeon_a,13
-789,Haubergeon B,itm_haubergeon_b,13
-790,Std Lthr Coat,itm_std_lthr_coat,13
-791,Pink Lamellar Vest,itm_p_lamellar_vest,13
-792,Red Tourney Armor,itm_red_tourney_armor,13
-793,Lamellar Cuirass,itm_lamellar_cuirass,13
-794,Khergit Guard Armor,itm_khergit_guard_armor,13
-795,Light Mail and Plate,itm_light_mail_and_plate,13
-796,Mail and Plate,itm_mail_and_plate,13
-797,Sword of War,itm_sword_of_war,3
-798,Nomad Sabre,itm_nomad_sabre,2
-799,Darts,itm_darts,10
-800,War Darts,itm_war_darts,10
-801,Javelins,itm_javelin,10
-802,Javelin,itm_javelin_melee,4
-803,Jarids,itm_jarid,10
-804,Jarid,itm_jarid_melee,4
-805,Stones,itm_stones,10
-806,Throwing Knives,itm_throwing_knives,10
-807,Throwing Daggers,itm_throwing_daggers,10
-808,Light Throwing Axes,itm_light_throwing_axes,10
-809,Light Throwing Axe,itm_light_throwing_axes_melee,2
-810,Heavy Throwing Axes,itm_heavy_throwing_axes,10
-811,Heavy Throwing Axe,itm_heavy_throwing_axes_melee,2
-812,Maul,itm_maul,3
-813,Sledgehammer,itm_sledgehammer,3
-814,Great Hammer,itm_warhammer,3
-815,Polehammer,itm_polehammer,4
-816,Mace Pear,itm_mace_pear,2
-817,Old Winged Mace,itm_old_winged_mace,2
-818,Mace Morningstar,itm_mace_morningstar,2
-819,Mace Small D,itm_mace_small_d,3
-820,Flanged Mace,itm_flanged_mace,2
-821,Pike,itm_battle_pike,4
-822,Double Sided Lance,itm_double_sided_lance,4
-823,Pitch Fork,itm_pitch_fork,4
-824,Battle Fork,itm_battle_fork,4
-825,Military Fork,itm_military_fork,4
-826,Battle Scythe,itm_battle_scythe,4
-827,Iron bardiche,itm_iron_bardiche,4
-828,Hafted Blade b,itm_hafted_blade_b,4
-829,Hafted Blade a,itm_hafted_blade_a,4
-830,War Axe,itm_war_axe,3
-831,Great Axe,itm_great_axe,3
-832,Battle Axe,itm_battle_axe,3
-833,Poleaxe,itm_poleaxe,4
-834,Double Axe,itm_double_axe,3
-835,Axe,itm_axe,3
-836,Voulge,itm_voulge,3
-837,Leather Covered Round Shield,itm_leather_covered_round_shield,7
-838,Kite Shield i,itm_shield_kite_i,7
-839,Lordly Bishop's Armor,itm_lordly_bishop_armor,13
-840,Reinforced Bishop's Armor,itm_reinforced_bishop_armor,13
-841,Hardened Bishop's Armor,itm_hardened_bishop_armor,13
-842,Heavy Bishop's Armor,itm_heavy_bishop_armor,13
-843,Thick Bishop's Armor,itm_thick_bishop_armor,13
-844,Sturdy Bishop's Armor,itm_sturdy_bishop_armor,13
-845,Battered Bishop's Armor,itm_battered_bishop_armor,13
-846,Lordly Khergit Guard Armor,itm_lordly_khergit_guard_armor,13
-847,Reinforced Khergit Guard Armor,itm_reinforced_khergit_guard_armor,13
-848,Hardened Khergit Guard Armor,itm_hardened_khergit_guard_armor,13
-849,Heavy Khergit Guard Armor,itm_heavy_khergit_guard_armor,13
-850,Thick Khergit Guard Armor,itm_thick_khergit_guard_armor,13
-851,Sturdy Khergit Guard Armor,itm_sturdy_khergit_guard_armor,13
-852,Battered Khergit Guard Armor,itm_battered_khergit_guard_armor,13
-853,Lordly Strange Armor,itm_lordly_strange_armor,13
-854,Reinforced Strange Armor,itm_reinforced_strange_armor,13
-855,Hardened Strange Armor,itm_hardened_strange_armor,13
-856,Heavy Strange Armor,itm_heavy_strange_armor,13
-857,Thick Strange Armor,itm_thick_strange_armor,13
-858,Sturdy Strange Armor,itm_sturdy_strange_armor,13
-859,Battered Strange Armor,itm_battered_strange_armor,13
-860,Lordly Mail Robe,itm_lordly_mamluke_mail,13
-861,Reinforced Mail Robe,itm_reinforced_mamluke_mail,13
-862,Hardened Mail Robe,itm_hardened_mamluke_mail,13
-863,Heavy Mail Robe,itm_heavy_mamluke_mail,13
-864,Thick Mail Robe,itm_thick_mamluke_mail,13
-865,Sturdy Mail Robe,itm_sturdy_mamluke_mail,13
-866,Battered Mail Robe,itm_battered_mamluke_mail,13
-867,Lordly Brigandine,itm_lordly_brigandine_red,13
-868,Reinforced Brigandine,itm_reinforced_brigandine_red,13
-869,Hardened Brigandine,itm_hardened_brigandine_red,13
-870,Heavy Brigandine,itm_heavy_brigandine_red,13
-871,Thick Brigandine,itm_thick_brigandine_red,13
-872,Sturdy Brigandine,itm_sturdy_brigandine_red,13
-873,Battered Brigandine,itm_battered_brigandine_red,13
-874,Lordly Lamellar Armor,itm_lordly_lamellar_armor,13
-875,Reinforced Lamellar Armor,itm_reinforced_lamellar_armor,13
-876,Hardened Lamellar Armor,itm_hardened_lamellar_armor,13
-877,Heavy Lamellar Armor,itm_heavy_lamellar_armor,13
-878,Thick Lamellar Armor,itm_thick_lamellar_armor,13
-879,Sturdy Lamellar Armor,itm_sturdy_lamellar_armor,13
-880,Battered Lamellar Armor,itm_battered_lamellar_armor,13
-881,Lordly Scale Armor,itm_lordly_scale_armor,13
-882,Reinforced Scale Armor,itm_reinforced_scale_armor,13
-883,Hardened Scale Armor,itm_hardened_scale_armor,13
-884,Heavy Scale Armor,itm_heavy_scale_armor,13
-885,Thick Scale Armor,itm_thick_scale_armor,13
-886,Sturdy Scale Armor,itm_sturdy_scale_armor,13
-887,Battered Scale Armor,itm_battered_scale_armor,13
-888,Lordly Banded Armor,itm_lordly_banded_armor,13
-889,Reinforced Banded Armor,itm_reinforced_banded_armor,13
-890,Hardened Banded Armor,itm_hardened_banded_armor,13
-891,Heavy Banded Armor,itm_heavy_banded_armor,13
-892,Thick Banded Armor,itm_thick_banded_armor,13
-893,Sturdy Banded Armor,itm_sturdy_banded_armor,13
-894,Battered Banded Armor,itm_battered_banded_armor,13
-895,Lordly Cuir Bouilli,itm_lordly_cuir_bouilli,13
-896,Reinforced Cuir Bouilli,itm_reinforced_cuir_bouilli,13
-897,Hardened Cuir Bouilli,itm_hardened_cuir_bouilli,13
-898,Heavy Cuir Bouilli,itm_heavy_cuir_bouilli,13
-899,Thick Cuir Bouilli,itm_thick_cuir_bouilli,13
-900,Sturdy Cuir Bouilli,itm_sturdy_cuir_bouilli,13
-901,Battered Cuir Bouilli,itm_battered_cuir_bouilli,13
-902,Lordly Coat of Plates,itm_lordly_coat_of_plates,13
-903,Reinforced Coat of Plates,itm_reinforced_coat_of_plates,13
-904,Hardened Coat of Plates,itm_hardened_coat_of_plates,13
-905,Heavy Coat of Plates,itm_heavy_coat_of_plates,13
-906,Thick Coat of Plates,itm_thick_coat_of_plates,13
-907,Sturdy Coat of Plates,itm_sturdy_coat_of_plates,13
-908,Battered Coat of Plates,itm_battered_coat_of_plates,13
-909,Lordly Heraldic Coat of Plates,itm_lordly_coat_of_plates_red,13
-910,Reinforced Heraldic Coat of Plates,itm_reinforced_coat_of_plates_red,13
-911,Hardened Heraldic Coat of Plates,itm_hardened_coat_of_plates_red,13
-912,Heavy Heraldic Coat of Plates,itm_heavy_coat_of_plates_red,13
-913,Thick Heraldic Coat of Plates,itm_thick_coat_of_plates_red,13
-914,Sturdy Heraldic Coat of Plates,itm_sturdy_coat_of_plates_red,13
-915,Battered Heraldic Coat of Plates,itm_battered_coat_of_plates_red,13
-916,Lordly Heraldic Elite Armor,itm_lordly_khergit_elite_armor,13
-917,Reinforced Heraldic Elite Armor,itm_reinforced_khergit_elite_armor,13
-918,Hardened Heraldic Elite Armor,itm_hardened_khergit_elite_armor,13
-919,Heavy Heraldic Elite Armor,itm_heavy_khergit_elite_armor,13
-920,Thick Heraldic Elite Armor,itm_thick_khergit_elite_armor,13
-921,Sturdy Heraldic Elite Armor,itm_sturdy_khergit_elite_armor,13
-922,Battered Heraldic Elite Armor,itm_battered_khergit_elite_armor,13
-923,Lordly Elite Armor,itm_lordly_vaegir_elite_armor,13
-924,Reinforced Elite Armor,itm_reinforced_vaegir_elite_armor,13
-925,Hardened Elite Armor,itm_hardened_vaegir_elite_armor,13
-926,Heavy Elite Armor,itm_heavy_vaegir_elite_armor,13
-927,Thick Elite Armor,itm_thick_vaegir_elite_armor,13
-928,Sturdy Elite Armor,itm_sturdy_vaegir_elite_armor,13
-929,Battered Elite Armor,itm_battered_vaegir_elite_armor,13
-930,Lordly Elite Armor,itm_lordly_sarranid_elite_armor,13
-931,Elite Armor,itm_reinforced_sarranid_elite_armor,13
-932,Elite Armor,itm_hardened_sarranid_elite_armor,13
-933,Elite Armor,itm_heavy_sarranid_elite_armor,13
-934,Elite Armor,itm_thick_sarranid_elite_armor,13
-935,Elite Armor,itm_sturdy_sarranid_elite_armor,13
-936,Elite Armor,itm_battered_sarranid_elite_armor,13
-937,Lordly Plate Armor,itm_lordly_plate_armor,13
-938,Reinforced Plate Armor,itm_reinforced_plate_armor,13
-939,Hardened Plate Armor,itm_hardened_plate_armor,13
-940,Heavy Plate Armor,itm_heavy_plate_armor,13
-941,Thick Plate Armor,itm_thick_plate_armor,13
-942,Sturdy Plate Armor,itm_sturdy_plate_armor,13
-943,Battered Plate Armor,itm_battered_plate_armor,13
-944,Lordly Plate Boots,itm_lordly_plate_boots,14
-945,Reinforced Plate Boots,itm_reinforced_plate_boots,14
-946,Hardened Plate Boots,itm_hardened_plate_boots,14
-947,Heavy Plate Boots,itm_heavy_plate_boots,14
-948,Thick Plate Boots,itm_thick_plate_boots,14
-949,Sturdy Plate Boots,itm_sturdy_plate_boots,14
-950,Battered Plate Boots,itm_battered_plate_boots,14
-951,Lordly Iron Greaves,itm_lordly_iron_greaves,14
-952,Reinforced Iron Greaves,itm_reinforced_iron_greaves,14
-953,Hardened Iron Greaves,itm_hardened_iron_greaves,14
-954,Heavy Iron Greaves,itm_heavy_iron_greaves,14
-955,Thick Iron Greaves,itm_thick_iron_greaves,14
-956,Sturdy Iron Greaves,itm_sturdy_iron_greaves,14
-957,Battered Iron Greaves,itm_battered_iron_greaves,14
-958,Lordly Bishop's Chausses,itm_lordly_bishop_chausses,14
-959,Reinforced Bishop's Chausses,itm_reinforced_bishop_chausses,14
-960,Hardened Bishop's Chausses,itm_hardened_bishop_chausses,14
-961,Heavy Bishop's Chausses,itm_heavy_bishop_chausses,14
-962,Thick Bishop's Chausses,itm_thick_bishop_chausses,14
-963,Sturdy Bishop's Chausses,itm_sturdy_bishop_chausses,14
-964,Battered Bishop's Chausses,itm_battered_bishop_chausses,14
-965,Lordly Strange Boots,itm_lordly_strange_boots,14
-966,Reinforced Strange Boots,itm_reinforced_strange_boots,14
-967,Hardened Strange Boots,itm_hardened_strange_boots,14
-968,Heavy Strange Boots,itm_heavy_strange_boots,14
-969,Thick Strange Boots,itm_thick_strange_boots,14
-970,Sturdy Strange Boots,itm_sturdy_strange_boots,14
-971,Battered Strange Boots,itm_battered_strange_boots,14
-972,Lordly Lamellar Gauntlets,itm_lordly_lamellar_gauntlets,15
-973,Reinforced Lamellar Gauntlets,itm_reinforced_lamellar_gauntlets,15
-974,Hardened Lamellar Gauntlets,itm_hardened_lamellar_gauntlets,15
-975,Heavy Lamellar Gauntlets,itm_heavy_lamellar_gauntlets,15
-976,Thick Lamellar Gauntlets,itm_thick_lamellar_gauntlets,15
-977,Sturdy Lamellar Gauntlets,itm_sturdy_lamellar_gauntlets,15
-978,Battered Lamellar Gauntlets,itm_battered_lamellar_gauntlets,15
-979,Lordly Scale Gauntlets,itm_lordly_scale_gauntlets,15
-980,Reinforced Scale Gauntlets,itm_reinforced_scale_gauntlets,15
-981,Hardened Scale Gauntlets,itm_hardened_scale_gauntlets,15
-982,Heavy Scale Gauntlets,itm_heavy_scale_gauntlets,15
-983,Thick Scale Gauntlets,itm_thick_scale_gauntlets,15
-984,Sturdy Scale Gauntlets,itm_sturdy_scale_gauntlets,15
-985,Battered Scale Gauntlets,itm_battered_scale_gauntlets,15
-986,Lordly Gauntlets,itm_lordly_gauntlets,15
-987,Reinforced Gauntlets,itm_reinforced_gauntlets,15
-988,Hardened Gauntlets,itm_hardened_gauntlets,15
-989,Heavy Gauntlets,itm_heavy_gauntlets,15
-990,Thick Gauntlets,itm_thick_gauntlets,15
-991,Sturdy Gauntlets,itm_sturdy_gauntlets,15
-992,Battered Gauntlets,itm_battered_gauntlets,15
-993,Lordly Strange Helmet,itm_lordly_strange_helmet,12
-994,Reinforced Strange Helmet,itm_reinforced_strange_helmet,12
-995,Hardened Strange Helmet,itm_hardened_strange_helmet,12
-996,Heavy Strange Helmet,itm_heavy_strange_helmet,12
-997,Thick Strange Helmet,itm_thick_strange_helmet,12
-998,Sturdy Strange Helmet,itm_sturdy_strange_helmet,12
-999,Battered Strange Helmet,itm_battered_strange_helmet,12
-1000,Lordly Bishop's Helm,itm_lordly_bishop_helm,12
-1001,Reinforced Bishop's Helm,itm_reinforced_bishop_helm,12
-1002,Hardened Bishop's Helm,itm_hardened_bishop_helm,12
-1003,Heavy Bishop's Helm,itm_heavy_bishop_helm,12
-1004,Thick Bishop's Helm,itm_thick_bishop_helm,12
-1005,Sturdy Bishop's Helm,itm_sturdy_bishop_helm,12
-1006,Battered Bishop's Helm,itm_battered_bishop_helm,12
-1007,Lordly Full Helm,itm_lordly_full_helm,12
-1008,Reinforced Full Helm,itm_reinforced_full_helm,12
-1009,Hardened Full Helm,itm_hardened_full_helm,12
-1010,Heavy Full Helm,itm_heavy_full_helm,12
-1011,Thick Full Helm,itm_thick_full_helm,12
-1012,Sturdy Full Helm,itm_sturdy_full_helm,12
-1013,Battered Full Helm,itm_battered_full_helm,12
-1014,Lordly War Mask,itm_lordly_vaegir_mask,12
-1015,Reinforced War Mask,itm_reinforced_vaegir_mask,12
-1016,Hardened War Mask,itm_hardened_vaegir_mask,12
-1017,Heavy War Mask,itm_heavy_vaegir_mask,12
-1018,Thick War Mask,itm_thick_vaegir_mask,12
-1019,Sturdy War Mask,itm_sturdy_vaegir_mask,12
-1020,Battered War Mask,itm_battered_vaegir_mask,12
-1021,Lordly War Mask,itm_lordly_vaegir_mask_b,12
-1022,Reinforced War Mask,itm_reinforced_vaegir_mask_b,12
-1023,Hardened War Mask,itm_hardened_vaegir_mask_b,12
-1024,Heavy War Mask,itm_heavy_vaegir_mask_b,12
-1025,Thick War Mask,itm_thick_vaegir_mask_b,12
-1026,Sturdy War Mask,itm_sturdy_vaegir_mask_b,12
-1027,Battered War Mask,itm_battered_vaegir_mask_b,12
-1028,Lordly Great Helmet,itm_lordly_great_helmet,12
-1029,Reinforced Great Helmet,itm_reinforced_great_helmet,12
-1030,Hardened Great Helmet,itm_hardened_great_helmet,12
-1031,Heavy Great Helmet,itm_heavy_great_helmet,12
-1032,Thick Great Helmet,itm_thick_great_helmet,12
-1033,Sturdy Great Helmet,itm_sturdy_great_helmet,12
-1034,Battered Great Helmet,itm_battered_great_helmet,12
-1035,Lordly Winged Great Helmet,itm_lordly_winged_great_helmet,12
-1036,Reinforced Winged Great Helmet,itm_reinforced_winged_great_helmet,12
-1037,Hardened Winged Great Helmet,itm_hardened_winged_great_helmet,12
-1038,Heavy Winged Great Helmet,itm_heavy_winged_great_helmet,12
-1039,Thick Winged Great Helmet,itm_thick_winged_great_helmet,12
-1040,Sturdy Winged Great Helmet,itm_sturdy_winged_great_helmet,12
-1041,Battered Winged Great Helmet,itm_battered_winged_great_helmet,12
-1042,Gold Charger,itm_gold_charger,1
-1043,Gold Gauntlets,itm_gold_gauntlets,15
-1044,Gold Plate Armor,itm_gold_plate_armor,13
-1045,Gold Plate Boots,itm_gold_plate_boots,14
-1046,King Great Helmet,itm_king_great_helmet,12
-1047,Great Helmet King,itm_great_helmet_king,12
-1048,Great King Helmet,itm_great_king_helmet,12
-1049,Voulge,itm_voulge_duplicate,4
-1050,Long Bardiche,itm_long_bardiche,4
-1051,Great Long Bardiche,itm_great_long_bardiche,4
-1052,Great Bardiche,itm_great_bardiche,3
-1053,Nordic Sword,itm_nordic_sword,2
-1054,Sword,itm_sword,2
-1055,Nordic Short War Sword,itm_sword_viking_3_small,2
-1056,Nordic Sword,itm_sword_viking_2,2
-1057,sword_viking_c_long,itm_sword_viking_c_long,2
-1058,Sword,itm_sword_medieval_a_long,2
-1059,Sword,itm_sword_medieval_b,2
-1060,Short Arming Sword,itm_sword_medieval_c_small,2
-1061,sword_medieval_d,itm_sword_medieval_d,2
-1062,sword_medieval_e,itm_sword_medieval_e,2
-1063,Military Scythe,itm_military_scythe,4
-1064,Spear 3-25m,itm_spear_e_3_25m,4
-1065,One Handed Axe,itm_one_handed_war_axe_a,2
-1066,Spiked Club,itm_mace_1,2
-1067,Spiked Mace,itm_mace_3,2
-1068,Long Hafted Knobbed Mace,itm_long_hafted_knobbed_mace,4
-1069,Iron Mace,itm_sarranid_two_handed_mace_1,3
-1070,Long Axe,itm_long_axe,4
-1071,Long Axe,itm_long_axe_alt,3
-1072,Long War Axe,itm_long_axe_b,4
-1073,Long War Axe,itm_long_axe_b_alt,3
-1074,Nomad Sabre,itm_sword_khergit_1,2
-1075,Sabre,itm_sword_khergit_3,2
-1076,Two Handed Sabre,itm_khergit_sword_two_handed_b,3
-1077,Imperial Bow,itm_imperial_war_bow,8
-1078,Noldor Bow,itm_noldor_bow,8
-1079,Long Bow,itm_imperial_long_bow,8
-1080,Nomad Bow,itm_imperial_nomad_bow,8
-1081,Short Imperial Bow,itm_imperial_short_bow,8
-1082,Two Repeating Crossbow,itm_two_repeating_crossbow,9
-1083,Automatic Crossbow,itm_automatic_crossbow,9
-1084,Voulge1,itm_voulge_duplicate_skin,4
-1085,Long Bardiche1,itm_long_bardiche_skin,4
-1086,Great Long Bardiche1,itm_great_long_bardiche_skin,4
-1087,Shortened Military Scythe1,itm_shortened_military_scythe_skin,3
-1088,Great Bardiche1,itm_great_bardiche_skin,3
-1089,Two Handed Axe1,itm_two_handed_axe_skin,3
-1090,Two Handed War Axe1,itm_two_handed_battle_axe_skin,3
-1091,Shortened Voulge1,itm_shortened_voulge_skin,3
-1092,Bardiche1,itm_bardiche_skin,3
-1093,Throwing Axes1,itm_throwing_axes_skin,10
-1094,Throwing Axe1,itm_throwing_axes_melee_skin,2
-1095,Heavy Throwing Axes1,itm_heavy_throwing_axes_skin,10
-1096,Heavy Throwing Axe1,itm_heavy_throwing_axes_melee_skin,2
-1097,Nordic Long Sword1,itm_sword_viking_a_long_skin,2
-1098,Nordic Long Sword2,itm_sword_viking_a_long_skin1,2
-1099,Nordic Short War Sword1,itm_sword_viking_3_small_skin,2
-1100,Short Arming Sword1,itm_sword_medieval_c_small_skin,2
-1101,Nordic Sword1,itm_sword_viking_2_skin,2
-1102,Nordic Sword2,itm_sword_viking_2_skin1,2
-1103,Nordic Sword1,itm_nordic_sword_skin,2
-1104,Sword1,itm_sword_skin,2
-1105,Arabian Guard Sword1,itm_arabian_sword_d_skin,2
-1106,Curved Sword1,itm_curved_sword_skin,2
-1107,Nordic Short Sword1,itm_sword_viking_b_small_skin,2
-1108,Nordic Sword1,itm_sword_viking_c_skin,2
-1109,sword_viking_c_long1,itm_sword_viking_c_long_skin,2
-1110,Two Handed Sword1,itm_sword_two_handed_b_skin,3
-1111,Great Sword1,itm_sword_two_handed_a_skin,3
-1112,Great Sword1,itm_sword_two_handed_a_skin1,3
-1113,Sword1,itm_sword_medieval_a_skin,2
-1114,Sword1,itm_sword_medieval_a_long_skin,2
-1115,Sword1,itm_sword_medieval_b_skin,2
-1116,Sword2,itm_sword_medieval_b_skin1,2
-1117,Short Sword1,itm_sword_medieval_b_small_skin,2
-1118,sword_medieval_d1,itm_sword_medieval_d_skin,2
-1119,Knightly Sword1,itm_sword_medieval_d_long_skin,2
-1120,sword_medieval_e1,itm_sword_medieval_e_skin,2
-1121,sword_medieval_e2,itm_sword_medieval_e_skin1,2
-1122,Pike1,itm_pike_skin,4
-1123,Military Scythe1,itm_military_scythe_skin,4
-1124,Lance1,itm_lance_skin,4
-1125,Spear_3-25m1,itm_spear_e_3_25m_skin,4
-1126,Heavy Lance1,itm_heavy_lance_skin,4
-1127,War Spear1,itm_war_spear_skin,4
-1128,Scimitar1,itm_scimitar_skin,2
-1129,Elite Scimitar1,itm_scimitar_b_skin,2
-1130,Arabian Sword1,itm_arabian_sword_a_skin,2
-1131,Arrows1,itm_arrows_skin,5
-1132,Arrows2,itm_arrows_skin1,5
-1133,Barbed Arrows1,itm_barbed_arrows_skin,5
-1134,Barbed Arrows2,itm_barbed_arrows_skin1,5
-1135,Broadhead Arrows1,itm_khergit_arrows_skin,5
-1136,Bodkin Arrows1,itm_bodkin_arrows_skin,5
-1137,Bodkin Arrows2,itm_bodkin_arrows_skin1,5
-1138,Bodkin Arrows3,itm_bodkin_arrows_skin2,5
-1139,Bodkin Arrows4,itm_bodkin_arrows_skin3,5
-1140,Bodkin Arrows5,itm_bodkin_arrows_skin4,5
-1141,Bodkin Arrows6,itm_bodkin_arrows_skin5,5
-1142,Bodkin Arrows7,itm_bodkin_arrows_skin6,5
-1143,One Handed Axe1,itm_one_handed_battle_axe_a_skin,2
-1144,One Handed Axe1,itm_one_handed_war_axe_a_skin,2
-1145,War Cleaver1,itm_two_handed_cleaver_skin,3
-1146,Soldier's Cleaver1,itm_military_cleaver_b_skin,2
-1147,Military Cleaver1,itm_military_cleaver_c_skin,2
-1148,Military Hammer1,itm_military_hammer_skin,2
-1149,Military Sickle1,itm_military_sickle_skin,2
-1150,Knobbed Mace1,itm_mace_2_skin,2
-1151,Spiked Mace1,itm_mace_3_skin,2
-1152,Winged Mace1,itm_mace_4_skin,2
-1153,Long Hafted Knobbed Mace1,itm_long_hafted_knobbed_mace_skin,4
-1154,Long Hafted Spiked Mace1,itm_long_hafted_spiked_mace_skin,4
-1155,Iron Mace1,itm_sarranid_two_handed_mace_1_skin,3
-1156,Mace Small D1,itm_mace_small_d_skin,3
-1157,Great Hammer1,itm_warhammer_skin,3
-1158,Long Axe1,itm_long_axe_skin,4
-1159,Long Axe1,itm_long_axe_alt_skin,3
-1160,Long War Axe1,itm_long_axe_b_skin,4
-1161,Long War Axe1,itm_long_axe_b_alt_skin,3
-1162,Hafted Blade a1,itm_hafted_blade_a_skin,4
-1163,Hafted Blade b1,itm_hafted_blade_b_skin,4
-1164,Glaive1,itm_glaive_skin,4
-1165,Nomad Sabre1,itm_sword_khergit_1_skin,2
-1166,Nomad Sabre2,itm_sword_khergit_1_skin1,2
-1167,Sabre1,itm_khergit_sword_c_skin,2
-1168,Sabre1,itm_sword_khergit_3_skin,2
-1169,Sabre2,itm_sword_khergit_3_skin1,2
-1170,Heavy Sabre1,itm_khergit_sword_d_skin,2
-1171,Heavy Sabre2,itm_khergit_sword_d_skin1,2
-1172,Two Handed Sabre1,itm_khergit_sword_two_handed_a_skin,3
-1173,Two Handed Sabre1,itm_khergit_sword_two_handed_b_skin,3
-1174,Jarids1,itm_jarid_skin,10
-1175,Jarid1,itm_jarid_melee_skin,4
-1176,Jarids2,itm_jarid_skin1,10
-1177,Jarid2,itm_jarid_melee_skin1,4
-1178,Throwing Spears1,itm_throwing_spears_skin,10
-1179,Throwing Spear1,itm_throwing_spear_melee_skin,4
-1180,Javelins1,itm_javelin_skin,10
-1181,Javelin1,itm_javelin_melee_skin,4
-1182,War Darts1,itm_war_darts_skin,10
-1183,Darts1,itm_darts_skin,10
-1184,Crossbow1,itm_crossbow_skin,9
-1185,Crossbow2,itm_crossbow_skin1,9
-1186,Light Crossbow1,itm_light_crossbow_skin,9
-1187,Heavy Crossbow1,itm_heavy_crossbow_skin,9
-1188,Bolts1,itm_bolts_skin,6
-1189,Bolts2,itm_bolts_skin1,6
-1190,Bolts3,itm_bolts_skin2,6
-1191,Bolts4,itm_bolts_skin3,6
-1192,Steel Bolts1,itm_steel_bolts_skin,6
-1193,War Hammer1,itm_bec_de_corbin_a_skin,4
-1194,Bastard Sword1,itm_bastard_sword_a_skin,3
-1195,Bastard Sword2,itm_bastard_sword_a_skin1,3
-1196,Bastard Sword3,itm_bastard_sword_a_skin2,3
-1197,Heavy Bastard Sword1,itm_bastard_sword_b_skin,3
-1198,Heavy Bastard Sword2,itm_bastard_sword_b_skin1,3
-1199,Heavy Bastard Sword3,itm_bastard_sword_b_skin2,3
-1200,Heavy Bastard Sword4,itm_bastard_sword_b_skin3,3
-1201,Sword of War1,itm_sword_of_war_skin,3
-1202,Sword of War2,itm_sword_of_war_skin1,3
-1203,Long Awlpike1,itm_awlpike_long_skin,4
-1204,Bamboo Spear1,itm_bamboo_spear_skin,4
-1205,Double Axe1,itm_double_axe_skin,3
-1206,Steel Shield1,itm_steel_shield_skin,7
-1207,Steel Shield2,itm_steel_shield_skin1,7
-1208,Steel Shield3,itm_steel_shield_skin2,7
-1209,Steel Shield4,itm_steel_shield_skin3,7
-1210,Steel Shield5,itm_steel_shield_skin4,7
-1211,Steel Shield6,itm_steel_shield_skin5,7
-1212,Steel Shield7,itm_steel_shield_skin6,7
-1213,Steel Shield8,itm_steel_shield_skin7,7
-1214,Steel Shield9,itm_steel_shield_skin8,7
-1215,Steel Shield10,itm_steel_shield_skin9,7
-1216,Steel Shield11,itm_steel_shield_skin10,7
-1217,Steel Shield12,itm_steel_shield_skin11,7
-1218,Steel Shield14,itm_steel_shield_skin13,7
-1219,Steel Shield15,itm_steel_shield_skin14,7
-1220,Steel Shield17,itm_steel_shield_skin16,7
-1221,Short Bow1,itm_short_bow_skin,8
-1222,Hunting Bow1,itm_hunting_bow_skin,8
-1223,War Bow1,itm_war_bow_skin,8
-1224,Long Bow1,itm_long_bow_skin,8
-1225,Strong Bow1,itm_strong_bow_skin,8
-1226,Strong Bow2,itm_strong_bow_skin1,8
-1227,Nomad Bow1,itm_nomad_bow_skin,8
-1228,Nomad Bow2,itm_nomad_bow_skin1,8
-1229,Khergit Bow1,itm_khergit_bow_skin,8
-1230,Khergit Bow2,itm_khergit_bow_skin1,8
-1231,Mail Plate Armor,itm_mail_plate_armor,13
-1232,Shoulder Plate Armor,itm_2_plate_armor,13
-1233,Khergit Guard Boots,itm_khergit_guard_boots,14
-1234,Khergit Guard Helmet,itm_khergit_guard_helmet,12
-1235,Khergit Cavalry Helmet,itm_khergit_cavalry_helmet,12
-1236,Brigandine,itm_brigandine_red_mail,13
-1237,Lordly Mail Plate Armor,itm_lordly_mail_plate_armor,13
-1238,Reinforced Mail Plate Armor,itm_reinforced_mail_plate_armor,13
-1239,Hardened Mail Plate Armor,itm_hardened_mail_plate_armor,13
-1240,Heavy Mail Plate Armor,itm_heavy_mail_plate_armor,13
-1241,Thick Mail Plate Armor,itm_thick_mail_plate_armor,13
-1242,Sturdy Mail Plate Armor,itm_sturdy_mail_plate_armor,13
-1243,Battered Mail Plate Armor,itm_battered_mail_plate_armor,13
-1244,Lordly Shoulder Plate Armor,itm_lordly_2_plate_armor,13
-1245,Reinforced Shoulder Plate Armor,itm_reinforced_2_plate_armor,13
-1246,Hardened Shoulder Plate Armor,itm_hardened_2_plate_armor,13
-1247,Heavy Shoulder Plate Armor,itm_heavy_2_plate_armor,13
-1248,Thick Shoulder Plate Armor,itm_thick_2_plate_armor,13
-1249,Sturdy Shoulder Plate Armor,itm_sturdy_2_plate_armor,13
-1250,Battered Shoulder Plate Armor,itm_battered_2_plate_armor,13
-1251,Lordly Shoulder Plate Armor,itm_lordly_brigandine_red_mail,13
-1252,Reinforced Shoulder Plate Armor,itm_reinforced_brigandine_red_mail,13
-1253,Hardened Shoulder Plate Armor,itm_hardened_brigandine_red_mail,13
-1254,Heavy Shoulder Plate Armor,itm_heavy_brigandine_red_mail,13
-1255,Thick Shoulder Plate Armor,itm_thick_brigandine_red_mail,13
-1256,Sturdy Shoulder Plate Armor,itm_sturdy_brigandine_red_mail,13
-1257,Battered Shoulder Plate Armor,itm_battered_brigandine_red_mail,13
-1258,Lordly Khergit Guard Boots,itm_lordly_khergit_guard_boots,14
-1259,Reinforced Khergit Guard Boots,itm_reinforced_khergit_guard_boots,14
-1260,Hardened Khergit Guard Boots,itm_hardened_khergit_guard_boots,14
-1261,Heavy Khergit Guard Boots,itm_heavy_khergit_guard_boots,14
-1262,Thick Khergit Guard Boots,itm_thick_khergit_guard_boots,14
-1263,Sturdy Khergit Guard Boots,itm_sturdy_khergit_guard_boots,14
-1264,Battered Khergit Guard Boots,itm_battered_khergit_guard_boots,14
-1265,Lordly Khergit Guard Helmet,itm_lordly_khergit_guard_helmet,12
-1266,Reinforced Khergit Guard Helmet,itm_reinforced_khergit_guard_helmet,12
-1267,Hardened Khergit Guard Helmet,itm_hardened_khergit_guard_helmet,12
-1268,Heavy Khergit Guard Helmet,itm_heavy_khergit_guard_helmet,12
-1269,Thick Khergit Guard Helmet,itm_thick_khergit_guard_helmet,12
-1270,Sturdy Khergit Guard Helmet,itm_sturdy_khergit_guard_helmet,12
-1271,Battered Khergit Guard Helmet,itm_battered_khergit_guard_helmet,12
-1272,Lordly Khergit Cavalry Helmet,itm_lordly_khergit_cavalry_helmet,12
-1273,Reinforced Khergit Cavalry Helmet,itm_reinforced_khergit_cavalry_helmet,12
-1274,Hardened Khergit Cavalry Helmet,itm_hardened_khergit_cavalry_helmet,12
-1275,Heavy Khergit Cavalry Helmet,itm_heavy_khergit_cavalry_helmet,12
-1276,Thick Khergit Cavalry Helmet,itm_thick_khergit_cavalry_helmet,12
-1277,Sturdy Khergit Cavalry Helmet,itm_sturdy_khergit_cavalry_helmet,12
-1278,Battered Khergit Cavalry Helmet,itm_battered_khergit_cavalry_helmet,12
-1279,Banded Armor1,itm_banded_armor_skin,13
-1280,Haubergeon A1,itm_haubergeon_a_skin,13
-1281,Cuir Bouilli1,itm_cuir_bouilli_skin,13
-1282,Surcoat over Mail1,itm_surcoat_over_mail_skin,13
-1283,Surcoat over Mail2,itm_surcoat_over_mail_skin1,13
-1284,Surcoat over Mail3,itm_surcoat_over_mail_skin2,13
-1285,Surcoat over Mail4,itm_surcoat_over_mail_skin3,13
-1286,Surcoat over Mail5,itm_surcoat_over_mail_skin4,13
-1287,Surcoat over Mail6,itm_surcoat_over_mail_skin5,13
-1288,Surcoat over Mail7,itm_surcoat_over_mail_skin6,13
-1289,Surcoat over Mail8,itm_surcoat_over_mail_skin7,13
-1290,Surcoat over Mail9,itm_surcoat_over_mail_skin8,13
-1291,Surcoat over Mail10,itm_surcoat_over_mail_skin9,13
-1292,Surcoat over Mail11,itm_surcoat_over_mail_skin10,13
-1293,Surcoat over Mail12,itm_surcoat_over_mail_skin11,13
-1294,Surcoat over Mail13,itm_surcoat_over_mail_skin12,13
-1295,Surcoat over Mail14,itm_surcoat_over_mail_skin13,13
-1296,Surcoat over Mail15,itm_surcoat_over_mail_skin14,13
-1297,Surcoat over Mail16,itm_surcoat_over_mail_skin15,13
-1298,Surcoat over Mail17,itm_surcoat_over_mail_skin16,13
-1299,Surcoat over Mail18,itm_surcoat_over_mail_skin17,13
-1300,Plate Armor1,itm_plate_armor_skin,13
-1301,Plate Armor2,itm_plate_armor_skin1,13
-1302,Plate Armor3,itm_plate_armor_skin2,13
-1303,Plate Armor4,itm_plate_armor_skin3,13
-1304,Plate Armor5,itm_plate_armor_skin4,13
-1305,Plate Armor6,itm_plate_armor_skin5,13
-1306,Brigandine2,itm_brigandine_red_skin1,13
-1307,Brigandine3,itm_brigandine_red_skin2,13
-1308,Brigandine4,itm_brigandine_red_skin3,13
-1309,Brigandine5,itm_brigandine_red_skin4,13
-1310,Brigandine6,itm_brigandine_red_skin5,13
-1311,Brigandine7,itm_brigandine_red_skin6,13
-1312,Brigandine8,itm_brigandine_red_skin7,13
-1313,Brigandine9,itm_brigandine_red_skin8,13
-1314,Brigandine10,itm_brigandine_red_skin9,13
-1315,Brigandine11,itm_brigandine_red_skin10,13
-1316,Brigandine12,itm_brigandine_red_skin11,13
-1317,Brigandine13,itm_brigandine_red_skin12,13
-1318,Brigandine14,itm_brigandine_red_skin13,13
-1319,Brigandine16,itm_brigandine_red_skin15,13
-1320,Brigandine17,itm_brigandine_red_skin16,13
-1321,Scale Armor1,itm_scale_armor_skin,13
-1322,Mail Shirt1,itm_mail_shirt_skin,13
-1323,Mail Shirt2,itm_mail_shirt_skin1,13
-1324,Plate Boots1,itm_plate_boots_skin,14
-1325,Plate Boots2,itm_plate_boots_skin1,14
-1326,Mail Chausses1,itm_mail_chausses_skin,14
-1327,Gauntlets1,itm_gauntlets_skin,15
-1328,Flat Topped Helmet1,itm_flat_topped_helmet_skin,12
-1329,Flat Topped Helmet2,itm_flat_topped_helmet_skin1,12
-1330,Kettle Hat1,itm_kettle_hat_skin,12
-1331,Kettle Hat2,itm_kettle_hat_skin1,12
-1332,Kettle Hat3,itm_kettle_hat_skin2,12
-1333,Kettle Hat4,itm_kettle_hat_skin3,12
-1334,Kettle Hat5,itm_kettle_hat_skin4,12
-1335,Kettle Hat6,itm_kettle_hat_skin5,12
-1336,Winged Great Helmet1,itm_winged_great_helmet_skin,12
-1337,Winged Great Helmet2,itm_winged_great_helmet_skin1,12
-1338,Winged Great Helmet3,itm_winged_great_helmet_skin2,12
-1339,Winged Great Helmet4,itm_winged_great_helmet_skin3,12
-1340,Winged Great Helmet5,itm_winged_great_helmet_skin4,12
-1341,Winged Great Helmet6,itm_winged_great_helmet_skin5,12
-1342,Winged Great Helmet7,itm_winged_great_helmet_skin6,12
-1343,Winged Great Helmet8,itm_winged_great_helmet_skin7,12
-1344,Winged Great Helmet9,itm_winged_great_helmet_skin8,12
-1345,Winged Great Helmet11,itm_winged_great_helmet_skin10,12
-1346,Winged Great Helmet12,itm_winged_great_helmet_skin11,12
-1347,Winged Great Helmet13,itm_winged_great_helmet_skin12,12
-1348,Winged Great Helmet14,itm_winged_great_helmet_skin13,12
-1349,Winged Great Helmet15,itm_winged_great_helmet_skin14,12
-1350,Guard Helmet1,itm_guard_helmet_skin,12
-1351,Guard Helmet2,itm_guard_helmet_skin1,12
-1352,Guard Helmet3,itm_guard_helmet_skin2,12
-1353,Guard Helmet4,itm_guard_helmet_skin3,12
-1354,Bascinet1,itm_bascinet_skin,12
-1355,Bascinet with Aventail1,itm_bascinet_2_skin,12
-1356,Bascinet with Nose Guard1,itm_bascinet_3_skin,12
-1357,Great Helmet1,itm_great_helmet_skin,12
-1358,Great Helmet2,itm_great_helmet_skin1,12
-1359,Great Helmet3,itm_great_helmet_skin2,12
-1360,Great Helmet4,itm_great_helmet_skin3,12
-1361,Great Helmet5,itm_great_helmet_skin4,12
-1362,Great Helmet6,itm_great_helmet_skin5,12
-1363,Great Helmet7,itm_great_helmet_skin6,12
-1364,Great Helmet8,itm_great_helmet_skin7,12
-1365,Great Helmet9,itm_great_helmet_skin8,12
-1366,Great Helmet10,itm_great_helmet_skin9,12
-1367,Great Helmet11,itm_great_helmet_skin10,12
-1368,Great Helmet12,itm_great_helmet_skin11,12
-1369,Great Helmet13,itm_great_helmet_skin12,12
-1370,Great Helmet14,itm_great_helmet_skin13,12
-1371,Great Helmet15,itm_great_helmet_skin14,12
-1372,Great Helmet16,itm_great_helmet_skin15,12
-1373,Great Helmet17,itm_great_helmet_skin16,12
-1374,Great Helmet18,itm_great_helmet_skin17,12
-1375,Great Helmet19,itm_great_helmet_skin18,12
-1376,Great Helmet20,itm_great_helmet_skin19,12
-1377,Great Helmet21,itm_great_helmet_skin20,12
-1378,Great Helmet22,itm_great_helmet_skin21,12
-1379,Great Helmet23,itm_great_helmet_skin22,12
-1380,Great Helmet24,itm_great_helmet_skin23,12
-1381,Great Helmet25,itm_great_helmet_skin24,12
-1382,Great Helmet26,itm_great_helmet_skin25,12
-1383,Great Helmet27,itm_great_helmet_skin26,12
-1384,Great Helmet28,itm_great_helmet_skin27,12
-1385,Great Helmet29,itm_great_helmet_skin28,12
-1386,Great Helmet30,itm_great_helmet_skin29,12
-1387,Great Helmet31,itm_great_helmet_skin30,12
-1388,Great Helmet31 open,itm_great_helmet_skin30_open,12
-1389,Great Helmet32,itm_great_helmet_skin31,12
-1390,Great Helmet32 open,itm_great_helmet_skin31_open,12
-1391,Great Helmet33,itm_great_helmet_skin32,12
-1392,Great Helmet34,itm_great_helmet_skin33,12
-1393,Great Helmet35,itm_great_helmet_skin34,12
-1394,Full Helm1,itm_full_helm_skin,12
-1395,Full Helm2,itm_full_helm_skin1,12
-1396,Full Helm3,itm_full_helm_skin2,12
-1397,Full Helm4,itm_full_helm_skin3,12
-1398,Full Helm5,itm_full_helm_skin4,12
-1399,Full Helm6,itm_full_helm_skin5,12
-1400,Full Helm7,itm_full_helm_skin6,12
-1401,Full Helm8,itm_full_helm_skin7,12
-1402,Full Helm9,itm_full_helm_skin8,12
-1403,Full Helm10,itm_full_helm_skin9,12
-1404,Full Helm11,itm_full_helm_skin10,12
-1405,Mail Boots2,itm_mail_boots_skin1,14
-1406,Iron Greaves1,itm_iron_greaves_skin,14
-1407,Strange Armor1,itm_strange_armor_skin,13
-1408,Strange Boots1,itm_strange_boots_skin,14
-1409,Strange Helmet1,itm_strange_helmet_skin,12
-1410,Strange Gauntlets,itm_gauntlets_skin1,15
-1411,Huntdog Helmet,itm_huntdog_helmet,12
-1412,Huntdog Helmet open,itm_huntdog_helmet_open,12
-1413,Huntdog Brigandine,itm_huntdog_brigandine,13
-1414,Huntdog Mail Boots,itm_huntdog_mail_boots,14
-1415,Bear Armor,itm_bear_armor,13
-1416,Bear Gauntlets,itm_bear_gauntlets,15
-1417,Bear Boots,itm_bear_boots,14
-1418,Black Plate Helmet,itm_black_plate_helmet,12
-1419,Black Plate Armor,itm_black_plate_armor,13
-1420,Black Plate Greaves,itm_black_plate_greaves,14
-1421,Black Plate Gauntlets,itm_black_plate_gauntlets,15
-1422,Light Charger,itm_light_charger,1
-1423,Plated Charger2,itm_plated_charger_skin1,1
-1424,Plated Charger3,itm_plated_charger_skin2,1
-1425,Plated Charger5,itm_plated_charger_skin4,1
-1426,War Horse1,itm_warhorse_skin,1
-1427,War Horse2,itm_warhorse_skin1,1
-1428,War Horse3,itm_warhorse_skin2,1
-1429,War Horse4,itm_warhorse_skin3,1
-1430,War Horse5,itm_warhorse_skin4,1
-1431,War Horse6,itm_warhorse_skin5,1
-1432,War Horse7,itm_warhorse_skin6,1
-1433,War Horse8,itm_warhorse_skin7,1
-1434,War Horse9,itm_warhorse_skin8,1
-1435,War Horse10,itm_warhorse_skin9,1
-1436,War Horse11,itm_warhorse_skin10,1
-1437,War Horse12,itm_warhorse_skin11,1
-1438,War Horse13,itm_warhorse_skin12,1
-1439,War Horse14,itm_warhorse_skin13,1
-1440,War Horse15,itm_warhorse_skin14,1
-1441,War Horse16,itm_warhorse_skin15,1
-1442,War Horse17,itm_warhorse_skin16,1
-1443,War Horse18,itm_warhorse_skin17,1
-1444,War Horse19,itm_warhorse_skin18,1
-1445,War Horse20,itm_warhorse_skin19,1
-1446,War Horse21,itm_warhorse_skin20,1
-1447,War Horse22,itm_warhorse_skin21,1
-1448,War Horse23,itm_warhorse_skin22,1
-1449,War Horse24,itm_warhorse_skin23,1
-1450,War Horse25,itm_warhorse_skin24,1
-1451,War Horse26,itm_warhorse_skin25,1
-1452,War Horse27,itm_warhorse_skin26,1
-1453,War Horse28,itm_warhorse_skin27,1
-1454,War Horse29,itm_warhorse_skin28,1
-1455,War Horse30,itm_warhorse_skin29,1
-1456,War Horse31,itm_warhorse_skin30,1
-1457,War Horse32,itm_warhorse_skin31,1
-1458,War Horse33,itm_warhorse_skin32,1
-1459,War Horse34,itm_warhorse_skin33,1
-1460,War Horse35,itm_warhorse_skin34,1
-1461,War Horse36,itm_warhorse_skin35,1
-1462,War Horse37,itm_warhorse_skin36,1
-1463,War Horse38,itm_warhorse_skin37,1
-1464,War Horse39,itm_warhorse_skin38,1
-1465,War Horse40,itm_warhorse_skin39,1
-1466,War Horse41,itm_warhorse_skin40,1
-1467,War Horse42,itm_warhorse_skin41,1
-1468,War Horse43,itm_warhorse_skin42,1
-1469,War Horse44,itm_warhorse_skin43,1
-1470,War Horse45,itm_warhorse_skin44,1
-1471,War Horse46,itm_warhorse_skin45,1
-1472,War Horse47,itm_warhorse_skin46,1
-1473,War Horse48,itm_warhorse_skin47,1
-1474,Steppe War Horse1,itm_warhorse_sarranid_skin,1
-1475,Steppe War Horse2,itm_warhorse_sarranid_skin1,1
-1476,Steppe War Horse3,itm_warhorse_sarranid_skin2,1
-1477,Steppe War Horse4,itm_warhorse_sarranid_skin3,1
-1478,Steppe War Horse5,itm_warhorse_sarranid_skin4,1
-1479,Steppe War Horse6,itm_warhorse_sarranid_skin5,1
-1480,Steppe War Horse7,itm_warhorse_sarranid_skin6,1
-1481,Steppe War Horse8,itm_warhorse_sarranid_skin7,1
-1482,Steppe War Horse9,itm_warhorse_sarranid_skin8,1
-1483,Steppe War Horse10,itm_warhorse_sarranid_skin9,1
-1484,Steppe War Horse11,itm_warhorse_sarranid_skin10,1
-1485,Steppe War Horse12,itm_warhorse_sarranid_skin11,1
-1486,Steppe War Horse13,itm_warhorse_sarranid_skin12,1
-1487,Steppe War Horse14,itm_warhorse_sarranid_skin13,1
-1488,Steppe War Horse15,itm_warhorse_sarranid_skin14,1
-1489,Steppe War Horse16,itm_warhorse_sarranid_skin15,1
-1490,Steppe War Horse17,itm_warhorse_sarranid_skin16,1
-1491,Steppe War Horse18,itm_warhorse_sarranid_skin17,1
-1492,War Horse1,itm_warhorse_steppe_skin,1
-1493,War Horse2,itm_warhorse_steppe_skin1,1
-1494,War Horse3,itm_warhorse_steppe_skin2,1
-1495,Light Charger1,itm_light_charger_skin,1
-1496,Light Charger2,itm_light_charger_skin1,1
-1497,Light Charger3,itm_light_charger_skin2,1
-1498,Light Charger4,itm_light_charger_skin3,1
-1499,Light Charger5,itm_light_charger_skin4,1
-1500,Charger1,itm_charger_skin,1
-1501,Charger2,itm_charger_skin1,1
-1502,Charger3,itm_charger_skin2,1
-1503,Charger4,itm_charger_skin3,1
-1504,Charger5,itm_charger_skin4,1
-1505,Charger6,itm_charger_skin5,1
-1506,Charger7,itm_charger_skin6,1
-1507,Charger8,itm_charger_skin7,1
-1508,Courser1,itm_courser_skin,1
-1509,cw_plate_falcon_hood,itm_cw_plate_falcon_hood,12
-1510,cw_greataxe_adjudgment,itm_cw_greataxe_adjudgment,3
-1511,cw_shhuzhi_shield,itm_cw_shhuzhi_shield,7
-1512,cw_yanyuedao,itm_cw_yanyuedao,4
-1513,cw_knight_mace,itm_cw_knight_mace,2
-1514,cw_ba_knight_long_axe,itm_cw_ba_knight_long_axe,2
-1515,cw_gudar_fist_x,itm_cw_gudar_fist_x,3
-1516,cw_corprus_flamberg,itm_cw_corprus_flamberg,3
-1517,cw_ironcramp_staff,itm_cw_ironcramp_staff,4
-1518,cw_trtd,itm_cw_trtd,2
-1519,cw_falcon_heavy_lance,itm_cw_falcon_heavy_lance,4
-1520,cw_falcon_kite_shield,itm_cw_falcon_kite_shield,7
-1521,cw_galloping_rainbow,itm_cw_galloping_rainbow,1
-1522,cw_giant_dargon,itm_cw_giant_dargon,1
-1523,cw_courser_dh_armor,itm_cw_courser_dh_armor,1
-1524,cw_iron_pagoda,itm_cw_iron_pagoda,1
-1525,cw_helm_invisible,itm_cw_helm_invisible,12
-1526,cw_Assassin_Leather,itm_cw_armor8,13
-1527,cw_Assassin_Gloves,itm_cw_assassin_gloves,15
-1528,cw_Assassin_Boots,itm_cw_boot7,14
-1529,cw_Damascus_Steel_Armor,itm_cw_dmsg_steel_armor,13
-1530,cw_Damascus_Steel_Greaves,itm_cw_dmsg_steel_greaves,14
-1531,cw_Damascus_Steel_Gauntlets,itm_cw_dmsg_steel_gauntlets,15
-1532,cw_Knight_of_Freedom's_Helmet,itm_cw_kof_cpt_helm,12
-1533,cw_kof_cpt_armor,itm_cw_kof_cpt_armor,13
-1534,cw_Knight_Gauntlets,itm_cw_kof_cpt_gauntlets,15
-1535,cw_Knight_of_Freedom's_Greaves,itm_cw_kof_cpt_greaves,14
-1536,cw_Falcon_Armor,itm_cw_plate_falcon,13
-1537,cw_Plate_boots_falcon,itm_cw_plate_boots_falcon,14
-1538,cw_Falcon_Gauntlets,itm_cw_falcon_gauntlets,15
-1539,cw_Leader_Helmet,itm_cw_leader_helmet,12
-1540,cw_Knight_FullArmore,itm_cw_armor12,13
-1541,cw_knight_gauntlets_qs,itm_cw_knight_gauntlets_qs,15
-1542,cw_boot3,itm_cw_boot3,14
-1543,cw_steppe_cap_heavy,itm_cw_steppe_cap_heavy,12
-1544,cw_steppe_mask_heavy,itm_cw_steppe_mask_heavy,12
-1545,cw_Heavy_Lamellar_Armor,itm_cw_lamellar_armor_dc,13
-1546,cw_Steppe_Gauntlets,itm_cw_steppe_glove_hav,15
-1547,cw_nanguatou_had,itm_cw_nanguatou_had,12
-1548,cw_nanhguabis,itm_cw_nanhguabis,2
+0,no_item,INVALID ITEM,2,{'thrust': '1b', 'length': 1, 'speed': 1, 'swing': '1b'}
+1,no_head,INVALID HEAD,12,{'head_armor': 1}
+2,no_body,INVALID BODY,13,{'leg_armor': 0, 'body_armor': 1}
+3,no_foot,INVALID FOOT,14,{'leg_armor': 1}
+4,no_hand,INVALID HAND,15,{'body_armor': 1}
+5,no_horse,INVALID HORSE,1,{'maneuver': 40, 'armor': 1, 'HP': 1, 'difficulty': 0, 'charge': 1, 'speed': 10}
+6,tattered_headcloth,Tattered Headcloth,12,{'head_armor': 3}
+7,ragged_woolen_cap,Ragged Woolen Cap,12,{'head_armor': 4}
+8,stained_felt_hat_b,Stained Felt Hat,12,{'head_armor': 4}
+9,straw_hat,Straw Hat,12,{'head_armor': 2}
+10,head_wrappings,Head Wrapping,12,{'head_armor': 3}
+11,headcloth,Headcloth,12,{'head_armor': 4}
+12,woolen_cap,Woolen Cap,12,{'head_armor': 6}
+13,sarranid_felt_hat,Felt Hat,12,{'head_armor': 5}
+14,sarranid_felt_head_cloth,Head Cloth,12,{'head_armor': 4}
+15,sarranid_felt_head_cloth_b,Head Cloth,12,{'head_armor': 4}
+16,bride_crown,Crown of Flowers,12,{'head_armor': 1}
+17,khergit_lady_hat,Blue Head Scarf,12,{'head_armor': 1}
+18,khergit_lady_hat_b,Leather Head Scarf,12,{'head_armor': 4}
+19,sarranid_head_cloth,Lady Head Cloth,12,{'head_armor': 4}
+20,sarranid_head_cloth_b,Lady Head Cloth,12,{'head_armor': 4}
+21,wimple_a,Wimple,12,{'head_armor': 4}
+22,wimple_b,Wimple,12,{'head_armor': 4}
+23,barbette,Barbette,12,{'head_armor': 8}
+24,arming_cap,Arming Cap,12,{'head_armor': 7}
+25,ladys_hood,Woolen Hood,12,{'head_armor': 8}
+26,fur_hat,Fur Hat,12,{'head_armor': 8}
+27,felt_hat,Felt Hat,12,{'head_armor': 8}
+28,felt_hat_b,Felt Hat,12,{'head_armor': 8}
+29,leather_cap,Leather Cap,12,{'head_armor': 10}
+30,common_hood,Hood,12,{'head_armor': 10}
+31,hood_b,Hood,12,{'head_armor': 10}
+32,hood_c,Hood,12,{'head_armor': 10}
+33,hood_d,Hood,12,{'head_armor': 10}
+34,nomad_cap,Nomad Cap,12,{'head_armor': 15}
+35,nomad_cap_b,Nomad Cap,12,{'head_armor': 13}
+36,black_hood,Black Hood,12,{'head_armor': 11}
+37,surgeon_coif,Surgeon's Coif,12,{'head_armor': 10}
+38,pilgrim_hood,Pilgrim Hood,12,{'head_armor': 11}
+39,priest_coif,Priestly Coif,12,{'head_armor': 10}
+40,padded_coif,Padded Coif,12,{'head_armor': 11}
+41,turban,Turban,12,{'head_armor': 11}
+42,leather_steppe_cap_a,Steppe Cap,12,{'head_armor': 12}
+43,leather_steppe_cap_b,Steppe Cap,12,{'head_armor': 14}
+44,nordic_archer_helmet,Leather Helmet,12,{'head_armor': 14}
+45,vaegir_fur_cap,Cap with Fur,12,{'head_armor': 15}
+46,steppe_cap,Steppe Cap,12,{'head_armor': 16}
+47,leather_warrior_cap,Leather Warrior Cap,12,{'head_armor': 18}
+48,sarranid_warrior_cap,Turban with Warrior Cap,12,{'head_armor': 19}
+49,nordic_veteran_archer_helmet,Leather Helmet,12,{'head_armor': 20}
+50,skullcap,Skullcap,12,{'head_armor': 20}
+51,vaegir_fur_helmet,Fur Helmet,12,{'head_armor': 21}
+52,bishop_mitre,Bishop's Mitre,12,{'head_armor': 13}
+53,mail_coif,Mail Coif,12,{'head_armor': 22}
+54,footman_helmet,Footman's Helmet,12,{'head_armor': 24}
+55,sarranid_horseman_helmet,Horseman Helmet,12,{'head_armor': 25}
+56,nasal_helmet,Nasal Helmet,12,{'head_armor': 26}
+57,norman_helmet,Helmet with Cap,12,{'head_armor': 28}
+58,nordic_footman_helmet,Footman Helmet,12,{'head_armor': 30}
+59,khergit_war_helmet,War Helmet,12,{'head_armor': 31}
+60,segmented_helmet,Segmented Helmet,12,{'head_armor': 31}
+61,vaegir_spiked_helmet,Spiked Cap,12,{'head_armor': 32}
+62,helmet_with_neckguard,Helmet with Neckguard,12,{'head_armor': 33}
+63,flat_topped_helmet,Flat Topped Helmet,12,{'head_armor': 33}
+64,nordic_fighter_helmet,Fighter Helmet,12,{'head_armor': 34}
+65,kettle_hat,Kettle Hat,12,{'head_armor': 35}
+66,sarranid_helmet1,Keffiyeh Helmet,12,{'head_armor': 35}
+67,vaegir_lamellar_helmet,Helmet with Lamellar Guard,12,{'head_armor': 38}
+68,spiked_helmet,Spiked Helmet,12,{'head_armor': 38}
+69,sarranid_mail_coif,Mail Coif,12,{'head_armor': 39}
+70,nordic_huscarl_helmet,Huscarl's Helmet,12,{'head_armor': 40}
+71,bascinet,Bascinet,12,{'head_armor': 42}
+72,bascinet_2,Bascinet with Aventail,12,{'head_armor': 44}
+73,bascinet_3,Bascinet with Nose Guard,12,{'head_armor': 45}
+74,vaegir_noble_helmet,Nobleman Helmet,12,{'head_armor': 45}
+75,guard_helmet,Guard Helmet,12,{'head_armor': 47}
+76,sarranid_veiled_helmet,Veiled Helmet,12,{'head_armor': 47}
+77,vaegir_war_helmet,War Helmet,12,{'head_armor': 47}
+78,nordic_warlord_helmet,Warlord Helmet,12,{'head_armor': 48}
+79,bishop_helm,Bishop's Helm,12,{'head_armor': 49}
+80,full_helm,Full Helm,12,{'head_armor': 51}
+81,vaegir_mask,War Mask,12,{'head_armor': 50}
+82,vaegir_mask_b,War Mask,12,{'head_armor': 52}
+83,great_helmet,Great Helmet,12,{'head_armor': 53}
+84,winged_great_helmet,Winged Great Helmet,12,{'head_armor': 55}
+85,black_helmet,Black Helmet,12,{'head_armor': 55}
+86,ragged_shirt,Ragged Shirt,13,{'leg_armor': 0, 'body_armor': 2}
+87,old_coarse_tunic,Old Coarse Tunic,13,{'leg_armor': 4, 'body_armor': 7}
+88,old_linen_tunic,Old Linen Tunic,13,{'leg_armor': 1, 'body_armor': 4}
+89,ragged_leather_apron,Ragged Leather Apron,13,{'leg_armor': 5, 'body_armor': 6}
+90,old_tabard,Old Tabard,13,{'leg_armor': 4, 'body_armor': 8}
+91,shirt,Shirt,13,{'leg_armor': 0, 'body_armor': 5}
+92,linen_tunic,Linen Tunic,13,{'leg_armor': 1, 'body_armor': 6}
+93,black_robe,Black Robe,13,{'leg_armor': 6, 'body_armor': 8}
+94,dress,Dress,13,{'leg_armor': 2, 'body_armor': 6}
+95,blue_dress,Blue Dress,13,{'leg_armor': 2, 'body_armor': 6}
+96,peasant_dress,Peasant Dress,13,{'leg_armor': 2, 'body_armor': 6}
+97,woolen_dress,Woolen Dress,13,{'leg_armor': 2, 'body_armor': 8}
+98,sarranid_common_dress,Gray Dress,13,{'leg_armor': 5, 'body_armor': 5}
+99,sarranid_common_dress_b,Brown Dress,13,{'leg_armor': 5, 'body_armor': 6}
+100,lady_dress_ruby,Red Dress,13,{'leg_armor': 10, 'body_armor': 10}
+101,lady_dress_green,Green Dress,13,{'leg_armor': 10, 'body_armor': 10}
+102,lady_dress_blue,Blue Dress,13,{'leg_armor': 10, 'body_armor': 10}
+103,court_dress,Red Pattern Dress,13,{'leg_armor': 10, 'body_armor': 10}
+104,red_dress,Red Dress,13,{'leg_armor': 10, 'body_armor': 10}
+105,brown_dress,Brown Dress,13,{'leg_armor': 10, 'body_armor': 10}
+106,green_dress,Green Dress,13,{'leg_armor': 10, 'body_armor': 10}
+107,sarranid_lady_dress,Purple Dress,13,{'leg_armor': 10, 'body_armor': 10}
+108,sarranid_lady_dress_b,Orange Dress,13,{'leg_armor': 10, 'body_armor': 10}
+109,khergit_lady_dress,Blue Dress,13,{'leg_armor': 10, 'body_armor': 10}
+110,khergit_lady_dress_b,Leather Dress,13,{'leg_armor': 20, 'body_armor': 15}
+111,bride_dress,Bride Dress,13,{'leg_armor': 1, 'body_armor': 3}
+112,tunic_with_green_cape,Tunic with Green Cape,13,{'leg_armor': 4, 'body_armor': 12}
+113,rough_tunic,Rough Tunic,13,{'leg_armor': 1, 'body_armor': 7}
+114,red_shirt,Red Shirt,13,{'leg_armor': 1, 'body_armor': 7}
+115,pelt_coat,Pelt Coat,13,{'leg_armor': 3, 'body_armor': 11}
+116,sarranid_cloth_robe,Worn Robe,13,{'leg_armor': 9, 'body_armor': 9}
+117,sarranid_cloth_robe_b,Worn Robe,13,{'leg_armor': 9, 'body_armor': 9}
+118,rawhide_coat,Rawhide Coat,13,{'leg_armor': 0, 'body_armor': 13}
+119,coarse_tunic,Tunic with Vest,13,{'leg_armor': 6, 'body_armor': 11}
+120,leather_apron,Leather Apron,13,{'leg_armor': 7, 'body_armor': 12}
+121,fur_coat,Fur Coat,13,{'leg_armor': 6, 'body_armor': 13}
+122,friar_robe,Friar's Robe,13,{'leg_armor': 12, 'body_armor': 14}
+123,skirmisher_armor,Skirmisher Armor,13,{'leg_armor': 7, 'body_armor': 15}
+124,rich_outfit,Rich Outfit,13,{'leg_armor': 4, 'body_armor': 16}
+125,tabard,Tabard,13,{'leg_armor': 6, 'body_armor': 14}
+126,khergit_armor,Tribesman Armor,13,{'leg_armor': 0, 'body_armor': 14}
+127,leather_vest_plain,Leather Vest,13,{'leg_armor': 7, 'body_armor': 15}
+128,leather_vest,Heraldic Leather Vest,13,{'leg_armor': 7, 'body_armor': 15}
+129,leather_jacket,Leather Jacket,13,{'leg_armor': 0, 'body_armor': 15}
+130,priest_robe,Priestly Robes,13,{'leg_armor': 13, 'body_armor': 17}
+131,arena_tunic,Arena Tunic,13,{'leg_armor': 6, 'body_armor': 16}
+132,steppe_armor,Leather Breastplate,13,{'leg_armor': 8, 'body_armor': 16}
+133,leather_armor,Leather Armor,13,{'leg_armor': 0, 'body_armor': 18}
+134,pilgrim_disguise,Pilgrim Disguise,13,{'leg_armor': 8, 'body_armor': 19}
+135,red_gambeson,Red Gambeson,13,{'leg_armor': 5, 'body_armor': 21}
+136,padded_cloth,Aketon,13,{'leg_armor': 6, 'body_armor': 22}
+137,aketon_green,Padded Cloth,13,{'leg_armor': 6, 'body_armor': 23}
+138,archers_vest,Archer's Padded Vest,13,{'leg_armor': 10, 'body_armor': 23}
+139,nomad_vest,Nomad Vest,13,{'leg_armor': 8, 'body_armor': 22}
+140,ragged_outfit,Ragged Outfit,13,{'leg_armor': 9, 'body_armor': 23}
+141,surgeon_coat,Surgeon's Coat,13,{'leg_armor': 9, 'body_armor': 24}
+142,nomad_armor,Nomad Armor,13,{'leg_armor': 0, 'body_armor': 24}
+143,nomad_robe,Nomad Robe,13,{'leg_armor': 8, 'body_armor': 25}
+144,light_leather,Light Leather,13,{'leg_armor': 7, 'body_armor': 26}
+145,leather_jerkin,Leather Jerkin,13,{'leg_armor': 6, 'body_armor': 25}
+146,padded_leather,Padded Leather,13,{'leg_armor': 7, 'body_armor': 27}
+147,arena_armor,Arena Armor,13,{'leg_armor': 13, 'body_armor': 29}
+148,tribal_warrior_outfit,Tribal Warrior Outfit,13,{'leg_armor': 10, 'body_armor': 30}
+149,sarranid_leather_armor,Leather Armor,13,{'leg_armor': 12, 'body_armor': 32}
+150,courtly_outfit,Courtly Outfit,13,{'leg_armor': 10, 'body_armor': 24}
+151,nobleman_outfit,Nobleman Outfit,13,{'leg_armor': 12, 'body_armor': 25}
+152,sarranid_cavalry_robe,Brown Mail Shirt,13,{'leg_armor': 8, 'body_armor': 36}
+153,studded_leather_coat,Studded Leather Coat,13,{'leg_armor': 10, 'body_armor': 36}
+154,byrnie,Byrnie,13,{'leg_armor': 6, 'body_armor': 39}
+155,haubergeon,Haubergeon,13,{'leg_armor': 6, 'body_armor': 41}
+156,arabian_armor_b,Guard Armor,13,{'leg_armor': 8, 'body_armor': 38}
+157,lamellar_vest,Lamellar Vest,13,{'leg_armor': 8, 'body_armor': 40}
+158,lamellar_vest_khergit,Lamellar Vest,13,{'leg_armor': 8, 'body_armor': 40}
+159,mail_shirt,Mail Shirt,13,{'leg_armor': 12, 'body_armor': 39}
+160,mail_hauberk,Mail Hauberk,13,{'leg_armor': 12, 'body_armor': 42}
+161,sarranid_mail_shirt,Orange Mail Shirt,13,{'leg_armor': 14, 'body_armor': 40}
+162,bishop_armor,Bishop's Armor,13,{'leg_armor': 13, 'body_armor': 41}
+163,mail_with_surcoat,Surcoat over Mail,13,{'leg_armor': 14, 'body_armor': 42}
+164,surcoat_over_mail,Surcoat over Mail,13,{'leg_armor': 14, 'body_armor': 43}
+165,brigandine_red,Brigandine,13,{'leg_armor': 12, 'body_armor': 45}
+166,mamluke_mail,Mail Robe,13,{'leg_armor': 16, 'body_armor': 46}
+167,lamellar_armor,Lamellar Armor,13,{'leg_armor': 13, 'body_armor': 46}
+168,scale_armor,Scale Armor,13,{'leg_armor': 13, 'body_armor': 47}
+169,banded_armor,Banded Armor,13,{'leg_armor': 14, 'body_armor': 46}
+170,cuir_bouilli,Cuir Bouilli,13,{'leg_armor': 15, 'body_armor': 45}
+171,coat_of_plates,Coat of Plates,13,{'leg_armor': 16, 'body_armor': 47}
+172,coat_of_plates_red,Heraldic Coat of Plates,13,{'leg_armor': 16, 'body_armor': 47}
+173,khergit_elite_armor,Heraldic Elite Armor,13,{'leg_armor': 16, 'body_armor': 48}
+174,vaegir_elite_armor,Elite Armor,13,{'leg_armor': 16, 'body_armor': 48}
+175,sarranid_elite_armor,Elite Armor,13,{'leg_armor': 16, 'body_armor': 48}
+176,plate_armor,Plate Armor,13,{'leg_armor': 17, 'body_armor': 55}
+177,black_armor,Black Armor,13,{'leg_armor': 18, 'body_armor': 57}
+178,light_heraldic_mail,Light Heraldic Mail,13,{'leg_armor': 5, 'body_armor': 30}
+179,heraldic_mail_with_tunic,Heraldic Mail with Tunic,13,{'leg_armor': 8, 'body_armor': 35}
+180,heraldic_mail_with_tabard,Heraldic Mail with Tabard,13,{'leg_armor': 10, 'body_armor': 40}
+181,heraldic_mail_with_surcoat,Heraldic Mail with Surcoat,13,{'leg_armor': 15, 'body_armor': 44}
+182,tattered_wrapping_boots,Tattered Wrapping Boots,14,{'leg_armor': 2}
+183,ripped_woolen_hose,Ripped Woolen Hose,14,{'leg_armor': 1}
+184,old_hide_boots,Old Hide Boots,14,{'leg_armor': 4}
+185,wrapping_boots,Wrapping Boots,14,{'leg_armor': 3}
+186,woolen_hose,Woolen Hose,14,{'leg_armor': 4}
+187,friar_sandals,Friar's Sandals,14,{'leg_armor': 4}
+188,blue_hose,Blue Hose,14,{'leg_armor': 5}
+189,bride_shoes,Bride Shoes,14,{'leg_armor': 1}
+190,priest_leggings,Priestly Leggings,14,{'leg_armor': 8}
+191,sarranid_boots_a,Pointed Shoes,14,{'leg_armor': 8}
+192,hunter_boots,Hunter Boots,14,{'leg_armor': 9}
+193,hide_boots,Hide Boots,14,{'leg_armor': 10}
+194,ankle_boots,Ankle Boots,14,{'leg_armor': 12}
+195,nomad_boots,Nomad Boots,14,{'leg_armor': 14}
+196,light_leather_boots,Light Leather Boots,14,{'leg_armor': 15}
+197,leather_boots,Leather Boots,14,{'leg_armor': 16}
+198,sarranid_boots_b,Pointed Leather Boots,14,{'leg_armor': 17}
+199,khergit_leather_boots,Black Leather Boots,14,{'leg_armor': 18}
+200,sarranid_boots_c,Plated Boots,14,{'leg_armor': 20}
+201,splinted_leather_greaves,Splinted Leather Greaves,14,{'leg_armor': 21}
+202,bishop_chausses,Bishop's Chausses,14,{'leg_armor': 22}
+203,mail_chausses,Mail Chausses,14,{'leg_armor': 24}
+204,splinted_greaves,Splinted Greaves,14,{'leg_armor': 28}
+205,sarranid_boots_d,Mail Boots,14,{'leg_armor': 30}
+206,mail_boots,Mail Boots,14,{'leg_armor': 31}
+207,iron_greaves,Iron Greaves,14,{'leg_armor': 33}
+208,plate_boots,Plate Boots,14,{'leg_armor': 34}
+209,black_greaves,Black Greaves,14,{'leg_armor': 35}
+210,leather_gloves,Leather Gloves,15,{'body_armor': 2}
+211,bishop_gloves,Bishop's Gloves,15,{'body_armor': 3}
+212,mail_mittens,Mail Mittens,15,{'body_armor': 4}
+213,lamellar_gauntlets,Lamellar Gauntlets,15,{'body_armor': 5}
+214,scale_gauntlets,Scale Gauntlets,15,{'body_armor': 6}
+215,gauntlets,Gauntlets,15,{'body_armor': 7}
+216,club,Club,2,{'thrust': '0p', 'length': 70, 'speed': 92, 'swing': '10b'}
+217,spiked_club,Spiked Club,2,{'thrust': '17p', 'length': 80, 'speed': 90, 'swing': '15p'}
+218,old_knife,Old Knife,2,{'thrust': '7p', 'length': 43, 'speed': 100, 'swing': '11c'}
+219,crude_spear,Crude Spear,4,{'thrust': '18p', 'length': 120, 'speed': 92, 'swing': '6c'}
+220,blunt_falchion,Blunt Falchion,2,{'thrust': '0p', 'length': 72, 'speed': 91, 'swing': '12c'}
+221,chipped_falchion,Chipped Falchion,2,{'thrust': '0p', 'length': 72, 'speed': 95, 'swing': '16c'}
+222,rusty_sword,Rusty Sword,2,{'thrust': '12p', 'length': 95, 'speed': 97, 'swing': '15c'}
+223,worn_sword,Worn Sword,2,{'thrust': '13p', 'length': 91, 'speed': 98, 'swing': '16c'}
+224,bent_lance,Bent Lance,4,{'thrust': '16p', 'length': 156, 'speed': 87, 'swing': '0c'}
+225,practice_sword,Practice Sword,2,{'thrust': '6c', 'length': 100, 'speed': 94, 'swing': '6c'}
+226,heavy_practice_sword,Heavy Practice Sword,3,{'thrust': '6c', 'length': 117, 'speed': 90, 'swing': '6c'}
+227,winged_mace,Flanged Mace,2,{'thrust': '0p', 'length': 70, 'speed': 100, 'swing': '26b'}
+228,spiked_mace,Spiked Mace,2,{'thrust': '0p', 'length': 70, 'speed': 97, 'swing': '30b'}
+229,mace_2,Knobbed Mace,2,{'thrust': '0p', 'length': 70, 'speed': 98, 'swing': '21b'}
+230,mace_4,Winged Mace,2,{'thrust': '0p', 'length': 70, 'speed': 98, 'swing': '24b'}
+231,club_with_spike_head,Spiked Staff,3,{'thrust': '20p', 'length': 117, 'speed': 95, 'swing': '24b'}
+232,long_spiked_club,Long Spiked Club,4,{'thrust': '20b', 'length': 126, 'speed': 96, 'swing': '23p'}
+233,long_hafted_spiked_mace,Long Hafted Spiked Mace,4,{'thrust': '26b', 'length': 138, 'speed': 94, 'swing': '28b'}
+234,fighting_pick,Fighting Pick,2,{'thrust': '0p', 'length': 68, 'speed': 98, 'swing': '24p'}
+235,military_pick,Military Pick,2,{'thrust': '0p', 'length': 68, 'speed': 97, 'swing': '31p'}
+236,military_sickle,Military Sickle,2,{'thrust': '0p', 'length': 75, 'speed': 98, 'swing': '27p'}
+237,military_hammer,Military Hammer,2,{'thrust': '0p', 'length': 70, 'speed': 95, 'swing': '31b'}
+238,morningstar,Morningstar,3,{'thrust': '0p', 'length': 85, 'speed': 95, 'swing': '38p'}
+239,falchion,Falchion,2,{'thrust': '0p', 'length': 73, 'speed': 96, 'swing': '30c'}
+240,curved_sword,Curved Sword,2,{'thrust': '14p', 'length': 99, 'speed': 98, 'swing': '25c'}
+241,sword_medieval_a,Sword,2,{'thrust': '22p', 'length': 95, 'speed': 99, 'swing': '27c'}
+242,sword_medieval_b_small,Short Sword,2,{'thrust': '24p', 'length': 82, 'speed': 103, 'swing': '26c'}
+243,sword_medieval_c_long,Arming Sword,2,{'thrust': '27p', 'length': 102, 'speed': 98, 'swing': '27c'}
+244,sword_medieval_d_long,Knightly Sword,2,{'thrust': '25p', 'length': 102, 'speed': 97, 'swing': '33c'}
+245,sword_viking_c,Nordic Sword,2,{'thrust': '20p', 'length': 95, 'speed': 99, 'swing': '28c'}
+246,sword_viking_b_small,Nordic Short Sword,2,{'thrust': '22p', 'length': 82, 'speed': 102, 'swing': '27c'}
+247,sword_viking_a_long,Nordic Long Sword,2,{'thrust': '19p', 'length': 101, 'speed': 97, 'swing': '29c'}
+248,arabian_sword_a,Arabian Sword,2,{'thrust': '19p', 'length': 100, 'speed': 99, 'swing': '26c'}
+249,arabian_sword_b,Arabian Arming Sword,2,{'thrust': '19p', 'length': 100, 'speed': 99, 'swing': '28c'}
+250,arabian_sword_c,Arabian Cavalry Sword,2,{'thrust': '19p', 'length': 106, 'speed': 97, 'swing': '28c'}
+251,arabian_sword_d,Arabian Guard Sword,2,{'thrust': '20p', 'length': 100, 'speed': 98, 'swing': '30c'}
+252,scimitar,Scimitar,2,{'thrust': '0p', 'length': 97, 'speed': 101, 'swing': '30c'}
+253,scimitar_b,Elite Scimitar,2,{'thrust': '0p', 'length': 100, 'speed': 100, 'swing': '32c'}
+254,khergit_sword_c,Sabre,2,{'thrust': '0c', 'length': 88, 'speed': 101, 'swing': '31c'}
+255,khergit_sword_d,Heavy Sabre,2,{'thrust': '0c', 'length': 88, 'speed': 98, 'swing': '34c'}
+256,khergit_sword_two_handed_a,Two Handed Sabre,3,{'thrust': '0p', 'length': 113, 'speed': 96, 'swing': '40c'}
+257,two_handed_cleaver,War Cleaver,3,{'thrust': '0c', 'length': 120, 'speed': 93, 'swing': '45c'}
+258,military_cleaver_b,Soldier's Cleaver,2,{'thrust': '0p', 'length': 91, 'speed': 95, 'swing': '31c'}
+259,military_cleaver_c,Military Cleaver,2,{'thrust': '0p', 'length': 91, 'speed': 95, 'swing': '35c'}
+260,bastard_sword_a,Bastard Sword,3,{'thrust': '26p', 'length': 98, 'speed': 98, 'swing': '35c'}
+261,bastard_sword_b,Heavy Bastard Sword,3,{'thrust': '27p', 'length': 105, 'speed': 97, 'swing': '37c'}
+262,sword_two_handed_b,Two Handed Sword,3,{'thrust': '28p', 'length': 109, 'speed': 97, 'swing': '40c'}
+263,sword_two_handed_a,Great Sword,3,{'thrust': '29p', 'length': 119, 'speed': 96, 'swing': '42c'}
+264,throwing_axes,Throwing Axes,10,{'thrust': '39c', 'ammo': 4}
+265,throwing_axes_melee,Throwing Axe,2,{'thrust': '0c', 'length': 53, 'speed': 98, 'swing': '29c'}
+266,one_handed_war_axe_b,One Handed War Axe,2,{'thrust': '0p', 'length': 71, 'speed': 94, 'swing': '31c'}
+267,one_handed_battle_axe_a,One Handed Axe,2,{'thrust': '0p', 'length': 73, 'speed': 95, 'swing': '29c'}
+268,one_handed_battle_axe_b,One Handed Battle Axe,2,{'thrust': '0p', 'length': 76, 'speed': 97, 'swing': '36c'}
+269,one_handed_battle_axe_c,Spiked One Handed Battle Axe,2,{'thrust': '0p', 'length': 73, 'speed': 97, 'swing': '37c'}
+270,sarranid_axe_a,Iron Battle Axe,2,{'thrust': '0p', 'length': 71, 'speed': 97, 'swing': '35c'}
+271,sarranid_axe_b,Iron War Axe,2,{'thrust': '0p', 'length': 69, 'speed': 97, 'swing': '38c'}
+272,two_handed_axe,Two Handed Axe,3,{'thrust': '0p', 'length': 89, 'speed': 96, 'swing': '38c'}
+273,two_handed_battle_axe,Two Handed War Axe,3,{'thrust': '0p', 'length': 90, 'speed': 96, 'swing': '44c'}
+274,shortened_voulge,Shortened Voulge,3,{'thrust': '0p', 'length': 99, 'speed': 92, 'swing': '45c'}
+275,bardiche,Bardiche,3,{'thrust': '0p', 'length': 101, 'speed': 91, 'swing': '47c'}
+276,shortened_military_scythe,Shortened Military Scythe,3,{'thrust': '0p', 'length': 114, 'speed': 90, 'swing': '38c'}
+277,sarranid_two_handed_axe_a,Two Handed Iron Axe,3,{'thrust': '0p', 'length': 95, 'speed': 89, 'swing': '45c'}
+278,sarranid_two_handed_axe_b,Two Handed Iron Axe,3,{'thrust': '0p', 'length': 89, 'speed': 92, 'swing': '47c'}
+279,long_axe_a,Long Axe,4,{'thrust': '15b', 'length': 113, 'speed': 91, 'swing': '46c'}
+280,glaive,Glaive,4,{'thrust': '21p', 'length': 157, 'speed': 90, 'swing': '39c'}
+281,staff,Staff,4,{'thrust': '5b', 'length': 128, 'speed': 98, 'swing': '5b'}
+282,quarter_staff,Quarter Staff,4,{'thrust': '13b', 'length': 137, 'speed': 97, 'swing': '18b'}
+283,iron_staff,Iron Staff,4,{'thrust': '26b', 'length': 128, 'speed': 93, 'swing': '25b'}
+284,throwing_spears,Throwing Spears,10,{'thrust': '44p', 'ammo': 4}
+285,throwing_spear_melee,Throwing Spear,4,{'thrust': '23p', 'length': 75, 'speed': 91, 'swing': '18c'}
+286,shortened_spear,Shortened Spear,4,{'thrust': '24p', 'length': 120, 'speed': 102, 'swing': '18b'}
+287,spear,Spear,4,{'thrust': '26p', 'length': 135, 'speed': 98, 'swing': '20b'}
+288,bamboo_spear,Bamboo Spear,4,{'thrust': '20p', 'length': 200, 'speed': 88, 'swing': '15b'}
+289,war_spear,War Spear,4,{'thrust': '27p', 'length': 150, 'speed': 95, 'swing': '20b'}
+290,light_lance,Light Lance,4,{'thrust': '27p', 'length': 175, 'speed': 85, 'swing': '16b'}
+291,lance,Lance,4,{'thrust': '26p', 'length': 180, 'speed': 80, 'swing': '16b'}
+292,heavy_lance,Heavy Lance,4,{'thrust': '26p', 'length': 190, 'speed': 75, 'swing': '16b'}
+293,great_lance,Great Lance,4,{'thrust': '21p', 'length': 227, 'speed': 70, 'swing': '0c'}
+294,jousting_lance,Jousting Lance,4,{'thrust': '15b', 'length': 226, 'speed': 70, 'swing': '0c'}
+295,awlpike,Awlpike,4,{'thrust': '33p', 'length': 165, 'speed': 92, 'swing': '20b'}
+296,awlpike_long,Long Awlpike,4,{'thrust': '32p', 'length': 185, 'speed': 89, 'swing': '20b'}
+297,pike,Pike,4,{'thrust': '26p', 'length': 245, 'speed': 81, 'swing': '16b'}
+298,bec_de_corbin_a,War Hammer,4,{'thrust': '30p', 'length': 120, 'speed': 87, 'swing': '28b'}
+299,bishop_crosier,Bishop's Crosier,3,{'thrust': '0c', 'length': 125, 'speed': 70, 'swing': '0b'}
+300,crude_bow,Crude Bow,8,{'thrust': '9p', 'length': 0, 'speed': 82, 'shoot_speed': 42, 'ammo': 0}
+301,bent_arrows,Bent Arrows,5,{'thrust': '0p', 'ammo': 10}
+302,flimsy_crossbow,Flimsy Crossbow,9,{'thrust': '18p', 'length': 0, 'speed': 35, 'shoot_speed': 57, 'ammo': 1}
+303,crude_bolts,Crude Bolts,6,{'thrust': '0c', 'ammo': 8}
+304,hunting_bow,Hunting Bow,8,{'thrust': '15p', 'length': 0, 'speed': 100, 'shoot_speed': 52, 'ammo': 0}
+305,short_bow,Short Bow,8,{'thrust': '18p', 'length': 0, 'speed': 97, 'shoot_speed': 55, 'ammo': 0}
+306,nomad_bow,Nomad Bow,8,{'thrust': '20p', 'length': 0, 'speed': 94, 'shoot_speed': 56, 'ammo': 0}
+307,long_bow,Long Bow,8,{'thrust': '22p', 'length': 0, 'speed': 86, 'shoot_speed': 56, 'ammo': 0}
+308,khergit_bow,Khergit Bow,8,{'thrust': '21p', 'length': 0, 'speed': 90, 'shoot_speed': 57, 'ammo': 0}
+309,strong_bow,Strong Bow,8,{'thrust': '23p', 'length': 0, 'speed': 88, 'shoot_speed': 58, 'ammo': 0}
+310,war_bow,War Bow,8,{'thrust': '25p', 'length': 0, 'speed': 85, 'shoot_speed': 59, 'ammo': 0}
+311,arrows,Arrows,5,{'thrust': '1p', 'ammo': 30}
+312,barbed_arrows,Barbed Arrows,5,{'thrust': '2p', 'ammo': 30}
+313,khergit_arrows,Broadhead Arrows,5,{'thrust': '3p', 'ammo': 30}
+314,bodkin_arrows,Bodkin Arrows,5,{'thrust': '3p', 'ammo': 30}
+315,hunting_crossbow,Hunting Crossbow,9,{'thrust': '37p', 'length': 0, 'speed': 47, 'shoot_speed': 50, 'ammo': 1}
+316,light_crossbow,Light Crossbow,9,{'thrust': '44p', 'length': 0, 'speed': 45, 'shoot_speed': 59, 'ammo': 1}
+317,crossbow,Crossbow,9,{'thrust': '49p', 'length': 0, 'speed': 42, 'shoot_speed': 66, 'ammo': 1}
+318,heavy_crossbow,Heavy Crossbow,9,{'thrust': '56p', 'length': 0, 'speed': 37, 'shoot_speed': 68, 'ammo': 1}
+319,sniper_crossbow,Siege Crossbow,9,{'thrust': '63p', 'length': 0, 'speed': 32, 'shoot_speed': 70, 'ammo': 1}
+320,bolts,Bolts,6,{'thrust': '1p', 'ammo': 29}
+321,steel_bolts,Steel Bolts,6,{'thrust': '2p', 'ammo': 29}
+322,old_shield,Old Shield,7,{'armor': 2, 'HP': 210, 'weight': 3.5}
+323,practice_shield,Practice Shield,7,{'armor': 1, 'HP': 100, 'weight': 4.0}
+324,tab_shield_round_b,Plain Round Shield,7,{'armor': 8, 'HP': 260, 'weight': 3.0}
+325,tab_shield_round_c,Round Shield,7,{'armor': 12, 'HP': 310, 'weight': 3.5}
+326,tab_shield_round_d,Heavy Round Shield,7,{'armor': 15, 'HP': 350, 'weight': 4.0}
+327,tab_shield_round_e,Huscarl's Round Shield,7,{'armor': 16, 'HP': 380, 'weight': 5.0}
+328,tab_shield_kite_b,Plain Kite Shield,7,{'armor': 10, 'HP': 215, 'weight': 2.5}
+329,tab_shield_kite_c,Kite Shield,7,{'armor': 13, 'HP': 265, 'weight': 3.0}
+330,tab_shield_kite_d,Heavy Kite Shield,7,{'armor': 18, 'HP': 310, 'weight': 3.5}
+331,tab_shield_kite_cav_a,Horseman's Kite Shield,7,{'armor': 14, 'HP': 165, 'weight': 2.0}
+332,tab_shield_kite_cav_b,Knightly Kite Shield,7,{'armor': 23, 'HP': 225, 'weight': 2.5}
+333,tab_shield_heater_b,Plain Heater Shield,7,{'armor': 11, 'HP': 210, 'weight': 2.5}
+334,tab_shield_heater_c,Heater Shield,7,{'armor': 14, 'HP': 260, 'weight': 3.0}
+335,tab_shield_heater_d,Heavy Heater Shield,7,{'armor': 19, 'HP': 305, 'weight': 3.5}
+336,tab_shield_heater_cav_a,Horseman's Heater Shield,7,{'armor': 16, 'HP': 160, 'weight': 2.0}
+337,tab_shield_heater_cav_b,Knightly Heater Shield,7,{'armor': 23, 'HP': 220, 'weight': 2.5}
+338,tab_shield_pavise_b,Plain Board Shield,7,{'armor': 8, 'HP': 360, 'weight': 4.0}
+339,tab_shield_pavise_c,Board Shield,7,{'armor': 10, 'HP': 430, 'weight': 4.5}
+340,tab_shield_pavise_d,Heavy Board Shield,7,{'armor': 14, 'HP': 550, 'weight': 5.0}
+341,tab_shield_small_round_a,Plain Cavalry Shield,7,{'armor': 8, 'HP': 160, 'weight': 2.0}
+342,tab_shield_small_round_b,Round Cavalry Shield,7,{'armor': 14, 'HP': 200, 'weight': 2.5}
+343,tab_shield_small_round_c,Elite Cavalry Shield,7,{'armor': 22, 'HP': 250, 'weight': 3.0}
+344,hide_covered_round_shield,Hide Covered Round Shield,7,{'armor': 3, 'HP': 260, 'weight': 3.5}
+345,hide_covered_kite_shield,Hide Covered Kite Shield,7,{'armor': 1, 'HP': 600, 'weight': 5.5}
+346,steel_shield,Steel Shield,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+347,sumpter_horse,Sumpter Horse,1,{'maneuver': 39, 'armor': 14, 'HP': 100, 'difficulty': 1, 'charge': 9, 'speed': 37}
+348,cart_horse,Cart Horse,1,{'maneuver': 20, 'armor': 10, 'HP': 150, 'difficulty': 1, 'charge': 20, 'speed': 35}
+349,saddle_horse,Saddle Horse,1,{'maneuver': 44, 'armor': 8, 'HP': 100, 'difficulty': 1, 'charge': 10, 'speed': 43}
+350,steppe_horse,Steppe Horse,1,{'maneuver': 51, 'armor': 10, 'HP': 120, 'difficulty': 2, 'charge': 8, 'speed': 40}
+351,arabian_horse_a,Desert Horse,1,{'maneuver': 50, 'armor': 10, 'HP': 110, 'difficulty': 2, 'charge': 12, 'speed': 42}
+352,arabian_horse_b,Silver Horse,1,{'maneuver': 54, 'armor': 10, 'HP': 120, 'difficulty': 3, 'charge': 16, 'speed': 43}
+353,courser,Courser,1,{'maneuver': 44, 'armor': 12, 'HP': 110, 'difficulty': 3, 'charge': 12, 'speed': 50}
+354,hunter,Hunter,1,{'maneuver': 44, 'armor': 18, 'HP': 160, 'difficulty': 3, 'charge': 24, 'speed': 46}
+355,warhorse,War Horse,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+356,warhorse_steppe,Steppe War Horse,1,{'maneuver': 50, 'armor': 40, 'HP': 150, 'difficulty': 4, 'charge': 28, 'speed': 40}
+357,warhorse_sarranid,Barded War Horse,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+358,charger,Charger,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+359,plated_charger,Plated Charger,1,{'maneuver': 45, 'armor': 65, 'HP': 180, 'difficulty': 4, 'charge': 40, 'speed': 40}
+360,deer,Deer,1,{'maneuver': 75, 'armor': 5, 'HP': 60, 'difficulty': 10, 'charge': 30, 'speed': 55}
+361,fawn,Fawn,1,{'maneuver': 70, 'armor': 2, 'HP': 25, 'difficulty': 10, 'charge': 5, 'speed': 45}
+362,boar,Boar,1,{'maneuver': 70, 'armor': 20, 'HP': 70, 'difficulty': 10, 'charge': 250, 'speed': 40}
+363,boarlet,Boarlet,1,{'maneuver': 65, 'armor': 10, 'HP': 30, 'difficulty': 10, 'charge': 10, 'speed': 30}
+364,cow,Cow,1,{'maneuver': 65, 'armor': 15, 'HP': 85, 'difficulty': 10, 'charge': 100, 'speed': 35}
+365,calf,Calf,1,{'maneuver': 60, 'armor': 8, 'HP': 45, 'difficulty': 10, 'charge': 30, 'speed': 37}
+366,stick,Stick,2,{'thrust': '0c', 'length': 63, 'speed': 90, 'swing': '5b'}
+367,stick_melee,Stick,2,{'thrust': '0c', 'length': 63, 'speed': 90, 'swing': '5b'}
+368,branch,Branch,4,{'thrust': '10b', 'length': 250, 'speed': 30, 'swing': '20b'}
+369,wood_pole_short,Short Wooden Pole,4,{'thrust': '10b', 'length': 92, 'speed': 75, 'swing': '15b'}
+370,wood_pole,Wooden Pole,4,{'thrust': '10b', 'length': 150, 'speed': 70, 'swing': '20b'}
+371,wood_block,Wood Block,4,{'thrust': '5b', 'length': 32, 'speed': 50, 'swing': '5b'}
+372,board,Board,2,{'thrust': '10b', 'length': 50, 'speed': 60, 'swing': '10b'}
+373,iron_ore_small,Small Iron Ore,4,{'thrust': '7b', 'length': 50, 'speed': 60, 'swing': '7b'}
+374,iron_ore,Iron Ore,4,{'thrust': '10b', 'length': 50, 'speed': 50, 'swing': '10b'}
+375,iron_piece,Iron Piece,2,{'thrust': '5b', 'length': 20, 'speed': 80, 'swing': '5b'}
+376,iron_bar_short,Short Iron Bar,2,{'thrust': '10b', 'length': 25, 'speed': 70, 'swing': '10b'}
+377,iron_bar,Iron Bar,2,{'thrust': '10b', 'length': 60, 'speed': 60, 'swing': '15b'}
+378,iron_bar_long,Long Iron Bar,4,{'thrust': '10b', 'length': 100, 'speed': 50, 'swing': '20b'}
+379,gold_nugget,Gold Nugget,2,{'thrust': '5b', 'length': 20, 'speed': 70, 'swing': '5b'}
+380,gold_bar,Gold Bar,2,{'thrust': '10b', 'length': 20, 'speed': 60, 'swing': '10b'}
+381,silver_nugget,Silver Nugget,2,{'thrust': '5b', 'length': 20, 'speed': 70, 'swing': '5b'}
+382,silver_bar,Silver Bar,2,{'thrust': '8b', 'length': 20, 'speed': 60, 'swing': '8b'}
+383,flax_bundle,Flax Bundle,2,{'thrust': '0c', 'length': 45, 'speed': 20, 'swing': '0c'}
+384,linen_thread,Linen Thread,2,{'thrust': '0c', 'length': 45, 'speed': 90, 'swing': '0c'}
+385,linen_cloth,Linen Cloth,2,{'thrust': '0c', 'length': 80, 'speed': 60, 'swing': '0c'}
+386,linen_cloth_small,Small Linen Cloth,2,{'thrust': '0c', 'length': 60, 'speed': 70, 'swing': '0c'}
+387,raw_hide,Raw Hide,2,{'thrust': '0c', 'length': 60, 'speed': 20, 'swing': '0c'}
+388,leather_roll,Leather Roll,2,{'thrust': '4b', 'length': 50, 'speed': 20, 'swing': '4b'}
+389,leather_piece,Leather Piece,2,{'thrust': '2b', 'length': 50, 'speed': 20, 'swing': '2b'}
+390,saddle,Saddle,4,{'thrust': '0c', 'length': 100, 'speed': 0, 'swing': '0c'}
+391,horse_armor,Horse Armor,4,{'thrust': '0c', 'length': 120, 'speed': 0, 'swing': '0c'}
+392,hatchet,Hatchet,2,{'thrust': '0p', 'length': 50, 'speed': 75, 'swing': '10c'}
+393,small_mining_pick,Small Mining Pick,2,{'thrust': '0p', 'length': 70, 'speed': 70, 'swing': '15p'}
+394,woodcutter_axe,Woodcutter's Axe,3,{'thrust': '0p', 'length': 72, 'speed': 80, 'swing': '20c'}
+395,mining_pick,Mining Pick,4,{'thrust': '0p', 'length': 93, 'speed': 70, 'swing': '30p'}
+396,repair_hammer,Repair Hammer,2,{'thrust': '0p', 'length': 65, 'speed': 92, 'swing': '5b'}
+397,lock_pick,Lock Pick,2,{'thrust': '5p', 'length': 23, 'speed': 100, 'swing': '1b'}
+398,admin_lock_pick,Admin Lock Pick,2,{'thrust': '25p', 'length': 23, 'speed': 100, 'swing': '20b'}
+399,bucket,Bucket,2,{'thrust': '0c', 'length': 100, 'speed': 70, 'swing': '5b'}
+400,water_bucket,Water Bucket,2,{'thrust': '0c', 'length': 100, 'speed': 50, 'swing': '10b'}
+401,fishing_spear,Fishing Spear,4,{'thrust': '10p', 'length': 183, 'speed': 55, 'swing': '0c'}
+402,fishing_net,Fishing Net,2,{'thrust': '0c', 'length': 50, 'speed': 40, 'swing': '0c'}
+403,blunt_sickle,Blunt Sickle,2,{'thrust': '0c', 'length': 100, 'speed': 75, 'swing': '6c'}
+404,sickle,Sickle,2,{'thrust': '0c', 'length': 100, 'speed': 80, 'swing': '10c'}
+405,scythe,Scythe,4,{'thrust': '0c', 'length': 160, 'speed': 70, 'swing': '25c'}
+406,kitchen_knife,Kitchen Knife,2,{'thrust': '6p', 'length': 40, 'speed': 100, 'swing': '10c'}
+407,cleaver,Butchering Cleaver,2,{'thrust': '0p', 'length': 48, 'speed': 103, 'swing': '26c'}
+408,knife,Knife,2,{'thrust': '13p', 'length': 55, 'speed': 110, 'swing': '21c'}
+409,butchering_knife,Butchering Knife,2,{'thrust': '17p', 'length': 70, 'speed': 108, 'swing': '24c'}
+410,broom,Broom,4,{'thrust': '1b', 'length': 130, 'speed': 60, 'swing': '3b'}
+411,herding_crook,Herding Crook,3,{'thrust': '0c', 'length': 108, 'speed': 70, 'swing': '10b'}
+412,herding_crook_alt,Herding Crook,4,{'thrust': '9b', 'length': 108, 'speed': 60, 'swing': '10b'}
+413,fish,Fish,2,{'thrust': '0c', 'length': 45, 'speed': 72, 'swing': '2c'}
+414,cooked_fish,Cooked Fish,2,{'thrust': '0c', 'length': 45, 'speed': 70, 'swing': '1c'}
+415,salted_fish,Salted Fish,2,{'thrust': '0c', 'length': 45, 'speed': 70, 'swing': '1c'}
+416,wheat_sack,Wheat Sack,10,{'thrust': '0c', 'ammo': 10}
+417,wheat_sheaf,Wheat Sheaf,2,{'thrust': '0c', 'length': 45, 'speed': 60, 'swing': '7b'}
+418,flour_sack,Flour Sack,4,{'thrust': '0c', 'length': 100, 'speed': 0, 'swing': '0c'}
+419,bread,Bread,2,{'thrust': '0c', 'length': 20, 'speed': 65, 'swing': '1c'}
+420,beer_cask,Beer Cask,4,{'thrust': '0c', 'length': 100, 'speed': 20, 'swing': '0c'}
+421,beer_jug,Beer Jug,2,{'thrust': '0c', 'length': 40, 'speed': 70, 'swing': '4c'}
+422,grapes,Grapes,2,{'thrust': '0c', 'length': 25, 'speed': 90, 'swing': '0c'}
+423,must_barrel,Must Barrel,4,{'thrust': '0c', 'length': 100, 'speed': 20, 'swing': '0c'}
+424,wine_barrel,Wine Barrel,4,{'thrust': '0c', 'length': 100, 'speed': 20, 'swing': '0c'}
+425,wine_jar,Wine Jar,2,{'thrust': '0c', 'length': 50, 'speed': 65, 'swing': '4c'}
+426,raw_meat,Raw Meat,4,{'thrust': '0c', 'length': 53, 'speed': 65, 'swing': '10b'}
+427,cooked_meat,Cooked Meat,4,{'thrust': '0c', 'length': 53, 'speed': 60, 'swing': '8b'}
+428,salted_meat,Salted Meat,4,{'thrust': '0c', 'length': 53, 'speed': 60, 'swing': '8b'}
+429,meat_pie,Meat Pie,2,{'thrust': '0c', 'length': 20, 'speed': 65, 'swing': '1c'}
+430,red_apple,Red Apple,2,{'thrust': '0c', 'length': 25, 'speed': 90, 'swing': '0c'}
+431,apple_pie,Apple Pie,2,{'thrust': '0c', 'length': 20, 'speed': 65, 'swing': '1c'}
+432,carrot,Carrot,2,{'thrust': '0c', 'length': 25, 'speed': 90, 'swing': '0c'}
+433,salt_sack,Salt Sack,2,{'thrust': '5b', 'length': 20, 'speed': 60, 'swing': '5b'}
+434,salt,Salt,2,{'thrust': '5b', 'length': 20, 'speed': 70, 'swing': '5b'}
+435,surgeon_scalpel,Surgeon's Scalpel,2,{'thrust': '15p', 'length': 36, 'speed': 50, 'swing': '0c'}
+436,admin_scalpel,Admin Scalpel,2,{'thrust': '15p', 'length': 50, 'speed': 100, 'swing': '0c'}
+437,healing_herb,Herb,2,{'thrust': '1c', 'length': 40, 'speed': 50, 'swing': '0c'}
+438,poison_herb,Herb,2,{'thrust': '1c', 'length': 40, 'speed': 50, 'swing': '0c'}
+439,dagger,Dagger,2,{'thrust': '24p', 'length': 47, 'speed': 105, 'swing': '18c'}
+440,poisoned_dagger,Poisoned Dagger,2,{'thrust': '24p', 'length': 47, 'speed': 105, 'swing': '18c'}
+441,thin_lance,Thin Lance,4,{'thrust': '26p', 'length': 180, 'speed': 80, 'swing': '16b'}
+442,broken_lance,Broken Lance,4,{'thrust': '0b', 'length': 180, 'speed': 0, 'swing': '0b'}
+443,money_bag,Money Bag,2,{'thrust': '0c', 'length': 0, 'speed': 80, 'swing': '0c'}
+444,torch,Torch,2,{'thrust': '0p', 'length': 95, 'speed': 95, 'swing': '5b'}
+445,book_a,Book of Clothing,2,{'thrust': '0c', 'length': 50, 'speed': 80, 'swing': '0c'}
+446,book_b,Book of Weapons,2,{'thrust': '0c', 'length': 50, 'speed': 80, 'swing': '0c'}
+447,book_c,Book of Armor,2,{'thrust': '0c', 'length': 50, 'speed': 80, 'swing': '0c'}
+448,book_d,Book of Healing,2,{'thrust': '0c', 'length': 50, 'speed': 80, 'swing': '0c'}
+449,book_e,Book,2,{'thrust': '0c', 'length': 50, 'speed': 80, 'swing': '0c'}
+450,book_f,Sacred Book,2,{'thrust': '0c', 'length': 50, 'speed': 80, 'swing': '0c'}
+451,book_f_open,Sacred Book,3,{'thrust': '0c', 'length': 50, 'speed': 80, 'swing': '0c'}
+452,lyre,Lyre,2,{'thrust': '0c', 'length': 80, 'speed': 0, 'swing': '0c'}
+453,lute,Lute,2,{'thrust': '0c', 'length': 85, 'speed': 100, 'swing': '0c'}
+454,dart,Dart,10,{'thrust': '0b', 'ammo': 3}
+455,die,Die,2,{'thrust': '0c', 'length': 30, 'speed': 0, 'swing': '0c'}
+456,pw_banner_pole_a01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+457,pw_banner_pole_a02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+458,pw_banner_pole_a03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+459,pw_banner_pole_a04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+460,pw_banner_pole_a05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+461,pw_banner_pole_a06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+462,pw_banner_pole_a07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+463,pw_banner_pole_a08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+464,pw_banner_pole_a09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+465,pw_banner_pole_a10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+466,pw_banner_pole_a11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+467,pw_banner_pole_a12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+468,pw_banner_pole_a13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+469,pw_banner_pole_a14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+470,pw_banner_pole_a15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+471,pw_banner_pole_a16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+472,pw_banner_pole_a17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+473,pw_banner_pole_a18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+474,pw_banner_pole_a19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+475,pw_banner_pole_a20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+476,pw_banner_pole_a21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+477,pw_banner_pole_b01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+478,pw_banner_pole_b02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+479,pw_banner_pole_b03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+480,pw_banner_pole_b04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+481,pw_banner_pole_b05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+482,pw_banner_pole_b06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+483,pw_banner_pole_b07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+484,pw_banner_pole_b08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+485,pw_banner_pole_b09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+486,pw_banner_pole_b10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+487,pw_banner_pole_b11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+488,pw_banner_pole_b12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+489,pw_banner_pole_b13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+490,pw_banner_pole_b14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+491,pw_banner_pole_b15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+492,pw_banner_pole_b16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+493,pw_banner_pole_b17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+494,pw_banner_pole_b18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+495,pw_banner_pole_b19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+496,pw_banner_pole_b20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+497,pw_banner_pole_b21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+498,pw_banner_pole_c01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+499,pw_banner_pole_c02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+500,pw_banner_pole_c03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+501,pw_banner_pole_c04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+502,pw_banner_pole_c05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+503,pw_banner_pole_c06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+504,pw_banner_pole_c07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+505,pw_banner_pole_c08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+506,pw_banner_pole_c09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+507,pw_banner_pole_c10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+508,pw_banner_pole_c11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+509,pw_banner_pole_c12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+510,pw_banner_pole_c13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+511,pw_banner_pole_c14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+512,pw_banner_pole_c15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+513,pw_banner_pole_c16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+514,pw_banner_pole_c17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+515,pw_banner_pole_c18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+516,pw_banner_pole_c19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+517,pw_banner_pole_c20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+518,pw_banner_pole_c21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+519,pw_banner_pole_d01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+520,pw_banner_pole_d02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+521,pw_banner_pole_d03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+522,pw_banner_pole_d04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+523,pw_banner_pole_d05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+524,pw_banner_pole_d06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+525,pw_banner_pole_d07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+526,pw_banner_pole_d08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+527,pw_banner_pole_d09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+528,pw_banner_pole_d10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+529,pw_banner_pole_d11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+530,pw_banner_pole_d12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+531,pw_banner_pole_d13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+532,pw_banner_pole_d14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+533,pw_banner_pole_d15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+534,pw_banner_pole_d16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+535,pw_banner_pole_d17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+536,pw_banner_pole_d18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+537,pw_banner_pole_d19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+538,pw_banner_pole_d20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+539,pw_banner_pole_d21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+540,pw_banner_pole_e01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+541,pw_banner_pole_e02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+542,pw_banner_pole_e03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+543,pw_banner_pole_e04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+544,pw_banner_pole_e05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+545,pw_banner_pole_e06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+546,pw_banner_pole_e07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+547,pw_banner_pole_e08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+548,pw_banner_pole_e09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+549,pw_banner_pole_e10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+550,pw_banner_pole_e11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+551,pw_banner_pole_e12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+552,pw_banner_pole_e13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+553,pw_banner_pole_e14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+554,pw_banner_pole_e15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+555,pw_banner_pole_e16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+556,pw_banner_pole_e17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+557,pw_banner_pole_e18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+558,pw_banner_pole_e19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+559,pw_banner_pole_e20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+560,pw_banner_pole_e21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+561,pw_banner_pole_f01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+562,pw_banner_pole_f02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+563,pw_banner_pole_f03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+564,pw_banner_pole_f04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+565,pw_banner_pole_f05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+566,pw_banner_pole_f06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+567,pw_banner_pole_f07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+568,pw_banner_pole_f08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+569,pw_banner_pole_f09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+570,pw_banner_pole_f10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+571,pw_banner_pole_f11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+572,pw_banner_pole_f12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+573,pw_banner_pole_f13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+574,pw_banner_pole_f14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+575,pw_banner_pole_f15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+576,pw_banner_pole_f16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+577,pw_banner_pole_f17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+578,pw_banner_pole_f18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+579,pw_banner_pole_f19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+580,pw_banner_pole_f20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+581,pw_banner_pole_f21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+582,pw_banner_pole_g01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+583,pw_banner_pole_g02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+584,pw_banner_pole_g03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+585,pw_banner_pole_g04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+586,pw_banner_pole_g05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+587,pw_banner_pole_g06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+588,pw_banner_pole_g07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+589,pw_banner_pole_g08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+590,pw_banner_pole_g09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+591,pw_banner_pole_g10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+592,pw_banner_pole_g11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+593,pw_banner_pole_g12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+594,pw_banner_pole_g13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+595,pw_banner_pole_g14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+596,pw_banner_pole_g15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+597,pw_banner_pole_g16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+598,pw_banner_pole_g17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+599,pw_banner_pole_g18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+600,pw_banner_pole_g19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+601,pw_banner_pole_g20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+602,pw_banner_pole_g21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+603,pw_banner_pole_h01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+604,pw_banner_pole_h02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+605,pw_banner_pole_h03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+606,pw_banner_pole_h04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+607,pw_banner_pole_h05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+608,pw_banner_pole_h06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+609,pw_banner_pole_h07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+610,pw_banner_pole_h08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+611,pw_banner_pole_h09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+612,pw_banner_pole_h10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+613,pw_banner_pole_h11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+614,pw_banner_pole_h12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+615,pw_banner_pole_h13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+616,pw_banner_pole_h14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+617,pw_banner_pole_h15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+618,pw_banner_pole_h16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+619,pw_banner_pole_h17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+620,pw_banner_pole_h18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+621,pw_banner_pole_h19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+622,pw_banner_pole_h20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+623,pw_banner_pole_h21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+624,pw_banner_pole_i01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+625,pw_banner_pole_i02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+626,pw_banner_pole_i03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+627,pw_banner_pole_i04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+628,pw_banner_pole_i05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+629,pw_banner_pole_i06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+630,pw_banner_pole_i07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+631,pw_banner_pole_i08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+632,pw_banner_pole_i09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+633,pw_banner_pole_i10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+634,pw_banner_pole_i11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+635,pw_banner_pole_i12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+636,pw_banner_pole_i13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+637,pw_banner_pole_i14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+638,pw_banner_pole_i15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+639,pw_banner_pole_i16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+640,pw_banner_pole_i17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+641,pw_banner_pole_i18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+642,pw_banner_pole_i19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+643,pw_banner_pole_i20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+644,pw_banner_pole_i21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+645,pw_banner_pole_j01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+646,pw_banner_pole_j02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+647,pw_banner_pole_j03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+648,pw_banner_pole_j04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+649,pw_banner_pole_j05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+650,pw_banner_pole_j06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+651,pw_banner_pole_j07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+652,pw_banner_pole_j08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+653,pw_banner_pole_j09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+654,pw_banner_pole_j10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+655,pw_banner_pole_j11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+656,pw_banner_pole_j12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+657,pw_banner_pole_j13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+658,pw_banner_pole_j14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+659,pw_banner_pole_j15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+660,pw_banner_pole_j16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+661,pw_banner_pole_j17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+662,pw_banner_pole_j18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+663,pw_banner_pole_j19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+664,pw_banner_pole_j20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+665,pw_banner_pole_j21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+666,pw_banner_pole_k01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+667,pw_banner_pole_k02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+668,pw_banner_pole_k03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+669,pw_banner_pole_k04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+670,pw_banner_pole_k05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+671,pw_banner_pole_k06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+672,pw_banner_pole_k07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+673,pw_banner_pole_k08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+674,pw_banner_pole_k09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+675,pw_banner_pole_k10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+676,pw_banner_pole_k11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+677,pw_banner_pole_k12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+678,pw_banner_pole_k13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+679,pw_banner_pole_k14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+680,pw_banner_pole_k15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+681,pw_banner_pole_k16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+682,pw_banner_pole_k17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+683,pw_banner_pole_k18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+684,pw_banner_pole_k19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+685,pw_banner_pole_k20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+686,pw_banner_pole_k21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+687,pw_banner_pole_l01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+688,pw_banner_pole_l02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+689,pw_banner_pole_l03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+690,pw_banner_pole_l04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+691,pw_banner_pole_l05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+692,pw_banner_pole_l06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+693,pw_banner_pole_l07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+694,pw_banner_pole_l08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+695,pw_banner_pole_l09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+696,pw_banner_pole_l10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+697,pw_banner_pole_l11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+698,pw_banner_pole_l12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+699,pw_banner_pole_l13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+700,pw_banner_pole_l14,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+701,pw_banner_pole_l15,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+702,pw_banner_pole_l16,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+703,pw_banner_pole_l17,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+704,pw_banner_pole_l18,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+705,pw_banner_pole_l19,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+706,pw_banner_pole_l20,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+707,pw_banner_pole_l21,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+708,pw_banner_pole_m01,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+709,pw_banner_pole_m02,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+710,pw_banner_pole_m03,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+711,pw_banner_pole_m04,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+712,pw_banner_pole_m05,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+713,pw_banner_pole_m06,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+714,pw_banner_pole_m07,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+715,pw_banner_pole_m08,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+716,pw_banner_pole_m09,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+717,pw_banner_pole_m10,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+718,pw_banner_pole_m11,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+719,pw_banner_pole_m12,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+720,pw_banner_pole_m13,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+721,pw_banner_pole_kingdom_a,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+722,pw_banner_pole_kingdom_b,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+723,pw_banner_pole_kingdom_c,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+724,pw_banner_pole_kingdom_d,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+725,pw_banner_pole_kingdom_e,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+726,pw_banner_pole_kingdom_f,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+727,pw_banner_pole_kingdom_g,Banner,4,{'thrust': '5b', 'length': 250, 'speed': 70, 'swing': '10b'}
+728,pw_banner_castle_fac_1a,Castle Banner,0,{}
+729,pw_banner_castle_fac_2a,Castle Banner,0,{}
+730,pw_banner_castle_fac_3a,Castle Banner,0,{}
+731,pw_banner_castle_fac_4a,Castle Banner,0,{}
+732,pw_banner_castle_fac_5a,Castle Banner,0,{}
+733,pw_banner_castle_fac_6a,Castle Banner,0,{}
+734,pw_banner_castle_fac_7a,Castle Banner,0,{}
+735,pw_banner_castle_fac_8a,Castle Banner,0,{}
+736,pw_banner_castle_fac_1b,Castle Banner,0,{}
+737,pw_banner_castle_fac_2b,Castle Banner,0,{}
+738,pw_banner_castle_fac_3b,Castle Banner,0,{}
+739,pw_banner_castle_fac_4b,Castle Banner,0,{}
+740,pw_banner_castle_fac_5b,Castle Banner,0,{}
+741,pw_banner_castle_fac_6b,Castle Banner,0,{}
+742,pw_banner_castle_fac_7b,Castle Banner,0,{}
+743,pw_banner_castle_fac_8b,Castle Banner,0,{}
+744,pw_banner_wall_fac_1a,Wall Banner,0,{}
+745,pw_banner_wall_fac_2a,Wall Banner,0,{}
+746,pw_banner_wall_fac_3a,Wall Banner,0,{}
+747,pw_banner_wall_fac_4a,Wall Banner,0,{}
+748,pw_banner_wall_fac_5a,Wall Banner,0,{}
+749,pw_banner_wall_fac_6a,Wall Banner,0,{}
+750,pw_banner_wall_fac_7a,Wall Banner,0,{}
+751,pw_banner_wall_fac_8a,Wall Banner,0,{}
+752,pw_banner_wall_fac_1b,Wall Banner,0,{}
+753,pw_banner_wall_fac_2b,Wall Banner,0,{}
+754,pw_banner_wall_fac_3b,Wall Banner,0,{}
+755,pw_banner_wall_fac_4b,Wall Banner,0,{}
+756,pw_banner_wall_fac_5b,Wall Banner,0,{}
+757,pw_banner_wall_fac_6b,Wall Banner,0,{}
+758,pw_banner_wall_fac_7b,Wall Banner,0,{}
+759,pw_banner_wall_fac_8b,Wall Banner,0,{}
+760,admin_horse,Admin Horse,1,{'maneuver': 100, 'armor': 100, 'HP': 500, 'difficulty': 10, 'charge': 0, 'speed': 400}
+761,invisible_head,Invisible Head,12,{'head_armor': 80}
+762,invisible_body,Invisible Body,13,{'leg_armor': 30, 'body_armor': 80}
+763,invisible_foot,Invisible Foot,14,{'leg_armor': 65}
+764,invisible_hand,Invisible Hand,15,{'body_armor': 20}
+765,invisible_sword,Invisible Sword,3,{'thrust': '255p', 'length': 120, 'speed': 120, 'swing': '255c'}
+766,strange_armor,Strange Armor,13,{'leg_armor': 19, 'body_armor': 38}
+767,strange_boots,Strange Boots,14,{'leg_armor': 21}
+768,strange_helmet,Strange Helmet,12,{'head_armor': 44}
+769,strange_sword,Strange Sword,3,{'thrust': '18p', 'length': 95, 'speed': 108, 'swing': '32c'}
+770,strange_great_sword,Strange Great Sword,3,{'thrust': '0p', 'length': 125, 'speed': 92, 'swing': '38c'}
+771,strange_short_sword,Strange Short Sword,2,{'thrust': '19p', 'length': 65, 'speed': 108, 'swing': '25c'}
+772,wand_of_law,Wand Of Law,4,{'thrust': '0p', 'length': 125, 'speed': 150, 'swing': '0b'}
+773,king_crown,King Crown,12,{'head_armor': 80}
+774,cartridges,Cartridges,18,{'thrust': '1p', 'ammo': 50}
+775,flintlock_pistol,Flintlock Pistol,16,{}
+776,sipahi_helmet_a,Sipahi Helmet,12,{'head_armor': 20}
+777,byzantion_helmet_a,Byzantion Helmet,12,{'head_armor': 20}
+778,rus_helmet_a,Rus Helmet,12,{'head_armor': 20}
+779,shahi,Shahi,12,{'head_armor': 20}
+780,rabati,Rabati,12,{'head_armor': 20}
+781,aketon_a,Aketon A,13,{'leg_armor': 6, 'body_armor': 18}
+782,gold_tourney_armor,Gold Tourney Armor,13,{'leg_armor': 6, 'body_armor': 20}
+783,old_nomad_armor,Old Nomad Armor,13,{'leg_armor': 0, 'body_armor': 24}
+784,nomad_armor_b,Nomad Armor b,13,{'leg_armor': 0, 'body_armor': 24}
+785,tunic_fur,Tunic Fur,13,{'leg_armor': 10, 'body_armor': 24}
+786,lthr_armor_a,Lthr Armor A,13,{'leg_armor': 0, 'body_armor': 24}
+787,brigandine_a,Brigandine A,13,{'leg_armor': 6, 'body_armor': 43}
+788,haubergeon_a,Haubergeon A,13,{'leg_armor': 6, 'body_armor': 40}
+789,haubergeon_b,Haubergeon B,13,{'leg_armor': 0, 'body_armor': 40}
+790,std_lthr_coat,Std Lthr Coat,13,{'leg_armor': 8, 'body_armor': 26}
+791,p_lamellar_vest,Pink Lamellar Vest,13,{'leg_armor': 8, 'body_armor': 40}
+792,red_tourney_armor,Red Tourney Armor,13,{'leg_armor': 6, 'body_armor': 20}
+793,lamellar_cuirass,Lamellar Cuirass,13,{'leg_armor': 15, 'body_armor': 43}
+794,khergit_guard_armor,Khergit Guard Armor,13,{'leg_armor': 18, 'body_armor': 50}
+795,light_mail_and_plate,Light Mail and Plate,13,{'leg_armor': 12, 'body_armor': 32}
+796,mail_and_plate,Mail and Plate,13,{'leg_armor': 12, 'body_armor': 34}
+797,sword_of_war,Sword of War,3,{'thrust': '31p', 'length': 130, 'speed': 94, 'swing': '40c'}
+798,nomad_sabre,Nomad Sabre,2,{'thrust': '0p', 'length': 100, 'speed': 101, 'swing': '27c'}
+799,darts,Darts,10,{'thrust': '22p', 'ammo': 7}
+800,war_darts,War Darts,10,{'thrust': '25p', 'ammo': 7}
+801,javelin,Javelins,10,{'thrust': '34p', 'ammo': 5}
+802,javelin_melee,Javelin,4,{'thrust': '14p', 'length': 75, 'speed': 95, 'swing': '12c'}
+803,jarid,Jarids,10,{'thrust': '45p', 'ammo': 4}
+804,jarid_melee,Jarid,4,{'thrust': '20p', 'length': 65, 'speed': 93, 'swing': '16c'}
+805,stones,Stones,10,{'thrust': '11b', 'ammo': 18}
+806,throwing_knives,Throwing Knives,10,{'thrust': '19c', 'ammo': 14}
+807,throwing_daggers,Throwing Daggers,10,{'thrust': '25c', 'ammo': 13}
+808,light_throwing_axes,Light Throwing Axes,10,{'thrust': '35c', 'ammo': 4}
+809,light_throwing_axes_melee,Light Throwing Axe,2,{'thrust': '0c', 'length': 53, 'speed': 99, 'swing': '26c'}
+810,heavy_throwing_axes,Heavy Throwing Axes,10,{'thrust': '44c', 'ammo': 4}
+811,heavy_throwing_axes_melee,Heavy Throwing Axe,2,{'thrust': '0c', 'length': 53, 'speed': 97, 'swing': '32c'}
+812,maul,Maul,3,{'thrust': '0p', 'length': 79, 'speed': 83, 'swing': '36b'}
+813,sledgehammer,Sledgehammer,3,{'thrust': '0p', 'length': 82, 'speed': 81, 'swing': '39b'}
+814,warhammer,Great Hammer,3,{'thrust': '0p', 'length': 75, 'speed': 79, 'swing': '45b'}
+815,polehammer,Polehammer,4,{'thrust': '35b', 'length': 126, 'speed': 50, 'swing': '50b'}
+816,mace_pear,Mace Pear,2,{'thrust': '0p', 'length': 70, 'speed': 84, 'swing': '24b'}
+817,old_winged_mace,Old Winged Mace,2,{'thrust': '0p', 'length': 70, 'speed': 85, 'swing': '22b'}
+818,mace_morningstar,Mace Morningstar,2,{'thrust': '0p', 'length': 70, 'speed': 78, 'swing': '28b'}
+819,mace_small_d,Mace Small D,3,{'thrust': '0p', 'length': 85, 'speed': 95, 'swing': '25p'}
+820,flanged_mace,Flanged Mace,2,{'thrust': '0p', 'length': 70, 'speed': 103, 'swing': '21b'}
+821,battle_pike,Pike,4,{'thrust': '23p', 'length': 167, 'speed': 77, 'swing': '0b'}
+822,double_sided_lance,Double Sided Lance,4,{'thrust': '27p', 'length': 128, 'speed': 95, 'swing': '25c'}
+823,pitch_fork,Pitch Fork,4,{'thrust': '22p', 'length': 154, 'speed': 87, 'swing': '16b'}
+824,battle_fork,Battle Fork,4,{'thrust': '35p', 'length': 144, 'speed': 90, 'swing': '15b'}
+825,military_fork,Military Fork,4,{'thrust': '30p', 'length': 135, 'speed': 95, 'swing': '15b'}
+826,battle_scythe,Battle Scythe,4,{'thrust': '14p', 'length': 182, 'speed': 97, 'swing': '30c'}
+827,iron_bardiche,Iron bardiche,4,{'thrust': '21p', 'length': 155, 'speed': 90, 'swing': '42c'}
+828,hafted_blade_b,Hafted Blade b,4,{'thrust': '20p', 'length': 135, 'speed': 95, 'swing': '37c'}
+829,hafted_blade_a,Hafted Blade a,4,{'thrust': '19p', 'length': 153, 'speed': 93, 'swing': '39c'}
+830,war_axe,War Axe,3,{'thrust': '0p', 'length': 110, 'speed': 86, 'swing': '43c'}
+831,great_axe,Great Axe,3,{'thrust': '0p', 'length': 120, 'speed': 82, 'swing': '45c'}
+832,battle_axe,Battle Axe,3,{'thrust': '0p', 'length': 108, 'speed': 88, 'swing': '41c'}
+833,poleaxe,Poleaxe,4,{'thrust': '15b', 'length': 180, 'speed': 77, 'swing': '50c'}
+834,double_axe,Double Axe,3,{'thrust': '0p', 'length': 95, 'speed': 85, 'swing': '43c'}
+835,axe,Axe,3,{'thrust': '0p', 'length': 108, 'speed': 91, 'swing': '32c'}
+836,voulge,Voulge,3,{'thrust': '0p', 'length': 119, 'speed': 87, 'swing': '35c'}
+837,leather_covered_round_shield,Leather Covered Round Shield,7,{'armor': 8, 'HP': 310, 'weight': 2.5}
+838,shield_kite_i,Kite Shield i,7,{'armor': 1, 'HP': 480, 'weight': 2.5}
+839,lordly_bishop_armor,Lordly Bishop's Armor,13,{'leg_armor': 19, 'body_armor': 47}
+840,reinforced_bishop_armor,Reinforced Bishop's Armor,13,{'leg_armor': 17, 'body_armor': 45}
+841,hardened_bishop_armor,Hardened Bishop's Armor,13,{'leg_armor': 16, 'body_armor': 44}
+842,heavy_bishop_armor,Heavy Bishop's Armor,13,{'leg_armor': 16, 'body_armor': 44}
+843,thick_bishop_armor,Thick Bishop's Armor,13,{'leg_armor': 15, 'body_armor': 43}
+844,sturdy_bishop_armor,Sturdy Bishop's Armor,13,{'leg_armor': 14, 'body_armor': 42}
+845,battered_bishop_armor,Battered Bishop's Armor,13,{'leg_armor': 8, 'body_armor': 36}
+846,lordly_khergit_guard_armor,Lordly Khergit Guard Armor,13,{'leg_armor': 24, 'body_armor': 56}
+847,reinforced_khergit_guard_armor,Reinforced Khergit Guard Armor,13,{'leg_armor': 22, 'body_armor': 54}
+848,hardened_khergit_guard_armor,Hardened Khergit Guard Armor,13,{'leg_armor': 21, 'body_armor': 53}
+849,heavy_khergit_guard_armor,Heavy Khergit Guard Armor,13,{'leg_armor': 21, 'body_armor': 53}
+850,thick_khergit_guard_armor,Thick Khergit Guard Armor,13,{'leg_armor': 20, 'body_armor': 52}
+851,sturdy_khergit_guard_armor,Sturdy Khergit Guard Armor,13,{'leg_armor': 19, 'body_armor': 51}
+852,battered_khergit_guard_armor,Battered Khergit Guard Armor,13,{'leg_armor': 13, 'body_armor': 45}
+853,lordly_strange_armor,Lordly Strange Armor,13,{'leg_armor': 25, 'body_armor': 44}
+854,reinforced_strange_armor,Reinforced Strange Armor,13,{'leg_armor': 23, 'body_armor': 42}
+855,hardened_strange_armor,Hardened Strange Armor,13,{'leg_armor': 22, 'body_armor': 41}
+856,heavy_strange_armor,Heavy Strange Armor,13,{'leg_armor': 22, 'body_armor': 41}
+857,thick_strange_armor,Thick Strange Armor,13,{'leg_armor': 21, 'body_armor': 40}
+858,sturdy_strange_armor,Sturdy Strange Armor,13,{'leg_armor': 20, 'body_armor': 39}
+859,battered_strange_armor,Battered Strange Armor,13,{'leg_armor': 14, 'body_armor': 35}
+860,lordly_mamluke_mail,Lordly Mail Robe,13,{'leg_armor': 22, 'body_armor': 52}
+861,reinforced_mamluke_mail,Reinforced Mail Robe,13,{'leg_armor': 20, 'body_armor': 50}
+862,hardened_mamluke_mail,Hardened Mail Robe,13,{'leg_armor': 19, 'body_armor': 49}
+863,heavy_mamluke_mail,Heavy Mail Robe,13,{'leg_armor': 19, 'body_armor': 49}
+864,thick_mamluke_mail,Thick Mail Robe,13,{'leg_armor': 18, 'body_armor': 48}
+865,sturdy_mamluke_mail,Sturdy Mail Robe,13,{'leg_armor': 17, 'body_armor': 47}
+866,battered_mamluke_mail,Battered Mail Robe,13,{'leg_armor': 11, 'body_armor': 41}
+867,lordly_brigandine_red,Lordly Brigandine,13,{'leg_armor': 18, 'body_armor': 51}
+868,reinforced_brigandine_red,Reinforced Brigandine,13,{'leg_armor': 16, 'body_armor': 49}
+869,hardened_brigandine_red,Hardened Brigandine,13,{'leg_armor': 15, 'body_armor': 48}
+870,heavy_brigandine_red,Heavy Brigandine,13,{'leg_armor': 15, 'body_armor': 48}
+871,thick_brigandine_red,Thick Brigandine,13,{'leg_armor': 14, 'body_armor': 47}
+872,sturdy_brigandine_red,Sturdy Brigandine,13,{'leg_armor': 13, 'body_armor': 46}
+873,battered_brigandine_red,Battered Brigandine,13,{'leg_armor': 7, 'body_armor': 40}
+874,lordly_lamellar_armor,Lordly Lamellar Armor,13,{'leg_armor': 19, 'body_armor': 52}
+875,reinforced_lamellar_armor,Reinforced Lamellar Armor,13,{'leg_armor': 17, 'body_armor': 50}
+876,hardened_lamellar_armor,Hardened Lamellar Armor,13,{'leg_armor': 16, 'body_armor': 49}
+877,heavy_lamellar_armor,Heavy Lamellar Armor,13,{'leg_armor': 16, 'body_armor': 49}
+878,thick_lamellar_armor,Thick Lamellar Armor,13,{'leg_armor': 15, 'body_armor': 48}
+879,sturdy_lamellar_armor,Sturdy Lamellar Armor,13,{'leg_armor': 14, 'body_armor': 47}
+880,battered_lamellar_armor,Battered Lamellar Armor,13,{'leg_armor': 8, 'body_armor': 41}
+881,lordly_scale_armor,Lordly Scale Armor,13,{'leg_armor': 19, 'body_armor': 53}
+882,reinforced_scale_armor,Reinforced Scale Armor,13,{'leg_armor': 17, 'body_armor': 51}
+883,hardened_scale_armor,Hardened Scale Armor,13,{'leg_armor': 16, 'body_armor': 50}
+884,heavy_scale_armor,Heavy Scale Armor,13,{'leg_armor': 16, 'body_armor': 50}
+885,thick_scale_armor,Thick Scale Armor,13,{'leg_armor': 15, 'body_armor': 49}
+886,sturdy_scale_armor,Sturdy Scale Armor,13,{'leg_armor': 14, 'body_armor': 48}
+887,battered_scale_armor,Battered Scale Armor,13,{'leg_armor': 8, 'body_armor': 42}
+888,lordly_banded_armor,Lordly Banded Armor,13,{'leg_armor': 20, 'body_armor': 52}
+889,reinforced_banded_armor,Reinforced Banded Armor,13,{'leg_armor': 18, 'body_armor': 50}
+890,hardened_banded_armor,Hardened Banded Armor,13,{'leg_armor': 17, 'body_armor': 49}
+891,heavy_banded_armor,Heavy Banded Armor,13,{'leg_armor': 17, 'body_armor': 49}
+892,thick_banded_armor,Thick Banded Armor,13,{'leg_armor': 16, 'body_armor': 48}
+893,sturdy_banded_armor,Sturdy Banded Armor,13,{'leg_armor': 15, 'body_armor': 47}
+894,battered_banded_armor,Battered Banded Armor,13,{'leg_armor': 9, 'body_armor': 41}
+895,lordly_cuir_bouilli,Lordly Cuir Bouilli,13,{'leg_armor': 21, 'body_armor': 51}
+896,reinforced_cuir_bouilli,Reinforced Cuir Bouilli,13,{'leg_armor': 19, 'body_armor': 49}
+897,hardened_cuir_bouilli,Hardened Cuir Bouilli,13,{'leg_armor': 18, 'body_armor': 48}
+898,heavy_cuir_bouilli,Heavy Cuir Bouilli,13,{'leg_armor': 18, 'body_armor': 48}
+899,thick_cuir_bouilli,Thick Cuir Bouilli,13,{'leg_armor': 17, 'body_armor': 47}
+900,sturdy_cuir_bouilli,Sturdy Cuir Bouilli,13,{'leg_armor': 16, 'body_armor': 46}
+901,battered_cuir_bouilli,Battered Cuir Bouilli,13,{'leg_armor': 10, 'body_armor': 40}
+902,lordly_coat_of_plates,Lordly Coat of Plates,13,{'leg_armor': 22, 'body_armor': 53}
+903,reinforced_coat_of_plates,Reinforced Coat of Plates,13,{'leg_armor': 20, 'body_armor': 51}
+904,hardened_coat_of_plates,Hardened Coat of Plates,13,{'leg_armor': 19, 'body_armor': 50}
+905,heavy_coat_of_plates,Heavy Coat of Plates,13,{'leg_armor': 19, 'body_armor': 50}
+906,thick_coat_of_plates,Thick Coat of Plates,13,{'leg_armor': 18, 'body_armor': 49}
+907,sturdy_coat_of_plates,Sturdy Coat of Plates,13,{'leg_armor': 17, 'body_armor': 48}
+908,battered_coat_of_plates,Battered Coat of Plates,13,{'leg_armor': 11, 'body_armor': 42}
+909,lordly_coat_of_plates_red,Lordly Heraldic Coat of Plates,13,{'leg_armor': 22, 'body_armor': 53}
+910,reinforced_coat_of_plates_red,Reinforced Heraldic Coat of Plates,13,{'leg_armor': 20, 'body_armor': 51}
+911,hardened_coat_of_plates_red,Hardened Heraldic Coat of Plates,13,{'leg_armor': 19, 'body_armor': 50}
+912,heavy_coat_of_plates_red,Heavy Heraldic Coat of Plates,13,{'leg_armor': 19, 'body_armor': 50}
+913,thick_coat_of_plates_red,Thick Heraldic Coat of Plates,13,{'leg_armor': 18, 'body_armor': 49}
+914,sturdy_coat_of_plates_red,Sturdy Heraldic Coat of Plates,13,{'leg_armor': 17, 'body_armor': 48}
+915,battered_coat_of_plates_red,Battered Heraldic Coat of Plates,13,{'leg_armor': 11, 'body_armor': 42}
+916,lordly_khergit_elite_armor,Lordly Heraldic Elite Armor,13,{'leg_armor': 22, 'body_armor': 54}
+917,reinforced_khergit_elite_armor,Reinforced Heraldic Elite Armor,13,{'leg_armor': 20, 'body_armor': 52}
+918,hardened_khergit_elite_armor,Hardened Heraldic Elite Armor,13,{'leg_armor': 19, 'body_armor': 51}
+919,heavy_khergit_elite_armor,Heavy Heraldic Elite Armor,13,{'leg_armor': 19, 'body_armor': 51}
+920,thick_khergit_elite_armor,Thick Heraldic Elite Armor,13,{'leg_armor': 18, 'body_armor': 50}
+921,sturdy_khergit_elite_armor,Sturdy Heraldic Elite Armor,13,{'leg_armor': 17, 'body_armor': 49}
+922,battered_khergit_elite_armor,Battered Heraldic Elite Armor,13,{'leg_armor': 13, 'body_armor': 43}
+923,lordly_vaegir_elite_armor,Lordly Elite Armor,13,{'leg_armor': 22, 'body_armor': 54}
+924,reinforced_vaegir_elite_armor,Reinforced Elite Armor,13,{'leg_armor': 20, 'body_armor': 52}
+925,hardened_vaegir_elite_armor,Hardened Elite Armor,13,{'leg_armor': 19, 'body_armor': 51}
+926,heavy_vaegir_elite_armor,Heavy Elite Armor,13,{'leg_armor': 19, 'body_armor': 51}
+927,thick_vaegir_elite_armor,Thick Elite Armor,13,{'leg_armor': 18, 'body_armor': 50}
+928,sturdy_vaegir_elite_armor,Sturdy Elite Armor,13,{'leg_armor': 17, 'body_armor': 49}
+929,battered_vaegir_elite_armor,Battered Elite Armor,13,{'leg_armor': 13, 'body_armor': 43}
+930,lordly_sarranid_elite_armor,Lordly Elite Armor,13,{'leg_armor': 22, 'body_armor': 54}
+931,reinforced_sarranid_elite_armor,Elite Armor,13,{'leg_armor': 20, 'body_armor': 52}
+932,hardened_sarranid_elite_armor,Elite Armor,13,{'leg_armor': 19, 'body_armor': 51}
+933,heavy_sarranid_elite_armor,Elite Armor,13,{'leg_armor': 19, 'body_armor': 51}
+934,thick_sarranid_elite_armor,Elite Armor,13,{'leg_armor': 18, 'body_armor': 50}
+935,sturdy_sarranid_elite_armor,Elite Armor,13,{'leg_armor': 17, 'body_armor': 49}
+936,battered_sarranid_elite_armor,Elite Armor,13,{'leg_armor': 13, 'body_armor': 43}
+937,lordly_plate_armor,Lordly Plate Armor,13,{'leg_armor': 23, 'body_armor': 61}
+938,reinforced_plate_armor,Reinforced Plate Armor,13,{'leg_armor': 21, 'body_armor': 59}
+939,hardened_plate_armor,Hardened Plate Armor,13,{'leg_armor': 20, 'body_armor': 58}
+940,heavy_plate_armor,Heavy Plate Armor,13,{'leg_armor': 20, 'body_armor': 58}
+941,thick_plate_armor,Thick Plate Armor,13,{'leg_armor': 19, 'body_armor': 57}
+942,sturdy_plate_armor,Sturdy Plate Armor,13,{'leg_armor': 18, 'body_armor': 56}
+943,battered_plate_armor,Battered Plate Armor,13,{'leg_armor': 12, 'body_armor': 50}
+944,lordly_plate_boots,Lordly Plate Boots,14,{'leg_armor': 40}
+945,reinforced_plate_boots,Reinforced Plate Boots,14,{'leg_armor': 38}
+946,hardened_plate_boots,Hardened Plate Boots,14,{'leg_armor': 37}
+947,heavy_plate_boots,Heavy Plate Boots,14,{'leg_armor': 37}
+948,thick_plate_boots,Thick Plate Boots,14,{'leg_armor': 36}
+949,sturdy_plate_boots,Sturdy Plate Boots,14,{'leg_armor': 35}
+950,battered_plate_boots,Battered Plate Boots,14,{'leg_armor': 31}
+951,lordly_iron_greaves,Lordly Iron Greaves,14,{'leg_armor': 39}
+952,reinforced_iron_greaves,Reinforced Iron Greaves,14,{'leg_armor': 37}
+953,hardened_iron_greaves,Hardened Iron Greaves,14,{'leg_armor': 36}
+954,heavy_iron_greaves,Heavy Iron Greaves,14,{'leg_armor': 36}
+955,thick_iron_greaves,Thick Iron Greaves,14,{'leg_armor': 35}
+956,sturdy_iron_greaves,Sturdy Iron Greaves,14,{'leg_armor': 34}
+957,battered_iron_greaves,Battered Iron Greaves,14,{'leg_armor': 30}
+958,lordly_bishop_chausses,Lordly Bishop's Chausses,14,{'leg_armor': 28}
+959,reinforced_bishop_chausses,Reinforced Bishop's Chausses,14,{'leg_armor': 26}
+960,hardened_bishop_chausses,Hardened Bishop's Chausses,14,{'leg_armor': 25}
+961,heavy_bishop_chausses,Heavy Bishop's Chausses,14,{'leg_armor': 25}
+962,thick_bishop_chausses,Thick Bishop's Chausses,14,{'leg_armor': 24}
+963,sturdy_bishop_chausses,Sturdy Bishop's Chausses,14,{'leg_armor': 23}
+964,battered_bishop_chausses,Battered Bishop's Chausses,14,{'leg_armor': 19}
+965,lordly_strange_boots,Lordly Strange Boots,14,{'leg_armor': 27}
+966,reinforced_strange_boots,Reinforced Strange Boots,14,{'leg_armor': 25}
+967,hardened_strange_boots,Hardened Strange Boots,14,{'leg_armor': 24}
+968,heavy_strange_boots,Heavy Strange Boots,14,{'leg_armor': 24}
+969,thick_strange_boots,Thick Strange Boots,14,{'leg_armor': 23}
+970,sturdy_strange_boots,Sturdy Strange Boots,14,{'leg_armor': 22}
+971,battered_strange_boots,Battered Strange Boots,14,{'leg_armor': 18}
+972,lordly_lamellar_gauntlets,Lordly Lamellar Gauntlets,15,{'body_armor': 11}
+973,reinforced_lamellar_gauntlets,Reinforced Lamellar Gauntlets,15,{'body_armor': 9}
+974,hardened_lamellar_gauntlets,Hardened Lamellar Gauntlets,15,{'body_armor': 8}
+975,heavy_lamellar_gauntlets,Heavy Lamellar Gauntlets,15,{'body_armor': 8}
+976,thick_lamellar_gauntlets,Thick Lamellar Gauntlets,15,{'body_armor': 7}
+977,sturdy_lamellar_gauntlets,Sturdy Lamellar Gauntlets,15,{'body_armor': 6}
+978,battered_lamellar_gauntlets,Battered Lamellar Gauntlets,15,{'body_armor': 3}
+979,lordly_scale_gauntlets,Lordly Scale Gauntlets,15,{'body_armor': 12}
+980,reinforced_scale_gauntlets,Reinforced Scale Gauntlets,15,{'body_armor': 10}
+981,hardened_scale_gauntlets,Hardened Scale Gauntlets,15,{'body_armor': 9}
+982,heavy_scale_gauntlets,Heavy Scale Gauntlets,15,{'body_armor': 9}
+983,thick_scale_gauntlets,Thick Scale Gauntlets,15,{'body_armor': 8}
+984,sturdy_scale_gauntlets,Sturdy Scale Gauntlets,15,{'body_armor': 7}
+985,battered_scale_gauntlets,Battered Scale Gauntlets,15,{'body_armor': 4}
+986,lordly_gauntlets,Lordly Gauntlets,15,{'body_armor': 13}
+987,reinforced_gauntlets,Reinforced Gauntlets,15,{'body_armor': 11}
+988,hardened_gauntlets,Hardened Gauntlets,15,{'body_armor': 10}
+989,heavy_gauntlets,Heavy Gauntlets,15,{'body_armor': 10}
+990,thick_gauntlets,Thick Gauntlets,15,{'body_armor': 9}
+991,sturdy_gauntlets,Sturdy Gauntlets,15,{'body_armor': 8}
+992,battered_gauntlets,Battered Gauntlets,15,{'body_armor': 5}
+993,lordly_strange_helmet,Lordly Strange Helmet,12,{'head_armor': 50}
+994,reinforced_strange_helmet,Reinforced Strange Helmet,12,{'head_armor': 48}
+995,hardened_strange_helmet,Hardened Strange Helmet,12,{'head_armor': 47}
+996,heavy_strange_helmet,Heavy Strange Helmet,12,{'head_armor': 47}
+997,thick_strange_helmet,Thick Strange Helmet,12,{'head_armor': 46}
+998,sturdy_strange_helmet,Sturdy Strange Helmet,12,{'head_armor': 45}
+999,battered_strange_helmet,Battered Strange Helmet,12,{'head_armor': 39}
+1000,lordly_bishop_helm,Lordly Bishop's Helm,12,{'head_armor': 55}
+1001,reinforced_bishop_helm,Reinforced Bishop's Helm,12,{'head_armor': 53}
+1002,hardened_bishop_helm,Hardened Bishop's Helm,12,{'head_armor': 52}
+1003,heavy_bishop_helm,Heavy Bishop's Helm,12,{'head_armor': 52}
+1004,thick_bishop_helm,Thick Bishop's Helm,12,{'head_armor': 51}
+1005,sturdy_bishop_helm,Sturdy Bishop's Helm,12,{'head_armor': 50}
+1006,battered_bishop_helm,Battered Bishop's Helm,12,{'head_armor': 44}
+1007,lordly_full_helm,Lordly Full Helm,12,{'head_armor': 57}
+1008,reinforced_full_helm,Reinforced Full Helm,12,{'head_armor': 55}
+1009,hardened_full_helm,Hardened Full Helm,12,{'head_armor': 54}
+1010,heavy_full_helm,Heavy Full Helm,12,{'head_armor': 54}
+1011,thick_full_helm,Thick Full Helm,12,{'head_armor': 53}
+1012,sturdy_full_helm,Sturdy Full Helm,12,{'head_armor': 52}
+1013,battered_full_helm,Battered Full Helm,12,{'head_armor': 46}
+1014,lordly_vaegir_mask,Lordly War Mask,12,{'head_armor': 56}
+1015,reinforced_vaegir_mask,Reinforced War Mask,12,{'head_armor': 54}
+1016,hardened_vaegir_mask,Hardened War Mask,12,{'head_armor': 53}
+1017,heavy_vaegir_mask,Heavy War Mask,12,{'head_armor': 53}
+1018,thick_vaegir_mask,Thick War Mask,12,{'head_armor': 52}
+1019,sturdy_vaegir_mask,Sturdy War Mask,12,{'head_armor': 51}
+1020,battered_vaegir_mask,Battered War Mask,12,{'head_armor': 45}
+1021,lordly_vaegir_mask_b,Lordly War Mask,12,{'head_armor': 58}
+1022,reinforced_vaegir_mask_b,Reinforced War Mask,12,{'head_armor': 56}
+1023,hardened_vaegir_mask_b,Hardened War Mask,12,{'head_armor': 55}
+1024,heavy_vaegir_mask_b,Heavy War Mask,12,{'head_armor': 55}
+1025,thick_vaegir_mask_b,Thick War Mask,12,{'head_armor': 54}
+1026,sturdy_vaegir_mask_b,Sturdy War Mask,12,{'head_armor': 53}
+1027,battered_vaegir_mask_b,Battered War Mask,12,{'head_armor': 47}
+1028,lordly_great_helmet,Lordly Great Helmet,12,{'head_armor': 59}
+1029,reinforced_great_helmet,Reinforced Great Helmet,12,{'head_armor': 57}
+1030,hardened_great_helmet,Hardened Great Helmet,12,{'head_armor': 56}
+1031,heavy_great_helmet,Heavy Great Helmet,12,{'head_armor': 56}
+1032,thick_great_helmet,Thick Great Helmet,12,{'head_armor': 55}
+1033,sturdy_great_helmet,Sturdy Great Helmet,12,{'head_armor': 54}
+1034,battered_great_helmet,Battered Great Helmet,12,{'head_armor': 48}
+1035,lordly_winged_great_helmet,Lordly Winged Great Helmet,12,{'head_armor': 61}
+1036,reinforced_winged_great_helmet,Reinforced Winged Great Helmet,12,{'head_armor': 59}
+1037,hardened_winged_great_helmet,Hardened Winged Great Helmet,12,{'head_armor': 58}
+1038,heavy_winged_great_helmet,Heavy Winged Great Helmet,12,{'head_armor': 58}
+1039,thick_winged_great_helmet,Thick Winged Great Helmet,12,{'head_armor': 57}
+1040,sturdy_winged_great_helmet,Sturdy Winged Great Helmet,12,{'head_armor': 56}
+1041,battered_winged_great_helmet,Battered Winged Great Helmet,12,{'head_armor': 50}
+1042,gold_charger,Gold Charger,1,{'maneuver': 45, 'armor': 55, 'HP': 200, 'difficulty': 0, 'charge': 25, 'speed': 55}
+1043,gold_gauntlets,Gold Gauntlets,15,{'body_armor': 10}
+1044,gold_plate_armor,Gold Plate Armor,13,{'leg_armor': 17, 'body_armor': 60}
+1045,gold_plate_boots,Gold Plate Boots,14,{'leg_armor': 50}
+1046,king_great_helmet,King Great Helmet,12,{'head_armor': 55}
+1047,great_helmet_king,Great Helmet King,12,{'head_armor': 60}
+1048,great_king_helmet,Great King Helmet,12,{'head_armor': 70}
+1049,voulge_duplicate,Voulge,4,{'thrust': '18p', 'length': 175, 'speed': 88, 'swing': '40c'}
+1050,long_bardiche,Long Bardiche,4,{'thrust': '17p', 'length': 140, 'speed': 89, 'swing': '48c'}
+1051,great_long_bardiche,Great Long Bardiche,4,{'thrust': '17p', 'length': 155, 'speed': 88, 'swing': '50c'}
+1052,great_bardiche,Great Bardiche,3,{'thrust': '0p', 'length': 116, 'speed': 89, 'swing': '50c'}
+1053,nordic_sword,Nordic Sword,2,{'thrust': '19p', 'length': 98, 'speed': 99, 'swing': '27c'}
+1054,sword,Sword,2,{'thrust': '23p', 'length': 102, 'speed': 100, 'swing': '26c'}
+1055,sword_viking_3_small,Nordic Short War Sword,2,{'thrust': '21p', 'length': 86, 'speed': 103, 'swing': '29c'}
+1056,sword_viking_2,Nordic Sword,2,{'thrust': '21p', 'length': 95, 'speed': 99, 'swing': '29c'}
+1057,sword_viking_c_long,sword_viking_c_long,2,{'thrust': '19p', 'length': 105, 'speed': 95, 'swing': '27c'}
+1058,sword_medieval_a_long,Sword,2,{'thrust': '22p', 'length': 105, 'speed': 97, 'swing': '25c'}
+1059,sword_medieval_b,Sword,2,{'thrust': '23p', 'length': 95, 'speed': 99, 'swing': '28c'}
+1060,sword_medieval_c_small,Short Arming Sword,2,{'thrust': '24p', 'length': 86, 'speed': 103, 'swing': '26c'}
+1061,sword_medieval_d,sword_medieval_d,2,{'thrust': '21p', 'length': 95, 'speed': 99, 'swing': '24c'}
+1062,sword_medieval_e,sword_medieval_e,2,{'thrust': '21p', 'length': 95, 'speed': 99, 'swing': '24c'}
+1063,military_scythe,Military Scythe,4,{'thrust': '25p', 'length': 155, 'speed': 90, 'swing': '36c'}
+1064,spear_e_3_25m,Spear 3-25m,4,{'thrust': '23p', 'length': 225, 'speed': 81, 'swing': '19b'}
+1065,one_handed_war_axe_a,One Handed Axe,2,{'thrust': '0p', 'length': 71, 'speed': 98, 'swing': '32c'}
+1066,mace_1,Spiked Club,2,{'thrust': '0p', 'length': 70, 'speed': 99, 'swing': '19p'}
+1067,mace_3,Spiked Mace,2,{'thrust': '0p', 'length': 70, 'speed': 98, 'swing': '23b'}
+1068,long_hafted_knobbed_mace,Long Hafted Knobbed Mace,4,{'thrust': '23b', 'length': 133, 'speed': 95, 'swing': '26b'}
+1069,sarranid_two_handed_mace_1,Iron Mace,3,{'thrust': '22b', 'length': 95, 'speed': 90, 'swing': '35b'}
+1070,long_axe,Long Axe,4,{'thrust': '19b', 'length': 120, 'speed': 93, 'swing': '46c'}
+1071,long_axe_alt,Long Axe,3,{'thrust': '0p', 'length': 120, 'speed': 88, 'swing': '46c'}
+1072,long_axe_b,Long War Axe,4,{'thrust': '18b', 'length': 125, 'speed': 92, 'swing': '50c'}
+1073,long_axe_b_alt,Long War Axe,3,{'thrust': '0p', 'length': 125, 'speed': 87, 'swing': '50c'}
+1074,sword_khergit_1,Nomad Sabre,2,{'thrust': '0c', 'length': 97, 'speed': 100, 'swing': '29c'}
+1075,sword_khergit_3,Sabre,2,{'thrust': '0c', 'length': 98, 'speed': 99, 'swing': '31c'}
+1076,khergit_sword_two_handed_b,Two Handed Sabre,3,{'thrust': '0p', 'length': 120, 'speed': 96, 'swing': '44c'}
+1077,imperial_war_bow,Imperial Bow,8,{'thrust': '25p', 'length': 0, 'speed': 85, 'shoot_speed': 59, 'ammo': 0}
+1078,noldor_bow,Noldor Bow,8,{'thrust': '23p', 'length': 0, 'speed': 88, 'shoot_speed': 58, 'ammo': 0}
+1079,imperial_long_bow,Long Bow,8,{'thrust': '22p', 'length': 0, 'speed': 86, 'shoot_speed': 56, 'ammo': 0}
+1080,imperial_nomad_bow,Nomad Bow,8,{'thrust': '20p', 'length': 0, 'speed': 94, 'shoot_speed': 56, 'ammo': 0}
+1081,imperial_short_bow,Short Imperial Bow,8,{'thrust': '18p', 'length': 0, 'speed': 97, 'shoot_speed': 55, 'ammo': 0}
+1082,two_repeating_crossbow,Two Repeating Crossbow,9,{'thrust': '63p', 'length': 0, 'speed': 37, 'shoot_speed': 68, 'ammo': 2}
+1083,automatic_crossbow,Automatic Crossbow,9,{'thrust': '58p', 'length': 0, 'speed': 52, 'shoot_speed': 70, 'ammo': 1}
+1084,voulge_duplicate_skin,Voulge1,4,{'thrust': '18p', 'length': 175, 'speed': 88, 'swing': '40c'}
+1085,long_bardiche_skin,Long Bardiche1,4,{'thrust': '17p', 'length': 140, 'speed': 89, 'swing': '48c'}
+1086,great_long_bardiche_skin,Great Long Bardiche1,4,{'thrust': '17p', 'length': 155, 'speed': 88, 'swing': '50c'}
+1087,shortened_military_scythe_skin,Shortened Military Scythe1,3,{'thrust': '0p', 'length': 114, 'speed': 90, 'swing': '38c'}
+1088,great_bardiche_skin,Great Bardiche1,3,{'thrust': '0p', 'length': 116, 'speed': 89, 'swing': '50c'}
+1089,two_handed_axe_skin,Two Handed Axe1,3,{'thrust': '0p', 'length': 89, 'speed': 96, 'swing': '38c'}
+1090,two_handed_battle_axe_skin,Two Handed War Axe1,3,{'thrust': '0p', 'length': 90, 'speed': 96, 'swing': '44c'}
+1091,shortened_voulge_skin,Shortened Voulge1,3,{'thrust': '0p', 'length': 99, 'speed': 92, 'swing': '45c'}
+1092,bardiche_skin,Bardiche1,3,{'thrust': '0p', 'length': 101, 'speed': 91, 'swing': '47c'}
+1093,throwing_axes_skin,Throwing Axes1,10,{'thrust': '39c', 'ammo': 4}
+1094,throwing_axes_melee_skin,Throwing Axe1,2,{'thrust': '0c', 'length': 53, 'speed': 98, 'swing': '29c'}
+1095,heavy_throwing_axes_skin,Heavy Throwing Axes1,10,{'thrust': '44c', 'ammo': 4}
+1096,heavy_throwing_axes_melee_skin,Heavy Throwing Axe1,2,{'thrust': '0c', 'length': 53, 'speed': 97, 'swing': '32c'}
+1097,sword_viking_a_long_skin,Nordic Long Sword1,2,{'thrust': '19p', 'length': 101, 'speed': 97, 'swing': '29c'}
+1098,sword_viking_a_long_skin1,Nordic Long Sword2,2,{'thrust': '19p', 'length': 101, 'speed': 97, 'swing': '29c'}
+1099,sword_viking_3_small_skin,Nordic Short War Sword1,2,{'thrust': '21p', 'length': 86, 'speed': 103, 'swing': '29c'}
+1100,sword_medieval_c_small_skin,Short Arming Sword1,2,{'thrust': '24p', 'length': 86, 'speed': 103, 'swing': '26c'}
+1101,sword_viking_2_skin,Nordic Sword1,2,{'thrust': '21p', 'length': 95, 'speed': 99, 'swing': '29c'}
+1102,sword_viking_2_skin1,Nordic Sword2,2,{'thrust': '21p', 'length': 95, 'speed': 99, 'swing': '29c'}
+1103,nordic_sword_skin,Nordic Sword1,2,{'thrust': '19p', 'length': 98, 'speed': 99, 'swing': '27c'}
+1104,sword_skin,Sword1,2,{'thrust': '23p', 'length': 102, 'speed': 100, 'swing': '26c'}
+1105,arabian_sword_d_skin,Arabian Guard Sword1,2,{'thrust': '20p', 'length': 100, 'speed': 98, 'swing': '30c'}
+1106,curved_sword_skin,Curved Sword1,2,{'thrust': '14p', 'length': 99, 'speed': 98, 'swing': '25c'}
+1107,sword_viking_b_small_skin,Nordic Short Sword1,2,{'thrust': '22p', 'length': 82, 'speed': 102, 'swing': '27c'}
+1108,sword_viking_c_skin,Nordic Sword1,2,{'thrust': '20p', 'length': 95, 'speed': 99, 'swing': '28c'}
+1109,sword_viking_c_long_skin,sword_viking_c_long1,2,{'thrust': '19p', 'length': 105, 'speed': 95, 'swing': '27c'}
+1110,sword_two_handed_b_skin,Two Handed Sword1,3,{'thrust': '28p', 'length': 109, 'speed': 97, 'swing': '40c'}
+1111,sword_two_handed_a_skin,Great Sword1,3,{'thrust': '29p', 'length': 119, 'speed': 96, 'swing': '42c'}
+1112,sword_two_handed_a_skin1,Great Sword1,3,{'thrust': '29p', 'length': 119, 'speed': 96, 'swing': '42c'}
+1113,sword_medieval_a_skin,Sword1,2,{'thrust': '22p', 'length': 95, 'speed': 99, 'swing': '27c'}
+1114,sword_medieval_a_long_skin,Sword1,2,{'thrust': '22p', 'length': 105, 'speed': 97, 'swing': '25c'}
+1115,sword_medieval_b_skin,Sword1,2,{'thrust': '23p', 'length': 95, 'speed': 99, 'swing': '28c'}
+1116,sword_medieval_b_skin1,Sword2,2,{'thrust': '23p', 'length': 95, 'speed': 99, 'swing': '28c'}
+1117,sword_medieval_b_small_skin,Short Sword1,2,{'thrust': '24p', 'length': 82, 'speed': 103, 'swing': '26c'}
+1118,sword_medieval_d_skin,sword_medieval_d1,2,{'thrust': '21p', 'length': 95, 'speed': 99, 'swing': '24c'}
+1119,sword_medieval_d_long_skin,Knightly Sword1,2,{'thrust': '25p', 'length': 102, 'speed': 97, 'swing': '33c'}
+1120,sword_medieval_e_skin,sword_medieval_e1,2,{'thrust': '21p', 'length': 95, 'speed': 99, 'swing': '24c'}
+1121,sword_medieval_e_skin1,sword_medieval_e2,2,{'thrust': '21p', 'length': 95, 'speed': 99, 'swing': '24c'}
+1122,pike_skin,Pike1,4,{'thrust': '26p', 'length': 245, 'speed': 81, 'swing': '16b'}
+1123,military_scythe_skin,Military Scythe1,4,{'thrust': '25p', 'length': 155, 'speed': 90, 'swing': '36c'}
+1124,lance_skin,Lance1,4,{'thrust': '26p', 'length': 180, 'speed': 80, 'swing': '16b'}
+1125,spear_e_3_25m_skin,Spear_3-25m1,4,{'thrust': '23p', 'length': 225, 'speed': 81, 'swing': '19b'}
+1126,heavy_lance_skin,Heavy Lance1,4,{'thrust': '26p', 'length': 190, 'speed': 75, 'swing': '16b'}
+1127,war_spear_skin,War Spear1,4,{'thrust': '27p', 'length': 150, 'speed': 95, 'swing': '20b'}
+1128,scimitar_skin,Scimitar1,2,{'thrust': '0p', 'length': 97, 'speed': 101, 'swing': '30c'}
+1129,scimitar_b_skin,Elite Scimitar1,2,{'thrust': '0p', 'length': 100, 'speed': 100, 'swing': '32c'}
+1130,arabian_sword_a_skin,Arabian Sword1,2,{'thrust': '19p', 'length': 100, 'speed': 99, 'swing': '26c'}
+1131,arrows_skin,Arrows1,5,{'thrust': '1p', 'ammo': 30}
+1132,arrows_skin1,Arrows2,5,{'thrust': '1p', 'ammo': 30}
+1133,barbed_arrows_skin,Barbed Arrows1,5,{'thrust': '2p', 'ammo': 30}
+1134,barbed_arrows_skin1,Barbed Arrows2,5,{'thrust': '2p', 'ammo': 30}
+1135,khergit_arrows_skin,Broadhead Arrows1,5,{'thrust': '3p', 'ammo': 30}
+1136,bodkin_arrows_skin,Bodkin Arrows1,5,{'thrust': '3p', 'ammo': 30}
+1137,bodkin_arrows_skin1,Bodkin Arrows2,5,{'thrust': '3p', 'ammo': 30}
+1138,bodkin_arrows_skin2,Bodkin Arrows3,5,{'thrust': '3p', 'ammo': 30}
+1139,bodkin_arrows_skin3,Bodkin Arrows4,5,{'thrust': '3p', 'ammo': 30}
+1140,bodkin_arrows_skin4,Bodkin Arrows5,5,{'thrust': '3p', 'ammo': 30}
+1141,bodkin_arrows_skin5,Bodkin Arrows6,5,{'thrust': '3p', 'ammo': 30}
+1142,bodkin_arrows_skin6,Bodkin Arrows7,5,{'thrust': '3p', 'ammo': 30}
+1143,one_handed_battle_axe_a_skin,One Handed Axe1,2,{'thrust': '0p', 'length': 73, 'speed': 95, 'swing': '29c'}
+1144,one_handed_war_axe_a_skin,One Handed Axe1,2,{'thrust': '0p', 'length': 71, 'speed': 98, 'swing': '32c'}
+1145,two_handed_cleaver_skin,War Cleaver1,3,{'thrust': '0c', 'length': 120, 'speed': 93, 'swing': '45c'}
+1146,military_cleaver_b_skin,Soldier's Cleaver1,2,{'thrust': '0p', 'length': 91, 'speed': 95, 'swing': '31c'}
+1147,military_cleaver_c_skin,Military Cleaver1,2,{'thrust': '0p', 'length': 91, 'speed': 95, 'swing': '35c'}
+1148,military_hammer_skin,Military Hammer1,2,{'thrust': '0p', 'length': 70, 'speed': 95, 'swing': '31b'}
+1149,military_sickle_skin,Military Sickle1,2,{'thrust': '0p', 'length': 75, 'speed': 98, 'swing': '27p'}
+1150,mace_2_skin,Knobbed Mace1,2,{'thrust': '0p', 'length': 70, 'speed': 98, 'swing': '21b'}
+1151,mace_3_skin,Spiked Mace1,2,{'thrust': '0p', 'length': 70, 'speed': 98, 'swing': '23b'}
+1152,mace_4_skin,Winged Mace1,2,{'thrust': '0p', 'length': 70, 'speed': 98, 'swing': '24b'}
+1153,long_hafted_knobbed_mace_skin,Long Hafted Knobbed Mace1,4,{'thrust': '23b', 'length': 133, 'speed': 95, 'swing': '26b'}
+1154,long_hafted_spiked_mace_skin,Long Hafted Spiked Mace1,4,{'thrust': '26b', 'length': 138, 'speed': 94, 'swing': '28b'}
+1155,sarranid_two_handed_mace_1_skin,Iron Mace1,3,{'thrust': '22b', 'length': 95, 'speed': 90, 'swing': '35b'}
+1156,mace_small_d_skin,Mace Small D1,3,{'thrust': '0p', 'length': 85, 'speed': 95, 'swing': '25p'}
+1157,warhammer_skin,Great Hammer1,3,{'thrust': '0p', 'length': 75, 'speed': 79, 'swing': '45b'}
+1158,long_axe_skin,Long Axe1,4,{'thrust': '19b', 'length': 120, 'speed': 93, 'swing': '46c'}
+1159,long_axe_alt_skin,Long Axe1,3,{'thrust': '0p', 'length': 120, 'speed': 88, 'swing': '46c'}
+1160,long_axe_b_skin,Long War Axe1,4,{'thrust': '18b', 'length': 125, 'speed': 92, 'swing': '50c'}
+1161,long_axe_b_alt_skin,Long War Axe1,3,{'thrust': '0p', 'length': 125, 'speed': 87, 'swing': '50c'}
+1162,hafted_blade_a_skin,Hafted Blade a1,4,{'thrust': '19p', 'length': 153, 'speed': 93, 'swing': '39c'}
+1163,hafted_blade_b_skin,Hafted Blade b1,4,{'thrust': '20p', 'length': 135, 'speed': 95, 'swing': '37c'}
+1164,glaive_skin,Glaive1,4,{'thrust': '21p', 'length': 157, 'speed': 90, 'swing': '39c'}
+1165,sword_khergit_1_skin,Nomad Sabre1,2,{'thrust': '0c', 'length': 97, 'speed': 100, 'swing': '29c'}
+1166,sword_khergit_1_skin1,Nomad Sabre2,2,{'thrust': '0c', 'length': 97, 'speed': 100, 'swing': '29c'}
+1167,khergit_sword_c_skin,Sabre1,2,{'thrust': '0c', 'length': 88, 'speed': 101, 'swing': '31c'}
+1168,sword_khergit_3_skin,Sabre1,2,{'thrust': '0c', 'length': 98, 'speed': 99, 'swing': '31c'}
+1169,sword_khergit_3_skin1,Sabre2,2,{'thrust': '0c', 'length': 98, 'speed': 99, 'swing': '31c'}
+1170,khergit_sword_d_skin,Heavy Sabre1,2,{'thrust': '0c', 'length': 88, 'speed': 98, 'swing': '34c'}
+1171,khergit_sword_d_skin1,Heavy Sabre2,2,{'thrust': '0c', 'length': 88, 'speed': 98, 'swing': '34c'}
+1172,khergit_sword_two_handed_a_skin,Two Handed Sabre1,3,{'thrust': '0p', 'length': 113, 'speed': 96, 'swing': '40c'}
+1173,khergit_sword_two_handed_b_skin,Two Handed Sabre1,3,{'thrust': '0p', 'length': 120, 'speed': 96, 'swing': '44c'}
+1174,jarid_skin,Jarids1,10,{'thrust': '45p', 'ammo': 4}
+1175,jarid_melee_skin,Jarid1,4,{'thrust': '20p', 'length': 65, 'speed': 93, 'swing': '16c'}
+1176,jarid_skin1,Jarids2,10,{'thrust': '45p', 'ammo': 4}
+1177,jarid_melee_skin1,Jarid2,4,{'thrust': '20p', 'length': 65, 'speed': 93, 'swing': '16c'}
+1178,throwing_spears_skin,Throwing Spears1,10,{'thrust': '44p', 'ammo': 4}
+1179,throwing_spear_melee_skin,Throwing Spear1,4,{'thrust': '23p', 'length': 75, 'speed': 91, 'swing': '18c'}
+1180,javelin_skin,Javelins1,10,{'thrust': '34p', 'ammo': 5}
+1181,javelin_melee_skin,Javelin1,4,{'thrust': '14p', 'length': 75, 'speed': 95, 'swing': '12c'}
+1182,war_darts_skin,War Darts1,10,{'thrust': '25p', 'ammo': 7}
+1183,darts_skin,Darts1,10,{'thrust': '22p', 'ammo': 7}
+1184,crossbow_skin,Crossbow1,9,{'thrust': '49p', 'length': 0, 'speed': 42, 'shoot_speed': 66, 'ammo': 1}
+1185,crossbow_skin1,Crossbow2,9,{'thrust': '49p', 'length': 0, 'speed': 42, 'shoot_speed': 66, 'ammo': 1}
+1186,light_crossbow_skin,Light Crossbow1,9,{'thrust': '44p', 'length': 0, 'speed': 45, 'shoot_speed': 59, 'ammo': 1}
+1187,heavy_crossbow_skin,Heavy Crossbow1,9,{'thrust': '56p', 'length': 0, 'speed': 37, 'shoot_speed': 68, 'ammo': 1}
+1188,bolts_skin,Bolts1,6,{'thrust': '1p', 'ammo': 29}
+1189,bolts_skin1,Bolts2,6,{'thrust': '1p', 'ammo': 29}
+1190,bolts_skin2,Bolts3,6,{'thrust': '1p', 'ammo': 29}
+1191,bolts_skin3,Bolts4,6,{'thrust': '1p', 'ammo': 29}
+1192,steel_bolts_skin,Steel Bolts1,6,{'thrust': '2p', 'ammo': 29}
+1193,bec_de_corbin_a_skin,War Hammer1,4,{'thrust': '30p', 'length': 120, 'speed': 87, 'swing': '28b'}
+1194,bastard_sword_a_skin,Bastard Sword1,3,{'thrust': '26p', 'length': 98, 'speed': 98, 'swing': '35c'}
+1195,bastard_sword_a_skin1,Bastard Sword2,3,{'thrust': '26p', 'length': 98, 'speed': 98, 'swing': '35c'}
+1196,bastard_sword_a_skin2,Bastard Sword3,3,{'thrust': '26p', 'length': 98, 'speed': 98, 'swing': '35c'}
+1197,bastard_sword_b_skin,Heavy Bastard Sword1,3,{'thrust': '27p', 'length': 105, 'speed': 97, 'swing': '37c'}
+1198,bastard_sword_b_skin1,Heavy Bastard Sword2,3,{'thrust': '27p', 'length': 105, 'speed': 97, 'swing': '37c'}
+1199,bastard_sword_b_skin2,Heavy Bastard Sword3,3,{'thrust': '27p', 'length': 105, 'speed': 97, 'swing': '37c'}
+1200,bastard_sword_b_skin3,Heavy Bastard Sword4,3,{'thrust': '27p', 'length': 105, 'speed': 97, 'swing': '37c'}
+1201,sword_of_war_skin,Sword of War1,3,{'thrust': '31p', 'length': 130, 'speed': 94, 'swing': '40c'}
+1202,sword_of_war_skin1,Sword of War2,3,{'thrust': '31p', 'length': 130, 'speed': 94, 'swing': '40c'}
+1203,awlpike_long_skin,Long Awlpike1,4,{'thrust': '32p', 'length': 185, 'speed': 89, 'swing': '20b'}
+1204,bamboo_spear_skin,Bamboo Spear1,4,{'thrust': '20p', 'length': 200, 'speed': 88, 'swing': '15b'}
+1205,double_axe_skin,Double Axe1,3,{'thrust': '0p', 'length': 95, 'speed': 85, 'swing': '43c'}
+1206,steel_shield_skin,Steel Shield1,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1207,steel_shield_skin1,Steel Shield2,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1208,steel_shield_skin2,Steel Shield3,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1209,steel_shield_skin3,Steel Shield4,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1210,steel_shield_skin4,Steel Shield5,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1211,steel_shield_skin5,Steel Shield6,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1212,steel_shield_skin6,Steel Shield7,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1213,steel_shield_skin7,Steel Shield8,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1214,steel_shield_skin8,Steel Shield9,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1215,steel_shield_skin9,Steel Shield10,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1216,steel_shield_skin10,Steel Shield11,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1217,steel_shield_skin11,Steel Shield12,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1218,steel_shield_skin13,Steel Shield14,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1219,steel_shield_skin14,Steel Shield15,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1220,steel_shield_skin16,Steel Shield17,7,{'armor': 17, 'HP': 700, 'weight': 4.0}
+1221,short_bow_skin,Short Bow1,8,{'thrust': '18p', 'length': 0, 'speed': 97, 'shoot_speed': 55, 'ammo': 0}
+1222,hunting_bow_skin,Hunting Bow1,8,{'thrust': '15p', 'length': 0, 'speed': 100, 'shoot_speed': 52, 'ammo': 0}
+1223,war_bow_skin,War Bow1,8,{'thrust': '25p', 'length': 0, 'speed': 85, 'shoot_speed': 59, 'ammo': 0}
+1224,long_bow_skin,Long Bow1,8,{'thrust': '22p', 'length': 0, 'speed': 86, 'shoot_speed': 56, 'ammo': 0}
+1225,strong_bow_skin,Strong Bow1,8,{'thrust': '23p', 'length': 0, 'speed': 88, 'shoot_speed': 58, 'ammo': 0}
+1226,strong_bow_skin1,Strong Bow2,8,{'thrust': '23p', 'length': 0, 'speed': 88, 'shoot_speed': 58, 'ammo': 0}
+1227,nomad_bow_skin,Nomad Bow1,8,{'thrust': '20p', 'length': 0, 'speed': 94, 'shoot_speed': 56, 'ammo': 0}
+1228,nomad_bow_skin1,Nomad Bow2,8,{'thrust': '20p', 'length': 0, 'speed': 94, 'shoot_speed': 56, 'ammo': 0}
+1229,khergit_bow_skin,Khergit Bow1,8,{'thrust': '21p', 'length': 0, 'speed': 90, 'shoot_speed': 57, 'ammo': 0}
+1230,khergit_bow_skin1,Khergit Bow2,8,{'thrust': '21p', 'length': 0, 'speed': 90, 'shoot_speed': 57, 'ammo': 0}
+1231,mail_plate_armor,Mail Plate Armor,13,{'leg_armor': 17, 'body_armor': 51}
+1232,2_plate_armor,Shoulder Plate Armor,13,{'leg_armor': 17, 'body_armor': 57}
+1233,khergit_guard_boots,Khergit Guard Boots,14,{'leg_armor': 20}
+1234,khergit_guard_helmet,Khergit Guard Helmet,12,{'head_armor': 40}
+1235,khergit_cavalry_helmet,Khergit Cavalry Helmet,12,{'head_armor': 36}
+1236,brigandine_red_mail,Brigandine,13,{'leg_armor': 15, 'body_armor': 48}
+1237,lordly_mail_plate_armor,Lordly Mail Plate Armor,13,{'leg_armor': 23, 'body_armor': 57}
+1238,reinforced_mail_plate_armor,Reinforced Mail Plate Armor,13,{'leg_armor': 21, 'body_armor': 55}
+1239,hardened_mail_plate_armor,Hardened Mail Plate Armor,13,{'leg_armor': 20, 'body_armor': 54}
+1240,heavy_mail_plate_armor,Heavy Mail Plate Armor,13,{'leg_armor': 20, 'body_armor': 54}
+1241,thick_mail_plate_armor,Thick Mail Plate Armor,13,{'leg_armor': 19, 'body_armor': 53}
+1242,sturdy_mail_plate_armor,Sturdy Mail Plate Armor,13,{'leg_armor': 18, 'body_armor': 52}
+1243,battered_mail_plate_armor,Battered Mail Plate Armor,13,{'leg_armor': 12, 'body_armor': 46}
+1244,lordly_2_plate_armor,Lordly Shoulder Plate Armor,13,{'leg_armor': 23, 'body_armor': 63}
+1245,reinforced_2_plate_armor,Reinforced Shoulder Plate Armor,13,{'leg_armor': 21, 'body_armor': 61}
+1246,hardened_2_plate_armor,Hardened Shoulder Plate Armor,13,{'leg_armor': 20, 'body_armor': 60}
+1247,heavy_2_plate_armor,Heavy Shoulder Plate Armor,13,{'leg_armor': 20, 'body_armor': 60}
+1248,thick_2_plate_armor,Thick Shoulder Plate Armor,13,{'leg_armor': 19, 'body_armor': 59}
+1249,sturdy_2_plate_armor,Sturdy Shoulder Plate Armor,13,{'leg_armor': 18, 'body_armor': 58}
+1250,battered_2_plate_armor,Battered Shoulder Plate Armor,13,{'leg_armor': 12, 'body_armor': 52}
+1251,lordly_brigandine_red_mail,Lordly Shoulder Plate Armor,13,{'leg_armor': 21, 'body_armor': 54}
+1252,reinforced_brigandine_red_mail,Reinforced Shoulder Plate Armor,13,{'leg_armor': 19, 'body_armor': 52}
+1253,hardened_brigandine_red_mail,Hardened Shoulder Plate Armor,13,{'leg_armor': 18, 'body_armor': 51}
+1254,heavy_brigandine_red_mail,Heavy Shoulder Plate Armor,13,{'leg_armor': 18, 'body_armor': 51}
+1255,thick_brigandine_red_mail,Thick Shoulder Plate Armor,13,{'leg_armor': 17, 'body_armor': 50}
+1256,sturdy_brigandine_red_mail,Sturdy Shoulder Plate Armor,13,{'leg_armor': 16, 'body_armor': 49}
+1257,battered_brigandine_red_mail,Battered Shoulder Plate Armor,13,{'leg_armor': 10, 'body_armor': 43}
+1258,lordly_khergit_guard_boots,Lordly Khergit Guard Boots,14,{'leg_armor': 26}
+1259,reinforced_khergit_guard_boots,Reinforced Khergit Guard Boots,14,{'leg_armor': 24}
+1260,hardened_khergit_guard_boots,Hardened Khergit Guard Boots,14,{'leg_armor': 23}
+1261,heavy_khergit_guard_boots,Heavy Khergit Guard Boots,14,{'leg_armor': 22}
+1262,thick_khergit_guard_boots,Thick Khergit Guard Boots,14,{'leg_armor': 22}
+1263,sturdy_khergit_guard_boots,Sturdy Khergit Guard Boots,14,{'leg_armor': 21}
+1264,battered_khergit_guard_boots,Battered Khergit Guard Boots,14,{'leg_armor': 17}
+1265,lordly_khergit_guard_helmet,Lordly Khergit Guard Helmet,12,{'head_armor': 46}
+1266,reinforced_khergit_guard_helmet,Reinforced Khergit Guard Helmet,12,{'head_armor': 44}
+1267,hardened_khergit_guard_helmet,Hardened Khergit Guard Helmet,12,{'head_armor': 43}
+1268,heavy_khergit_guard_helmet,Heavy Khergit Guard Helmet,12,{'head_armor': 42}
+1269,thick_khergit_guard_helmet,Thick Khergit Guard Helmet,12,{'head_armor': 42}
+1270,sturdy_khergit_guard_helmet,Sturdy Khergit Guard Helmet,12,{'head_armor': 41}
+1271,battered_khergit_guard_helmet,Battered Khergit Guard Helmet,12,{'head_armor': 37}
+1272,lordly_khergit_cavalry_helmet,Lordly Khergit Cavalry Helmet,12,{'head_armor': 42}
+1273,reinforced_khergit_cavalry_helmet,Reinforced Khergit Cavalry Helmet,12,{'head_armor': 40}
+1274,hardened_khergit_cavalry_helmet,Hardened Khergit Cavalry Helmet,12,{'head_armor': 39}
+1275,heavy_khergit_cavalry_helmet,Heavy Khergit Cavalry Helmet,12,{'head_armor': 39}
+1276,thick_khergit_cavalry_helmet,Thick Khergit Cavalry Helmet,12,{'head_armor': 38}
+1277,sturdy_khergit_cavalry_helmet,Sturdy Khergit Cavalry Helmet,12,{'head_armor': 37}
+1278,battered_khergit_cavalry_helmet,Battered Khergit Cavalry Helmet,12,{'head_armor': 33}
+1279,banded_armor_skin,Banded Armor1,13,{'leg_armor': 14, 'body_armor': 46}
+1280,haubergeon_a_skin,Haubergeon A1,13,{'leg_armor': 6, 'body_armor': 40}
+1281,cuir_bouilli_skin,Cuir Bouilli1,13,{'leg_armor': 15, 'body_armor': 45}
+1282,surcoat_over_mail_skin,Surcoat over Mail1,13,{'leg_armor': 14, 'body_armor': 43}
+1283,surcoat_over_mail_skin1,Surcoat over Mail2,13,{'leg_armor': 14, 'body_armor': 43}
+1284,surcoat_over_mail_skin2,Surcoat over Mail3,13,{'leg_armor': 14, 'body_armor': 43}
+1285,surcoat_over_mail_skin3,Surcoat over Mail4,13,{'leg_armor': 14, 'body_armor': 43}
+1286,surcoat_over_mail_skin4,Surcoat over Mail5,13,{'leg_armor': 14, 'body_armor': 43}
+1287,surcoat_over_mail_skin5,Surcoat over Mail6,13,{'leg_armor': 14, 'body_armor': 43}
+1288,surcoat_over_mail_skin6,Surcoat over Mail7,13,{'leg_armor': 14, 'body_armor': 43}
+1289,surcoat_over_mail_skin7,Surcoat over Mail8,13,{'leg_armor': 14, 'body_armor': 43}
+1290,surcoat_over_mail_skin8,Surcoat over Mail9,13,{'leg_armor': 14, 'body_armor': 43}
+1291,surcoat_over_mail_skin9,Surcoat over Mail10,13,{'leg_armor': 14, 'body_armor': 43}
+1292,surcoat_over_mail_skin10,Surcoat over Mail11,13,{'leg_armor': 14, 'body_armor': 43}
+1293,surcoat_over_mail_skin11,Surcoat over Mail12,13,{'leg_armor': 14, 'body_armor': 43}
+1294,surcoat_over_mail_skin12,Surcoat over Mail13,13,{'leg_armor': 14, 'body_armor': 43}
+1295,surcoat_over_mail_skin13,Surcoat over Mail14,13,{'leg_armor': 14, 'body_armor': 43}
+1296,surcoat_over_mail_skin14,Surcoat over Mail15,13,{'leg_armor': 14, 'body_armor': 43}
+1297,surcoat_over_mail_skin15,Surcoat over Mail16,13,{'leg_armor': 14, 'body_armor': 43}
+1298,surcoat_over_mail_skin16,Surcoat over Mail17,13,{'leg_armor': 14, 'body_armor': 43}
+1299,surcoat_over_mail_skin17,Surcoat over Mail18,13,{'leg_armor': 14, 'body_armor': 43}
+1300,plate_armor_skin,Plate Armor1,13,{'leg_armor': 17, 'body_armor': 55}
+1301,plate_armor_skin1,Plate Armor2,13,{'leg_armor': 17, 'body_armor': 55}
+1302,plate_armor_skin2,Plate Armor3,13,{'leg_armor': 17, 'body_armor': 55}
+1303,plate_armor_skin3,Plate Armor4,13,{'leg_armor': 17, 'body_armor': 55}
+1304,plate_armor_skin4,Plate Armor5,13,{'leg_armor': 17, 'body_armor': 55}
+1305,plate_armor_skin5,Plate Armor6,13,{'leg_armor': 17, 'body_armor': 55}
+1306,brigandine_red_skin1,Brigandine2,13,{'leg_armor': 12, 'body_armor': 45}
+1307,brigandine_red_skin2,Brigandine3,13,{'leg_armor': 12, 'body_armor': 45}
+1308,brigandine_red_skin3,Brigandine4,13,{'leg_armor': 12, 'body_armor': 45}
+1309,brigandine_red_skin4,Brigandine5,13,{'leg_armor': 12, 'body_armor': 45}
+1310,brigandine_red_skin5,Brigandine6,13,{'leg_armor': 12, 'body_armor': 45}
+1311,brigandine_red_skin6,Brigandine7,13,{'leg_armor': 12, 'body_armor': 45}
+1312,brigandine_red_skin7,Brigandine8,13,{'leg_armor': 12, 'body_armor': 45}
+1313,brigandine_red_skin8,Brigandine9,13,{'leg_armor': 12, 'body_armor': 45}
+1314,brigandine_red_skin9,Brigandine10,13,{'leg_armor': 12, 'body_armor': 45}
+1315,brigandine_red_skin10,Brigandine11,13,{'leg_armor': 12, 'body_armor': 45}
+1316,brigandine_red_skin11,Brigandine12,13,{'leg_armor': 12, 'body_armor': 45}
+1317,brigandine_red_skin12,Brigandine13,13,{'leg_armor': 12, 'body_armor': 45}
+1318,brigandine_red_skin13,Brigandine14,13,{'leg_armor': 12, 'body_armor': 45}
+1319,brigandine_red_skin15,Brigandine16,13,{'leg_armor': 12, 'body_armor': 45}
+1320,brigandine_red_skin16,Brigandine17,13,{'leg_armor': 12, 'body_armor': 45}
+1321,scale_armor_skin,Scale Armor1,13,{'leg_armor': 13, 'body_armor': 47}
+1322,mail_shirt_skin,Mail Shirt1,13,{'leg_armor': 12, 'body_armor': 39}
+1323,mail_shirt_skin1,Mail Shirt2,13,{'leg_armor': 12, 'body_armor': 39}
+1324,plate_boots_skin,Plate Boots1,14,{'leg_armor': 34}
+1325,plate_boots_skin1,Plate Boots2,14,{'leg_armor': 34}
+1326,mail_chausses_skin,Mail Chausses1,14,{'leg_armor': 24}
+1327,gauntlets_skin,Gauntlets1,15,{'body_armor': 7}
+1328,flat_topped_helmet_skin,Flat Topped Helmet1,12,{'head_armor': 33}
+1329,flat_topped_helmet_skin1,Flat Topped Helmet2,12,{'head_armor': 33}
+1330,kettle_hat_skin,Kettle Hat1,12,{'head_armor': 35}
+1331,kettle_hat_skin1,Kettle Hat2,12,{'head_armor': 35}
+1332,kettle_hat_skin2,Kettle Hat3,12,{'head_armor': 35}
+1333,kettle_hat_skin3,Kettle Hat4,12,{'head_armor': 35}
+1334,kettle_hat_skin4,Kettle Hat5,12,{'head_armor': 35}
+1335,kettle_hat_skin5,Kettle Hat6,12,{'head_armor': 35}
+1336,winged_great_helmet_skin,Winged Great Helmet1,12,{'head_armor': 55}
+1337,winged_great_helmet_skin1,Winged Great Helmet2,12,{'head_armor': 55}
+1338,winged_great_helmet_skin2,Winged Great Helmet3,12,{'head_armor': 55}
+1339,winged_great_helmet_skin3,Winged Great Helmet4,12,{'head_armor': 55}
+1340,winged_great_helmet_skin4,Winged Great Helmet5,12,{'head_armor': 55}
+1341,winged_great_helmet_skin5,Winged Great Helmet6,12,{'head_armor': 55}
+1342,winged_great_helmet_skin6,Winged Great Helmet7,12,{'head_armor': 55}
+1343,winged_great_helmet_skin7,Winged Great Helmet8,12,{'head_armor': 55}
+1344,winged_great_helmet_skin8,Winged Great Helmet9,12,{'head_armor': 55}
+1345,winged_great_helmet_skin10,Winged Great Helmet11,12,{'head_armor': 55}
+1346,winged_great_helmet_skin11,Winged Great Helmet12,12,{'head_armor': 55}
+1347,winged_great_helmet_skin12,Winged Great Helmet13,12,{'head_armor': 55}
+1348,winged_great_helmet_skin13,Winged Great Helmet14,12,{'head_armor': 55}
+1349,winged_great_helmet_skin14,Winged Great Helmet15,12,{'head_armor': 55}
+1350,guard_helmet_skin,Guard Helmet1,12,{'head_armor': 47}
+1351,guard_helmet_skin1,Guard Helmet2,12,{'head_armor': 47}
+1352,guard_helmet_skin2,Guard Helmet3,12,{'head_armor': 47}
+1353,guard_helmet_skin3,Guard Helmet4,12,{'head_armor': 47}
+1354,bascinet_skin,Bascinet1,12,{'head_armor': 42}
+1355,bascinet_2_skin,Bascinet with Aventail1,12,{'head_armor': 44}
+1356,bascinet_3_skin,Bascinet with Nose Guard1,12,{'head_armor': 45}
+1357,great_helmet_skin,Great Helmet1,12,{'head_armor': 53}
+1358,great_helmet_skin1,Great Helmet2,12,{'head_armor': 53}
+1359,great_helmet_skin2,Great Helmet3,12,{'head_armor': 53}
+1360,great_helmet_skin3,Great Helmet4,12,{'head_armor': 53}
+1361,great_helmet_skin4,Great Helmet5,12,{'head_armor': 53}
+1362,great_helmet_skin5,Great Helmet6,12,{'head_armor': 53}
+1363,great_helmet_skin6,Great Helmet7,12,{'head_armor': 53}
+1364,great_helmet_skin7,Great Helmet8,12,{'head_armor': 53}
+1365,great_helmet_skin8,Great Helmet9,12,{'head_armor': 53}
+1366,great_helmet_skin9,Great Helmet10,12,{'head_armor': 53}
+1367,great_helmet_skin10,Great Helmet11,12,{'head_armor': 53}
+1368,great_helmet_skin11,Great Helmet12,12,{'head_armor': 53}
+1369,great_helmet_skin12,Great Helmet13,12,{'head_armor': 53}
+1370,great_helmet_skin13,Great Helmet14,12,{'head_armor': 53}
+1371,great_helmet_skin14,Great Helmet15,12,{'head_armor': 53}
+1372,great_helmet_skin15,Great Helmet16,12,{'head_armor': 53}
+1373,great_helmet_skin16,Great Helmet17,12,{'head_armor': 53}
+1374,great_helmet_skin17,Great Helmet18,12,{'head_armor': 53}
+1375,great_helmet_skin18,Great Helmet19,12,{'head_armor': 53}
+1376,great_helmet_skin19,Great Helmet20,12,{'head_armor': 53}
+1377,great_helmet_skin20,Great Helmet21,12,{'head_armor': 53}
+1378,great_helmet_skin21,Great Helmet22,12,{'head_armor': 53}
+1379,great_helmet_skin22,Great Helmet23,12,{'head_armor': 53}
+1380,great_helmet_skin23,Great Helmet24,12,{'head_armor': 53}
+1381,great_helmet_skin24,Great Helmet25,12,{'head_armor': 53}
+1382,great_helmet_skin25,Great Helmet26,12,{'head_armor': 53}
+1383,great_helmet_skin26,Great Helmet27,12,{'head_armor': 53}
+1384,great_helmet_skin27,Great Helmet28,12,{'head_armor': 53}
+1385,great_helmet_skin28,Great Helmet29,12,{'head_armor': 53}
+1386,great_helmet_skin29,Great Helmet30,12,{'head_armor': 53}
+1387,great_helmet_skin30,Great Helmet31,12,{'head_armor': 53}
+1388,great_helmet_skin30_open,Great Helmet31 open,12,{'head_armor': 53}
+1389,great_helmet_skin31,Great Helmet32,12,{'head_armor': 53}
+1390,great_helmet_skin31_open,Great Helmet32 open,12,{'head_armor': 53}
+1391,great_helmet_skin32,Great Helmet33,12,{'head_armor': 53}
+1392,great_helmet_skin33,Great Helmet34,12,{'head_armor': 53}
+1393,great_helmet_skin34,Great Helmet35,12,{'head_armor': 53}
+1394,full_helm_skin,Full Helm1,12,{'head_armor': 51}
+1395,full_helm_skin1,Full Helm2,12,{'head_armor': 51}
+1396,full_helm_skin2,Full Helm3,12,{'head_armor': 51}
+1397,full_helm_skin3,Full Helm4,12,{'head_armor': 51}
+1398,full_helm_skin4,Full Helm5,12,{'head_armor': 51}
+1399,full_helm_skin5,Full Helm6,12,{'head_armor': 51}
+1400,full_helm_skin6,Full Helm7,12,{'head_armor': 51}
+1401,full_helm_skin7,Full Helm8,12,{'head_armor': 51}
+1402,full_helm_skin8,Full Helm9,12,{'head_armor': 51}
+1403,full_helm_skin9,Full Helm10,12,{'head_armor': 51}
+1404,full_helm_skin10,Full Helm11,12,{'head_armor': 51}
+1405,mail_boots_skin1,Mail Boots2,14,{'leg_armor': 31}
+1406,iron_greaves_skin,Iron Greaves1,14,{'leg_armor': 33}
+1407,strange_armor_skin,Strange Armor1,13,{'leg_armor': 18, 'body_armor': 48}
+1408,strange_boots_skin,Strange Boots1,14,{'leg_armor': 31}
+1409,strange_helmet_skin,Strange Helmet1,12,{'head_armor': 50}
+1410,gauntlets_skin1,Strange Gauntlets,15,{'body_armor': 7}
+1411,huntdog_helmet,Huntdog Helmet,12,{'head_armor': 35}
+1412,huntdog_helmet_open,Huntdog Helmet open,12,{'head_armor': 35}
+1413,huntdog_brigandine,Huntdog Brigandine,13,{'leg_armor': 12, 'body_armor': 43}
+1414,huntdog_mail_boots,Huntdog Mail Boots,14,{'leg_armor': 29}
+1415,bear_armor,Bear Armor,13,{'leg_armor': 12, 'body_armor': 43}
+1416,bear_gauntlets,Bear Gauntlets,15,{'body_armor': 7}
+1417,bear_boots,Bear Boots,14,{'leg_armor': 29}
+1418,black_plate_helmet,Black Plate Helmet,12,{'head_armor': 55}
+1419,black_plate_armor,Black Plate Armor,13,{'leg_armor': 18, 'body_armor': 57}
+1420,black_plate_greaves,Black Plate Greaves,14,{'leg_armor': 35}
+1421,black_plate_gauntlets,Black Plate Gauntlets,15,{'body_armor': 7}
+1422,light_charger,Light Charger,1,{'maneuver': 48, 'armor': 33, 'HP': 165, 'difficulty': 3, 'charge': 23, 'speed': 48}
+1423,plated_charger_skin1,Plated Charger2,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1424,plated_charger_skin2,Plated Charger3,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1425,plated_charger_skin4,Plated Charger5,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1426,warhorse_skin,War Horse1,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1427,warhorse_skin1,War Horse2,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1428,warhorse_skin2,War Horse3,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1429,warhorse_skin3,War Horse4,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1430,warhorse_skin4,War Horse5,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1431,warhorse_skin5,War Horse6,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1432,warhorse_skin6,War Horse7,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1433,warhorse_skin7,War Horse8,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1434,warhorse_skin8,War Horse9,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1435,warhorse_skin9,War Horse10,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1436,warhorse_skin10,War Horse11,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1437,warhorse_skin11,War Horse12,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1438,warhorse_skin12,War Horse13,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1439,warhorse_skin13,War Horse14,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1440,warhorse_skin14,War Horse15,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1441,warhorse_skin15,War Horse16,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1442,warhorse_skin16,War Horse17,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1443,warhorse_skin17,War Horse18,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1444,warhorse_skin18,War Horse19,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1445,warhorse_skin19,War Horse20,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1446,warhorse_skin20,War Horse21,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1447,warhorse_skin21,War Horse22,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1448,warhorse_skin22,War Horse23,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1449,warhorse_skin23,War Horse24,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1450,warhorse_skin24,War Horse25,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1451,warhorse_skin25,War Horse26,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1452,warhorse_skin26,War Horse27,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1453,warhorse_skin27,War Horse28,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1454,warhorse_skin28,War Horse29,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1455,warhorse_skin29,War Horse30,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1456,warhorse_skin30,War Horse31,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1457,warhorse_skin31,War Horse32,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1458,warhorse_skin32,War Horse33,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1459,warhorse_skin33,War Horse34,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1460,warhorse_skin34,War Horse35,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1461,warhorse_skin35,War Horse36,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1462,warhorse_skin36,War Horse37,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1463,warhorse_skin37,War Horse38,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1464,warhorse_skin38,War Horse39,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1465,warhorse_skin39,War Horse40,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1466,warhorse_skin40,War Horse41,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1467,warhorse_skin41,War Horse42,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1468,warhorse_skin42,War Horse43,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1469,warhorse_skin43,War Horse44,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1470,warhorse_skin44,War Horse45,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1471,warhorse_skin45,War Horse46,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1472,warhorse_skin46,War Horse47,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1473,warhorse_skin47,War Horse48,1,{'maneuver': 41, 'armor': 40, 'HP': 165, 'difficulty': 4, 'charge': 28, 'speed': 44}
+1474,warhorse_sarranid_skin,Steppe War Horse1,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1475,warhorse_sarranid_skin1,Steppe War Horse2,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1476,warhorse_sarranid_skin2,Steppe War Horse3,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1477,warhorse_sarranid_skin3,Steppe War Horse4,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1478,warhorse_sarranid_skin4,Steppe War Horse5,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1479,warhorse_sarranid_skin5,Steppe War Horse6,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1480,warhorse_sarranid_skin6,Steppe War Horse7,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1481,warhorse_sarranid_skin7,Steppe War Horse8,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1482,warhorse_sarranid_skin8,Steppe War Horse9,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1483,warhorse_sarranid_skin9,Steppe War Horse10,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1484,warhorse_sarranid_skin10,Steppe War Horse11,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1485,warhorse_sarranid_skin11,Steppe War Horse12,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1486,warhorse_sarranid_skin12,Steppe War Horse13,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1487,warhorse_sarranid_skin13,Steppe War Horse14,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1488,warhorse_sarranid_skin14,Steppe War Horse15,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1489,warhorse_sarranid_skin15,Steppe War Horse16,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1490,warhorse_sarranid_skin16,Steppe War Horse17,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1491,warhorse_sarranid_skin17,Steppe War Horse18,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1492,warhorse_steppe_skin,War Horse1,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1493,warhorse_steppe_skin1,War Horse2,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1494,warhorse_steppe_skin2,War Horse3,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1495,light_charger_skin,Light Charger1,1,{'maneuver': 48, 'armor': 33, 'HP': 165, 'difficulty': 3, 'charge': 23, 'speed': 48}
+1496,light_charger_skin1,Light Charger2,1,{'maneuver': 48, 'armor': 33, 'HP': 165, 'difficulty': 3, 'charge': 23, 'speed': 48}
+1497,light_charger_skin2,Light Charger3,1,{'maneuver': 48, 'armor': 33, 'HP': 165, 'difficulty': 3, 'charge': 23, 'speed': 48}
+1498,light_charger_skin3,Light Charger4,1,{'maneuver': 48, 'armor': 33, 'HP': 165, 'difficulty': 3, 'charge': 23, 'speed': 48}
+1499,light_charger_skin4,Light Charger5,1,{'maneuver': 48, 'armor': 33, 'HP': 165, 'difficulty': 3, 'charge': 23, 'speed': 48}
+1500,charger_skin,Charger1,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1501,charger_skin1,Charger2,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1502,charger_skin2,Charger3,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1503,charger_skin3,Charger4,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1504,charger_skin4,Charger5,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1505,charger_skin5,Charger6,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1506,charger_skin6,Charger7,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1507,charger_skin7,Charger8,1,{'maneuver': 44, 'armor': 58, 'HP': 165, 'difficulty': 4, 'charge': 32, 'speed': 43}
+1508,courser_skin,Courser1,1,{'maneuver': 44, 'armor': 12, 'HP': 110, 'difficulty': 3, 'charge': 12, 'speed': 50}
+1509,cw_plate_falcon_hood,cw_plate_falcon_hood,12,{'head_armor': 53}
+1510,cw_greataxe_adjudgment,cw_greataxe_adjudgment,3,{'thrust': '0p', 'length': 120, 'speed': 89, 'swing': '50c'}
+1511,cw_shhuzhi_shield,cw_shhuzhi_shield,7,{'armor': 30, 'HP': 700, 'weight': 3.5}
+1512,cw_yanyuedao,cw_yanyuedao,4,{'thrust': '20p', 'length': 173, 'speed': 87, 'swing': '37c'}
+1513,cw_knight_mace,cw_knight_mace,2,{'thrust': '0p', 'length': 88, 'speed': 96, 'swing': '35b'}
+1514,cw_ba_knight_long_axe,cw_ba_knight_long_axe,2,{'thrust': '0p', 'length': 89, 'speed': 100, 'swing': '37c'}
+1515,cw_gudar_fist_x,cw_gudar_fist_x,3,{'thrust': '0p', 'length': 121, 'speed': 60, 'swing': '45b'}
+1516,cw_corprus_flamberg,cw_corprus_flamberg,3,{'thrust': '33p', 'length': 125, 'speed': 98, 'swing': '43c'}
+1517,cw_ironcramp_staff,cw_ironcramp_staff,4,{'thrust': '28b', 'length': 140, 'speed': 98, 'swing': '29b'}
+1518,cw_trtd,cw_trtd,2,{'thrust': '0p', 'length': 101, 'speed': 116, 'swing': '39c'}
+1519,cw_falcon_heavy_lance,cw_falcon_heavy_lance,4,{'thrust': '38p', 'length': 190, 'speed': 70, 'swing': '0c'}
+1520,cw_falcon_kite_shield,cw_falcon_kite_shield,7,{'armor': 30, 'HP': 640, 'weight': 2.5}
+1521,cw_galloping_rainbow,cw_galloping_rainbow,1,{'maneuver': 47, 'armor': 42, 'HP': 175, 'difficulty': 4, 'charge': 28, 'speed': 55}
+1522,cw_giant_dargon,cw_giant_dargon,1,{'maneuver': 47, 'armor': 42, 'HP': 175, 'difficulty': 4, 'charge': 28, 'speed': 55}
+1523,cw_courser_dh_armor,cw_courser_dh_armor,1,{'maneuver': 45, 'armor': 60, 'HP': 205, 'difficulty': 4, 'charge': 40, 'speed': 40}
+1524,cw_iron_pagoda,cw_iron_pagoda,1,{'maneuver': 42, 'armor': 63, 'HP': 210, 'difficulty': 4, 'charge': 40, 'speed': 38}
+1525,cw_helm_invisible,cw_helm_invisible,12,{'head_armor': 50}
+1526,cw_armor8,cw_Assassin_Leather,13,{'leg_armor': 13, 'body_armor': 37}
+1527,cw_assassin_gloves,cw_Assassin_Gloves,15,{'body_armor': 3}
+1528,cw_boot7,cw_Assassin_Boots,14,{'leg_armor': 20}
+1529,cw_dmsg_steel_armor,cw_Damascus_Steel_Armor,13,{'leg_armor': 20, 'body_armor': 60}
+1530,cw_dmsg_steel_greaves,cw_Damascus_Steel_Greaves,14,{'leg_armor': 38}
+1531,cw_dmsg_steel_gauntlets,cw_Damascus_Steel_Gauntlets,15,{'body_armor': 7}
+1532,cw_kof_cpt_helm,cw_Knight_of_Freedom's_Helmet,12,{'head_armor': 55}
+1533,cw_kof_cpt_armor,cw_kof_cpt_armor,13,{'leg_armor': 18, 'body_armor': 57}
+1534,cw_kof_cpt_gauntlets,cw_Knight_Gauntlets,15,{'body_armor': 12}
+1535,cw_kof_cpt_greaves,cw_Knight_of_Freedom's_Greaves,14,{'leg_armor': 35}
+1536,cw_plate_falcon,cw_Falcon_Armor,13,{'leg_armor': 16, 'body_armor': 55}
+1537,cw_plate_boots_falcon,cw_Plate_boots_falcon,14,{'leg_armor': 35}
+1538,cw_falcon_gauntlets,cw_Falcon_Gauntlets,15,{'body_armor': 11}
+1539,cw_leader_helmet,cw_Leader_Helmet,12,{'head_armor': 50}
+1540,cw_armor12,cw_Knight_FullArmore,13,{'leg_armor': 16, 'body_armor': 55}
+1541,cw_knight_gauntlets_qs,cw_knight_gauntlets_qs,15,{'body_armor': 12}
+1542,cw_boot3,cw_boot3,14,{'leg_armor': 34}
+1543,cw_steppe_cap_heavy,cw_steppe_cap_heavy,12,{'head_armor': 54}
+1544,cw_steppe_mask_heavy,cw_steppe_mask_heavy,12,{'head_armor': 55}
+1545,cw_lamellar_armor_dc,cw_Heavy_Lamellar_Armor,13,{'leg_armor': 18, 'body_armor': 53}
+1546,cw_steppe_glove_hav,cw_Steppe_Gauntlets,15,{'body_armor': 5}
+1547,cw_nanguatou_had,cw_nanguatou_had,12,{'head_armor': 10}
+1548,cw_nanhguabis,cw_nanhguabis,2,{'thrust': '5b', 'length': 20, 'speed': 60, 'swing': '5b'}
+1549,all_items_end,all_items_end,0,{}
+1550,pointer_arrow,pointer_arrow,0,{}
+1551,animal_herd_manager,animal_herd_manager,0,{}
+1552,animal_carcass,animal_carcass,0,{}
+1553,agent_corpse,agent_corpse,0,{}
+1554,corpses_end,corpses_end,0,{}

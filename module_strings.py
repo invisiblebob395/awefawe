@@ -930,7 +930,7 @@ Poisonous herbs can also sometimes be found, which are then applied to the blade
   ("http_s1_password_s2_id_reg1_uid_reg2_name_s3", "http://{s1}/checkplayer.php?password={s2}&id={reg1}&uid={reg2}&name={s3}"),
   ("http_s0_admin", "{s0}&admin"),
   ("name_server", "localhost/pwnameserver"),
-  ("name_server_password", "WD915Kyi18"),
+  ("name_server_password", "0v0v0XxAsdg"),
 
   #GGG:new
   ("take_a_seat", "Sit"),

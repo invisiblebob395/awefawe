@@ -1,4 +1,4 @@
-180
+182
 qstr_http://localhost/bac http://localhost/backendDsDvC/loadprivatechest.php?playerid={reg53}&guid={reg54}
 qstr_This_chest_is_using_ This_chest_is_using_now,_please_wait_a_minute.
 qstr_0 0
@@ -161,6 +161,8 @@ qstr_You_got_banned_perma You_got_banned_permanently!
 qstr_http://localhost/backendDsDvC/reco http://localhost/backendDsDvC/record.php?guid={reg1}&name={s2}&admin={s1}&type=Kill
 qstr_http://localhost/backendDsDvC/recor http://localhost/backendDsDvC/record.php?guid={reg1}&name={s2}&admin={s1}&type=Fade
 qstr_You_refilled_the_sto You_refilled_the_stock_count_with_10!
+qstr_/stock /stock
+qstr_/speed /speed
 qstr_http://localhost/backendDsDvC/lo http://localhost/backendDsDvC/loadfaction.php?faction={reg20}
 qstr_http://localhost/backendDsDvC/loa http://localhost/backendDsDvC/loadfaction.php?faction={reg21}
 qstr_http://localhost/backendDsDvC/load http://localhost/backendDsDvC/loadfaction.php?faction={reg22}

@@ -139,6 +139,8 @@ slot_player_knights                   = 106
 slot_player_check_passed			  = 107
 slot_player_initialized				  = 108
 slot_player_battle_time				  = 109
+slot_player_horse_skin				  = 110
+slot_player_last_attacked_by		  = 111
 ########################################################
 ##  AGENT SLOTS            #############################
 ########################################################

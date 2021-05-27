@@ -575,7 +575,7 @@ str_kicked_not_registered Kicked_since_not_registered_for_this_server.
 str_http_s1_password_s2_id_reg1_uid_reg2_name_s3 http://{s1}/checkplayer.php?password={s2}&id={reg1}&uid={reg2}&name={s3}
 str_http_s0_admin {s0}&admin
 str_name_server localhost/pwnameserver
-str_name_server_password WD915Kyi18
+str_name_server_password 0v0v0XxAsdg
 str_take_a_seat Sit
 str_clean_your_sin Cost_5000_dnr_to_clean_1_point_of_outlaw_rating
 str_you_were_arrested You_were_arrested.
